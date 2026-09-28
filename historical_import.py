@@ -5,6 +5,7 @@ LEAGUE_ID=os.getenv("ESPN_LEAGUE_ID","1724229206")
 MID_LEAGUE_ID=os.getenv("MID_ESPN_LEAGUE_ID","704863106")
 OLD_LEAGUE_ID=os.getenv("OLD_ESPN_LEAGUE_ID","746360760")
 CURRENT=int(os.getenv("ESPN_SEASON","2026"))
+# Authenticated historical archive refresh trigger
 VIEWS=["mTeam","mRoster","mMatchup","mMatchupScore","mSettings","mBoxscore","mStatus","mTransactions2"]
 OUT=Path("data/historical"); OUT.mkdir(parents=True,exist_ok=True)
 
