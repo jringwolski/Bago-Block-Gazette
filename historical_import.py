@@ -2,6 +2,7 @@ import json, os, requests
 from pathlib import Path
 
 LEAGUE_ID=os.getenv("ESPN_LEAGUE_ID","1724229206")
+MID_LEAGUE_ID=os.getenv("MID_ESPN_LEAGUE_ID","704863106")
 OLD_LEAGUE_ID=os.getenv("OLD_ESPN_LEAGUE_ID","746360760")
 CURRENT=int(os.getenv("ESPN_SEASON","2026"))
 VIEWS=["mTeam","mRoster","mMatchup","mMatchupScore","mSettings","mBoxscore","mStatus","mTransactions2"]
@@ -36,21 +37,37 @@ def owner_map(d,year):
     return rows
 
 def main():
-    manifest={"leagueIds":{"current":LEAGUE_ID,"legacy":OLD_LEAGUE_ID},"currentSeason":CURRENT,"seasons":[],"notes":[]}
+    manifest={"leagueIds":{"v3":LEAGUE_ID,"bago_block":MID_LEAGUE_ID,"lake_country_village":OLD_LEAGUE_ID},"currentSeason":CURRENT,"seasons":[],"notes":[]}
     identities=[]
-    # v3 covers the current era; the recovered Lake Country Village league ID is probed for earlier seasons.
-    targets=[(LEAGUE_ID, range(CURRENT,2024,-1)), (OLD_LEAGUE_ID, range(2024,2009,-1))]
-    for league_id, years in targets:
-      for year in years:
-        try:
-            d=fetch(year, league_id)
-            if not d.get("teams"): raise ValueError("no teams")
-            p=OUT/str(year); p.mkdir(parents=True,exist_ok=True)
-            (p/"league.json").write_text(json.dumps(d,indent=2),encoding="utf-8")
-            manifest["seasons"].append({"season":year,"leagueId":league_id,"teams":len(d.get("teams",[])),"matchups":len(d.get("schedule",[]))})
-            identities.extend(owner_map(d,year))
-        except Exception as e:
-            manifest["notes"].append(f"{year} league {league_id}: {type(e).__name__}: {e}")
+    # Recovered ESPN lineage:
+    # 2025-26 Bago Block v3 = 1724229206
+    # 2023 Bago Block = 704863106
+    # 2021 Lake Country Village = 746360760
+    # Probe the likely ID first for each season, then fall back to the other recovered IDs.
+    candidates = {
+        2026: [LEAGUE_ID],
+        2025: [LEAGUE_ID],
+        2024: [MID_LEAGUE_ID, OLD_LEAGUE_ID],
+        2023: [MID_LEAGUE_ID, OLD_LEAGUE_ID],
+        2022: [OLD_LEAGUE_ID, MID_LEAGUE_ID],
+        2021: [OLD_LEAGUE_ID, MID_LEAGUE_ID],
+    }
+    for year in range(CURRENT, 2020, -1):
+        found=False
+        for league_id in candidates.get(year, [LEAGUE_ID, MID_LEAGUE_ID, OLD_LEAGUE_ID]):
+            try:
+                d=fetch(year, league_id)
+                if not d.get("teams"): raise ValueError("no teams")
+                p=OUT/str(year); p.mkdir(parents=True,exist_ok=True)
+                (p/"league.json").write_text(json.dumps(d,indent=2),encoding="utf-8")
+                manifest["seasons"].append({"season":year,"leagueId":league_id,"teams":len(d.get("teams",[])),"matchups":len(d.get("schedule",[]))})
+                identities.extend(owner_map(d,year))
+                found=True
+                break
+            except Exception as e:
+                manifest["notes"].append(f"{year} league {league_id}: {type(e).__name__}: {e}")
+        if not found:
+            manifest["notes"].append(f"{year}: no recovered league ID returned a usable season")
     manifest["seasons"].sort(key=lambda x:x["season"])
     (OUT/"manifest.json").write_text(json.dumps(manifest,indent=2),encoding="utf-8")
     (OUT/"owner_identity_raw.json").write_text(json.dumps(identities,indent=2),encoding="utf-8")
