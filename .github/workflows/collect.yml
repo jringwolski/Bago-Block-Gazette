@@ -53,6 +53,8 @@ jobs:
         env:
           ESPN_LEAGUE_ID: "1724229206"
           ESPN_SEASON: "2026"
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          SWID: ${{ secrets.SWID }}
         run: |
           python historical_import.py
           python build_all_time.py
