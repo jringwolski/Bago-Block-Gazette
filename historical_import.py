@@ -49,8 +49,8 @@ def main():
         2025: [LEAGUE_ID],
         2024: [MID_LEAGUE_ID, OLD_LEAGUE_ID],
         2023: [MID_LEAGUE_ID, OLD_LEAGUE_ID],
-        2022: [OLD_LEAGUE_ID, MID_LEAGUE_ID],
-        2021: [OLD_LEAGUE_ID, MID_LEAGUE_ID],
+        2022: [OLD_LEAGUE_ID],
+        2021: [OLD_LEAGUE_ID],
     }
     for year in range(CURRENT, 2020, -1):
         found=False
