@@ -11,7 +11,7 @@ on:
       - "build_awards.py"
       - "build_history.py"
       - "analyze_week.py"
-      - "build_site.py"
+      - "build_site.py"\n      - "build_week_details.py"
       - "requirements.txt"
   schedule:
     - cron: "0 14 * * 2"
