@@ -1,7 +1,16 @@
 name: Build Bago Block Gazette
 
 on:
-  workflow_dispatch:\n    inputs:\n      historical_import:\n        description: 'Import all ESPN historical seasons'\n        required: false\n        default: 'false'\n        type: choice\n        options:\n          - 'false'\n          - 'true'
+  workflow_dispatch:
+    inputs:
+      historical_import:
+        description: Import all ESPN historical seasons
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
   push:
     branches:
       - main
@@ -9,13 +18,19 @@ on:
       - .github/workflows/collect.yml
       - collector.py
       - generate_gazette.py
+      - generate_monday_preview.py
       - build_awards.py
       - build_history.py
+      - build_all_time.py
+      - historical_import.py
       - analyze_week.py
       - build_week_details.py
       - build_site.py
-      - requirements.txt\n      - historical_import.py\n      - build_all_time.py
+      - requirements.txt
   schedule:
+    # Monday morning Sunday-wrap edition: 13:00 UTC = 8 AM CDT / 7 AM CST
+    - cron: "0 13 * * 1"
+    # Tuesday final edition after MNF: 14:00 UTC = 9 AM CDT / 8 AM CST
     - cron: "0 14 * * 2"
 
 permissions:
@@ -24,42 +39,45 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
       - name: Install dependencies
         run: pip install -r requirements.txt
-
-      - name: One-time historical archive\n        if: github.event_name == 'workflow_dispatch' && inputs.historical_import == 'true'\n        env:\n          ESPN_LEAGUE_ID: '1724229206'\n          ESPN_SEASON: '2026'\n        run: |\n          python historical_import.py\n          python build_all_time.py\n\n      - name: Collect ESPN data
+      - name: One-time historical archive
+        if: github.event_name == 'workflow_dispatch' && inputs.historical_import == 'true'
+        env:
+          ESPN_LEAGUE_ID: "1724229206"
+          ESPN_SEASON: "2026"
+        run: |
+          python historical_import.py
+          python build_all_time.py
+      - name: Collect ESPN data
         env:
           ESPN_LEAGUE_ID: "1724229206"
           ESPN_SEASON: "2026"
         run: python collector.py
-
-      - name: Analyze league
+      - name: Build Monday morning edition
+        if: github.event_name == 'schedule' && github.event.schedule == '0 13 * * 1'
+        run: python generate_monday_preview.py
+      - name: Build final weekly analysis
+        if: github.event_name != 'schedule' || github.event.schedule == '0 14 * * 2'
         run: |
           python build_awards.py
           python build_history.py
           python analyze_week.py
           python build_week_details.py
-
-      - name: Generate Gazette
-        run: |
           python generate_gazette.py
           python build_site.py
-
-      - name: Commit Gazette database and publication
+      - name: Commit publication
         run: |
           git config user.name "bago-block-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/ gazette/ site/
           git diff --cached --quiet && exit 0
-          git commit -m "Publish weekly Bago Block Gazette"
+          git commit -m "Publish Bago Block Gazette"
           git push
