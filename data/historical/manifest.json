@@ -7,6 +7,30 @@
   "currentSeason": 2026,
   "seasons": [
     {
+      "season": 2021,
+      "leagueId": "746360760",
+      "teams": 14,
+      "matchups": 119
+    },
+    {
+      "season": 2022,
+      "leagueId": "746360760",
+      "teams": 14,
+      "matchups": 119
+    },
+    {
+      "season": 2023,
+      "leagueId": "704863106",
+      "teams": 12,
+      "matchups": 103
+    },
+    {
+      "season": 2024,
+      "leagueId": "704863106",
+      "teams": 12,
+      "matchups": 103
+    },
+    {
       "season": 2025,
       "leagueId": "1724229206",
       "teams": 12,
@@ -19,16 +43,5 @@
       "matchups": 84
     }
   ],
-  "notes": [
-    "2024 league 704863106: HTTPError: 401 Client Error:  for url: https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/2024/segments/0/leagues/704863106?view=mTeam&view=mRoster&view=mMatchup&view=mMatchupScore&view=mSettings&view=mBoxscore&view=mStatus&view=mTransactions2",
-    "2024 league 746360760: HTTPError: 404 Client Error:  for url: https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/2024/segments/0/leagues/746360760?view=mTeam&view=mRoster&view=mMatchup&view=mMatchupScore&view=mSettings&view=mBoxscore&view=mStatus&view=mTransactions2",
-    "2024: no recovered league ID returned a usable season",
-    "2023 league 704863106: HTTPError: 401 Client Error:  for url: https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/2023/segments/0/leagues/704863106?view=mTeam&view=mRoster&view=mMatchup&view=mMatchupScore&view=mSettings&view=mBoxscore&view=mStatus&view=mTransactions2",
-    "2023 league 746360760: HTTPError: 404 Client Error:  for url: https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/2023/segments/0/leagues/746360760?view=mTeam&view=mRoster&view=mMatchup&view=mMatchupScore&view=mSettings&view=mBoxscore&view=mStatus&view=mTransactions2",
-    "2023: no recovered league ID returned a usable season",
-    "2022 league 746360760: HTTPError: 401 Client Error:  for url: https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/2022/segments/0/leagues/746360760?view=mTeam&view=mRoster&view=mMatchup&view=mMatchupScore&view=mSettings&view=mBoxscore&view=mStatus&view=mTransactions2",
-    "2022: no recovered league ID returned a usable season",
-    "2021 league 746360760: HTTPError: 401 Client Error:  for url: https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/2021/segments/0/leagues/746360760?view=mTeam&view=mRoster&view=mMatchup&view=mMatchupScore&view=mSettings&view=mBoxscore&view=mStatus&view=mTransactions2",
-    "2021: no recovered league ID returned a usable season"
-  ]
+  "notes": []
 }
