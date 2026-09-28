@@ -69,6 +69,7 @@ jobs:
       - name: Build final weekly analysis
         if: github.event_name != 'schedule' || github.event.schedule == '0 14 * * 2'
         run: |
+          python generate_monday_preview.py
           python build_awards.py
           python build_history.py
           python analyze_week.py
