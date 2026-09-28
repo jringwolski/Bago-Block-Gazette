@@ -1,27 +1,40 @@
 name: Build Bago Block Gazette
+
 on:
   workflow_dispatch:
   schedule:
-    # Tuesday 7:30 AM Central during daylight time; 6:30 AM after DST ends.
-    - cron: "30 12 * * 2"
+    - cron: "0 14 * * 2"
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Collect ESPN data
         env:
           ESPN_LEAGUE_ID: "1724229206"
           ESPN_SEASON: "2026"
         run: python collector.py
+
+      - name: Build awards and history
+        run: |
+          python build_awards.py
+          python build_history.py
+
       - name: Generate Gazette
-        run: |\n          python build_awards.py\n          python build_history.py\n          python generate_gazette.py
+        run: python generate_gazette.py
+
       - name: Commit data and Gazette
         run: |
           git config user.name "bago-block-bot"
