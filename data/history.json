@@ -1,0 +1,130 @@
+{
+  "games": [
+    {
+      "season": "2026",
+      "week": 1,
+      "home": "Kyle Strandberg",
+      "home_score": 100.86,
+      "away": "Snack Dadddy",
+      "away_score": 121.5
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "home": "Ian's Impressive Team",
+      "home_score": 157.46,
+      "away": "Ditka in a Box ",
+      "away_score": 181.46
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "home": "Rob's Remarkable Team",
+      "home_score": 122.3,
+      "away": "Scrote Squad",
+      "away_score": 104.96
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "home": "Daejon's Cut List ",
+      "home_score": 170.06,
+      "away": "Big Ol Tuddies",
+      "away_score": 108.84
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "home": "Ulm FC",
+      "home_score": 109.54,
+      "away": "Witness",
+      "away_score": 115.9
+    },
+    {
+      "season": "2026",
+      "week": 1,
+      "home": "RBU",
+      "home_score": 138.1,
+      "away": "Tush Touching",
+      "away_score": 99.22
+    },
+    {
+      "season": "2026",
+      "week": 2,
+      "home": "Snack Dadddy",
+      "home_score": 84.86,
+      "away": "Ditka in a Box ",
+      "away_score": 103.12
+    },
+    {
+      "season": "2026",
+      "week": 2,
+      "home": "Scrote Squad",
+      "home_score": 154.58,
+      "away": "Kyle Strandberg",
+      "away_score": 126.72
+    },
+    {
+      "season": "2026",
+      "week": 2,
+      "home": "Big Ol Tuddies",
+      "home_score": 117.18,
+      "away": "Ian's Impressive Team",
+      "away_score": 115.98
+    },
+    {
+      "season": "2026",
+      "week": 2,
+      "home": "Witness",
+      "home_score": 124.38,
+      "away": "Rob's Remarkable Team",
+      "away_score": 103.28
+    },
+    {
+      "season": "2026",
+      "week": 2,
+      "home": "Tush Touching",
+      "home_score": 112.16,
+      "away": "Daejon's Cut List ",
+      "away_score": 157.6
+    },
+    {
+      "season": "2026",
+      "week": 2,
+      "home": "RBU",
+      "home_score": 88.16,
+      "away": "Ulm FC",
+      "away_score": 120.18
+    }
+  ],
+  "records": {
+    "highest_score": {
+      "team": "Ditka in a Box ",
+      "score": 181.46,
+      "season": "2026",
+      "week": 1
+    },
+    "lowest_score": {
+      "team": "Snack Dadddy",
+      "score": 84.86,
+      "season": "2026",
+      "week": 2
+    },
+    "biggest_blowout": {
+      "season": "2026",
+      "week": 1,
+      "home": "Daejon's Cut List ",
+      "home_score": 170.06,
+      "away": "Big Ol Tuddies",
+      "away_score": 108.84
+    },
+    "closest_game": {
+      "season": "2026",
+      "week": 2,
+      "home": "Big Ol Tuddies",
+      "home_score": 117.18,
+      "away": "Ian's Impressive Team",
+      "away_score": 115.98
+    }
+  }
+}

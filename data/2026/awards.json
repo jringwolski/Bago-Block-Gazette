@@ -1,0 +1,27 @@
+{
+  "week": 2,
+  "game_of_week": {
+    "teams": [
+      "Big Ol Tuddies",
+      "Ian's Impressive Team"
+    ],
+    "margin": 1.2000000000000028
+  },
+  "ass_kicking": {
+    "winner": "Daejon's Cut List ",
+    "victim": "Tush Touching",
+    "margin": 45.44
+  },
+  "high_score": {
+    "team": "Daejon's Cut List ",
+    "score": 157.6
+  },
+  "low_score": {
+    "team": "Snack Dadddy",
+    "score": 84.86
+  },
+  "heartbreaker": {
+    "team": "Ian's Impressive Team",
+    "margin": 1.2000000000000028
+  }
+}

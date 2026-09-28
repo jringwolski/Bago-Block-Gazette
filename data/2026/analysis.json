@@ -1,0 +1,81 @@
+{
+  "week": 2,
+  "teams": {
+    "Snack Dadddy": {
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "points_for": 206.36
+    },
+    "Big Ol Tuddies": {
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "points_for": 226.02
+    },
+    "Daejon's Cut List ": {
+      "wins": 2,
+      "losses": 0,
+      "ties": 0,
+      "points_for": 327.65999999999997
+    },
+    "Tush Touching": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0,
+      "points_for": 211.38
+    },
+    "Ian's Impressive Team": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0,
+      "points_for": 273.44
+    },
+    "Kyle Strandberg": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0,
+      "points_for": 227.57999999999998
+    },
+    "Rob's Remarkable Team": {
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "points_for": 225.57999999999998
+    },
+    "Ditka in a Box ": {
+      "wins": 2,
+      "losses": 0,
+      "ties": 0,
+      "points_for": 284.58000000000004
+    },
+    "Witness": {
+      "wins": 2,
+      "losses": 0,
+      "ties": 0,
+      "points_for": 240.28
+    },
+    "RBU": {
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "points_for": 226.26
+    },
+    "Ulm FC": {
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "points_for": 229.72000000000003
+    },
+    "Scrote Squad": {
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "points_for": 259.54
+    }
+  },
+  "closest": 1.2000000000000028,
+  "largest_margin": 45.44,
+  "league_high": 157.6,
+  "league_low": 84.86
+}
