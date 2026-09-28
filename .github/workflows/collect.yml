@@ -38,7 +38,7 @@ jobs:
         run: |
           python build_awards.py
           python build_history.py
-          python analyze_week.py
+          python analyze_week.py\n          python build_week_details.py
       - name: Generate Gazette
         run: |
           python generate_gazette.py
