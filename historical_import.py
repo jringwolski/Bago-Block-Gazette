@@ -1,61 +1,58 @@
-import json, os, time
+import json, os, requests
 from pathlib import Path
-import requests
 
 LEAGUE_ID=os.getenv("ESPN_LEAGUE_ID","1724229206")
 CURRENT=int(os.getenv("ESPN_SEASON","2026"))
-BASE="https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl"
 VIEWS=["mTeam","mRoster","mMatchup","mMatchupScore","mSettings","mBoxscore","mStatus","mTransactions2"]
+OUT=Path("data/historical"); OUT.mkdir(parents=True,exist_ok=True)
 
-def get(url, params):
-    r=requests.get(url,params=params,timeout=45,headers={"User-Agent":"Bago-Block-Gazette/1.0"})
-    r.raise_for_status()
-    return r.json()
+def cookies():
+    c={}
+    if os.getenv("ESPN_S2"): c["espn_s2"]=os.getenv("ESPN_S2")
+    if os.getenv("SWID"): c["SWID"]=os.getenv("SWID")
+    return c
 
-def league(season):
-    url=f"{BASE}/seasons/{season}/segments/0/leagues/{LEAGUE_ID}"
-    return get(url,[("view",v) for v in VIEWS])
+def fetch(year):
+    if year>=2018:
+        url=f"https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/{year}/segments/0/leagues/{LEAGUE_ID}"
+        r=requests.get(url,params=[("view",v) for v in VIEWS],cookies=cookies(),timeout=45)
+    else:
+        url=f"https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/leagueHistory/{LEAGUE_ID}"
+        r=requests.get(url,params=[("seasonId",year)]+[("view",v) for v in VIEWS],cookies=cookies(),timeout=45)
+    r.raise_for_status(); d=r.json()
+    return d[0] if isinstance(d,list) else d
 
-def discover():
-    # Start with current league metadata; ESPN commonly exposes previousSeasons here.
-    cur=league(CURRENT)
-    seasons={CURRENT}
-    prev=(cur.get("status") or {}).get("previousSeasons") or []
-    for x in prev:
-        try: seasons.add(int(x))
-        except: pass
-    # Probe backwards too, stopping after several consecutive misses.
-    misses=0
-    for y in range(CURRENT-1,2009,-1):
-        if y in seasons: continue
-        try:
-            d=league(y)
-            if d.get("teams"):
-                seasons.add(y); misses=0
-            else: misses+=1
-        except requests.HTTPError as e:
-            if e.response is not None and e.response.status_code in (400,401,403,404):
-                misses+=1
-            else: raise
-        if misses>=4 and prev: break
-        time.sleep(.15)
-    return cur,sorted(seasons)
+def owner_map(d,year):
+    members={m.get("id"):m for m in d.get("members",[])}
+    rows=[]
+    for t in d.get("teams",[]):
+        ids=t.get("owners") or ([t.get("primaryOwner")] if t.get("primaryOwner") else [])
+        names=[]
+        for oid in ids:
+            m=members.get(oid,{})
+            names.append(m.get("displayName") or " ".join(x for x in [m.get("firstName"),m.get("lastName")] if x) or oid)
+        rows.append({"season":year,"team_id":t.get("id"),"team_name":t.get("name") or " ".join(x for x in [t.get("location"),t.get("nickname")] if x),"owner_ids":ids,"owner_names":names})
+    return rows
 
 def main():
-    root=Path("data/historical"); root.mkdir(parents=True,exist_ok=True)
-    cur,seasons=discover()
     manifest={"leagueId":LEAGUE_ID,"currentSeason":CURRENT,"seasons":[],"notes":[]}
-    for y in seasons:
+    identities=[]
+    # Probe all modern seasons, plus legacy endpoint for pre-2018.
+    misses=0
+    for year in range(CURRENT,2009,-1):
         try:
-            d=cur if y==CURRENT else league(y)
-            if not d.get("teams"): continue
-            p=root/str(y); p.mkdir(parents=True,exist_ok=True)
+            d=fetch(year)
+            if not d.get("teams"): raise ValueError("no teams")
+            p=OUT/str(year); p.mkdir(parents=True,exist_ok=True)
             (p/"league.json").write_text(json.dumps(d,indent=2),encoding="utf-8")
-            manifest["seasons"].append({"season":y,"teams":len(d.get("teams",[])),"matchups":len(d.get("schedule",[]))})
-            print("Archived",y,len(d.get("teams",[])),"teams")
+            manifest["seasons"].append({"season":year,"teams":len(d.get("teams",[])),"matchups":len(d.get("schedule",[]))})
+            identities.extend(owner_map(d,year)); misses=0
         except Exception as e:
-            manifest["notes"].append(f"{y}: {type(e).__name__}: {e}")
-    (root/"manifest.json").write_text(json.dumps(manifest,indent=2),encoding="utf-8")
-    print("Historical seasons archived:",[x["season"] for x in manifest["seasons"]])
-
+            manifest["notes"].append(f"{year}: {type(e).__name__}: {e}")
+            misses+=1
+            # don't stop early: older league IDs/endpoints can have gaps
+    manifest["seasons"].sort(key=lambda x:x["season"])
+    (OUT/"manifest.json").write_text(json.dumps(manifest,indent=2),encoding="utf-8")
+    (OUT/"owner_identity_raw.json").write_text(json.dumps(identities,indent=2),encoding="utf-8")
+    print(json.dumps(manifest,indent=2))
 if __name__=="__main__": main()
