@@ -21,7 +21,7 @@ jobs:
           ESPN_SEASON: "2026"
         run: python collector.py
       - name: Generate Gazette
-        run: python generate_gazette.py
+        run: |\n          python build_awards.py\n          python build_history.py\n          python generate_gazette.py
       - name: Commit data and Gazette
         run: |
           git config user.name "bago-block-bot"
