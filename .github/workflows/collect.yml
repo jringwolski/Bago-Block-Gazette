@@ -2,6 +2,17 @@ name: Build Bago Block Gazette
 
 on:
   workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/collect.yml"
+      - "collector.py"
+      - "generate_gazette.py"
+      - "build_awards.py"
+      - "build_history.py"
+      - "analyze_week.py"
+      - "build_site.py"
+      - "requirements.txt"
   schedule:
     - cron: "0 14 * * 2"
 
