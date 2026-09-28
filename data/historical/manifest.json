@@ -1,0 +1,19 @@
+{
+  "leagueId": "1724229206",
+  "currentSeason": 2026,
+  "seasons": [
+    {
+      "season": 2025,
+      "teams": 12,
+      "matchups": 103
+    },
+    {
+      "season": 2026,
+      "teams": 12,
+      "matchups": 84
+    }
+  ],
+  "notes": [
+    "2024: HTTPError: 401 Client Error:  for url: https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/2024/segments/0/leagues/1724229206?view=mTeam&view=mRoster&view=mMatchup&view=mMatchupScore&view=mSettings&view=mBoxscore&view=mStatus&view=mTransactions2"
+  ]
+}
