@@ -2,6 +2,7 @@ import json, os, requests
 from pathlib import Path
 
 LEAGUE_ID=os.getenv("ESPN_LEAGUE_ID","1724229206")
+OLD_LEAGUE_ID=os.getenv("OLD_ESPN_LEAGUE_ID","746360760")
 CURRENT=int(os.getenv("ESPN_SEASON","2026"))
 VIEWS=["mTeam","mRoster","mMatchup","mMatchupScore","mSettings","mBoxscore","mStatus","mTransactions2"]
 OUT=Path("data/historical"); OUT.mkdir(parents=True,exist_ok=True)
@@ -12,12 +13,12 @@ def cookies():
     if os.getenv("SWID"): c["SWID"]=os.getenv("SWID")
     return c
 
-def fetch(year):
+def fetch(year, league_id):
     if year>=2018:
-        url=f"https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/{year}/segments/0/leagues/{LEAGUE_ID}"
+        url=f"https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/{year}/segments/0/leagues/{league_id}"
         r=requests.get(url,params=[("view",v) for v in VIEWS],cookies=cookies(),timeout=45)
     else:
-        url=f"https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/leagueHistory/{LEAGUE_ID}"
+        url=f"https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/leagueHistory/{league_id}"
         r=requests.get(url,params=[("seasonId",year)]+[("view",v) for v in VIEWS],cookies=cookies(),timeout=45)
     r.raise_for_status(); d=r.json()
     return d[0] if isinstance(d,list) else d
@@ -35,22 +36,21 @@ def owner_map(d,year):
     return rows
 
 def main():
-    manifest={"leagueId":LEAGUE_ID,"currentSeason":CURRENT,"seasons":[],"notes":[]}
+    manifest={"leagueIds":{"current":LEAGUE_ID,"legacy":OLD_LEAGUE_ID},"currentSeason":CURRENT,"seasons":[],"notes":[]}
     identities=[]
-    # Probe all modern seasons, plus legacy endpoint for pre-2018.
-    misses=0
-    for year in range(CURRENT,2009,-1):
+    # v3 covers the current era; the recovered Lake Country Village league ID is probed for earlier seasons.
+    targets=[(LEAGUE_ID, range(CURRENT,2024,-1)), (OLD_LEAGUE_ID, range(2024,2009,-1))]
+    for league_id, years in targets:
+      for year in years:
         try:
-            d=fetch(year)
+            d=fetch(year, league_id)
             if not d.get("teams"): raise ValueError("no teams")
             p=OUT/str(year); p.mkdir(parents=True,exist_ok=True)
             (p/"league.json").write_text(json.dumps(d,indent=2),encoding="utf-8")
-            manifest["seasons"].append({"season":year,"teams":len(d.get("teams",[])),"matchups":len(d.get("schedule",[]))})
-            identities.extend(owner_map(d,year)); misses=0
+            manifest["seasons"].append({"season":year,"leagueId":league_id,"teams":len(d.get("teams",[])),"matchups":len(d.get("schedule",[]))})
+            identities.extend(owner_map(d,year))
         except Exception as e:
-            manifest["notes"].append(f"{year}: {type(e).__name__}: {e}")
-            misses+=1
-            # don't stop early: older league IDs/endpoints can have gaps
+            manifest["notes"].append(f"{year} league {league_id}: {type(e).__name__}: {e}")
     manifest["seasons"].sort(key=lambda x:x["season"])
     (OUT/"manifest.json").write_text(json.dumps(manifest,indent=2),encoding="utf-8")
     (OUT/"owner_identity_raw.json").write_text(json.dumps(identities,indent=2),encoding="utf-8")
