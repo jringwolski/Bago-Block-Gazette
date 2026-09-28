@@ -1,130 +1,5538 @@
 {
   "games": [
     {
-      "season": "2026",
+      "season": 2021,
+      "week": 1,
+      "home": "Team Lindner",
+      "home_score": 106.08,
+      "away": "Team Strandberg",
+      "away_score": 127.08,
+      "margin": 21.0
+    },
+    {
+      "season": 2021,
+      "week": 1,
+      "home": "Yahara Nate K",
+      "home_score": 92.08,
+      "away": "Team Freckmann",
+      "away_score": 84.26,
+      "margin": 7.819999999999993
+    },
+    {
+      "season": 2021,
+      "week": 1,
+      "home": "Team Dahms",
+      "home_score": 119.3,
+      "away": "Team Ulm",
+      "away_score": 150.34,
+      "margin": 31.040000000000006
+    },
+    {
+      "season": 2021,
+      "week": 1,
+      "home": "Team Holzwart",
+      "home_score": 115.86,
+      "away": "The  Carndogs",
+      "away_score": 122.84,
+      "margin": 6.980000000000004
+    },
+    {
+      "season": 2021,
+      "week": 1,
+      "home": "Team Maurer",
+      "home_score": 130.2,
+      "away": "Winnie Court Keepers",
+      "away_score": 108.98,
+      "margin": 21.219999999999985
+    },
+    {
+      "season": 2021,
+      "week": 1,
+      "home": "Team Cerroni",
+      "home_score": 82.82,
+      "away": "Brady\u2019s Got Back",
+      "away_score": 148.56,
+      "margin": 65.74000000000001
+    },
+    {
+      "season": 2021,
+      "week": 1,
+      "home": "Mendota Mafia",
+      "home_score": 134.2,
+      "away": "Bago TDs and beer",
+      "away_score": 134.66,
+      "margin": 0.46000000000000796
+    },
+    {
+      "season": 2021,
+      "week": 2,
+      "home": "Team Freckmann",
+      "home_score": 133.2,
+      "away": "Team Ulm",
+      "away_score": 102.22,
+      "margin": 30.97999999999999
+    },
+    {
+      "season": 2021,
+      "week": 2,
+      "home": "The  Carndogs",
+      "home_score": 143.18,
+      "away": "Team Lindner",
+      "away_score": 167.52,
+      "margin": 24.340000000000003
+    },
+    {
+      "season": 2021,
+      "week": 2,
+      "home": "Winnie Court Keepers",
+      "home_score": 107.12,
+      "away": "Team Strandberg",
+      "away_score": 129.92,
+      "margin": 22.799999999999983
+    },
+    {
+      "season": 2021,
+      "week": 2,
+      "home": "Brady\u2019s Got Back",
+      "home_score": 93.94,
+      "away": "Yahara Nate K",
+      "away_score": 123.28,
+      "margin": 29.340000000000003
+    },
+    {
+      "season": 2021,
+      "week": 2,
+      "home": "Bago TDs and beer",
+      "home_score": 120.5,
+      "away": "Team Dahms",
+      "away_score": 139.5,
+      "margin": 19.0
+    },
+    {
+      "season": 2021,
+      "week": 2,
+      "home": "Team Cerroni",
+      "home_score": 111.6,
+      "away": "Team Holzwart",
+      "away_score": 122.22,
+      "margin": 10.620000000000005
+    },
+    {
+      "season": 2021,
+      "week": 2,
+      "home": "Mendota Mafia",
+      "home_score": 125.76,
+      "away": "Team Maurer",
+      "away_score": 114.26,
+      "margin": 11.5
+    },
+    {
+      "season": 2021,
+      "week": 3,
+      "home": "The  Carndogs",
+      "home_score": 117.58,
+      "away": "Winnie Court Keepers",
+      "away_score": 119.8,
+      "margin": 2.219999999999999
+    },
+    {
+      "season": 2021,
+      "week": 3,
+      "home": "Team Freckmann",
+      "home_score": 134.34,
+      "away": "Brady\u2019s Got Back",
+      "away_score": 124.08,
+      "margin": 10.260000000000005
+    },
+    {
+      "season": 2021,
+      "week": 3,
+      "home": "Team Ulm",
+      "home_score": 96.62,
+      "away": "Bago TDs and beer",
+      "away_score": 118.24,
+      "margin": 21.61999999999999
+    },
+    {
+      "season": 2021,
+      "week": 3,
+      "home": "Team Lindner",
+      "home_score": 108.04,
+      "away": "Team Cerroni",
+      "away_score": 106.64,
+      "margin": 1.4000000000000057
+    },
+    {
+      "season": 2021,
+      "week": 3,
+      "home": "Team Strandberg",
+      "home_score": 102.6,
+      "away": "Mendota Mafia",
+      "away_score": 126.32,
+      "margin": 23.72
+    },
+    {
+      "season": 2021,
+      "week": 3,
+      "home": "Yahara Nate K",
+      "home_score": 91.02,
+      "away": "Team Holzwart",
+      "away_score": 122.52,
+      "margin": 31.5
+    },
+    {
+      "season": 2021,
+      "week": 3,
+      "home": "Team Dahms",
+      "home_score": 116.34,
+      "away": "Team Maurer",
+      "away_score": 132.88,
+      "margin": 16.539999999999992
+    },
+    {
+      "season": 2021,
+      "week": 4,
+      "home": "Brady\u2019s Got Back",
+      "home_score": 64.56,
+      "away": "Bago TDs and beer",
+      "away_score": 110.28,
+      "margin": 45.72
+    },
+    {
+      "season": 2021,
+      "week": 4,
+      "home": "Team Cerroni",
+      "home_score": 96.82,
+      "away": "The  Carndogs",
+      "away_score": 80.62,
+      "margin": 16.19999999999999
+    },
+    {
+      "season": 2021,
+      "week": 4,
+      "home": "Mendota Mafia",
+      "home_score": 135.02,
+      "away": "Winnie Court Keepers",
+      "away_score": 97.8,
+      "margin": 37.22000000000001
+    },
+    {
+      "season": 2021,
+      "week": 4,
+      "home": "Team Holzwart",
+      "home_score": 143.56,
+      "away": "Team Freckmann",
+      "away_score": 131.98,
+      "margin": 11.580000000000013
+    },
+    {
+      "season": 2021,
+      "week": 4,
+      "home": "Team Maurer",
+      "home_score": 106.44,
+      "away": "Team Ulm",
+      "away_score": 158.4,
+      "margin": 51.96000000000001
+    },
+    {
+      "season": 2021,
+      "week": 4,
+      "home": "Yahara Nate K",
+      "home_score": 120.42,
+      "away": "Team Lindner",
+      "away_score": 94.28,
+      "margin": 26.14
+    },
+    {
+      "season": 2021,
+      "week": 4,
+      "home": "Team Dahms",
+      "home_score": 125.92,
+      "away": "Team Strandberg",
+      "away_score": 116.72,
+      "margin": 9.200000000000003
+    },
+    {
+      "season": 2021,
+      "week": 5,
+      "home": "Team Cerroni",
+      "home_score": 128.18,
+      "away": "Mendota Mafia",
+      "away_score": 123.0,
+      "margin": 5.180000000000007
+    },
+    {
+      "season": 2021,
+      "week": 5,
+      "home": "Brady\u2019s Got Back",
+      "home_score": 135.94,
+      "away": "Team Holzwart",
+      "away_score": 79.88,
+      "margin": 56.06
+    },
+    {
+      "season": 2021,
+      "week": 5,
+      "home": "Bago TDs and beer",
+      "home_score": 112.32,
+      "away": "Team Maurer",
+      "away_score": 152.18,
+      "margin": 39.860000000000014
+    },
+    {
+      "season": 2021,
+      "week": 5,
+      "home": "The  Carndogs",
+      "home_score": 108.04,
+      "away": "Yahara Nate K",
+      "away_score": 119.9,
+      "margin": 11.86
+    },
+    {
+      "season": 2021,
+      "week": 5,
+      "home": "Winnie Court Keepers",
+      "home_score": 151.42,
+      "away": "Team Dahms",
+      "away_score": 122.06,
+      "margin": 29.359999999999985
+    },
+    {
+      "season": 2021,
+      "week": 5,
+      "home": "Team Freckmann",
+      "home_score": 109.52,
+      "away": "Team Lindner",
+      "away_score": 140.72,
+      "margin": 31.200000000000003
+    },
+    {
+      "season": 2021,
+      "week": 5,
+      "home": "Team Ulm",
+      "home_score": 124.3,
+      "away": "Team Strandberg",
+      "away_score": 122.88,
+      "margin": 1.4200000000000017
+    },
+    {
+      "season": 2021,
+      "week": 6,
+      "home": "Team Holzwart",
+      "home_score": 59.7,
+      "away": "Team Maurer",
+      "away_score": 96.98,
+      "margin": 37.28
+    },
+    {
+      "season": 2021,
+      "week": 6,
+      "home": "Yahara Nate K",
+      "home_score": 156.02,
+      "away": "Team Cerroni",
+      "away_score": 109.0,
+      "margin": 47.02000000000001
+    },
+    {
+      "season": 2021,
+      "week": 6,
+      "home": "Team Dahms",
+      "home_score": 102.36,
+      "away": "Mendota Mafia",
+      "away_score": 144.92,
+      "margin": 42.55999999999999
+    },
+    {
+      "season": 2021,
+      "week": 6,
+      "home": "Team Lindner",
+      "home_score": 72.9,
+      "away": "Brady\u2019s Got Back",
+      "away_score": 128.28,
+      "margin": 55.379999999999995
+    },
+    {
+      "season": 2021,
+      "week": 6,
+      "home": "Team Strandberg",
+      "home_score": 127.78,
+      "away": "Bago TDs and beer",
+      "away_score": 133.6,
+      "margin": 5.819999999999993
+    },
+    {
+      "season": 2021,
+      "week": 6,
+      "home": "Team Freckmann",
+      "home_score": 101.68,
+      "away": "The  Carndogs",
+      "away_score": 146.44,
+      "margin": 44.75999999999999
+    },
+    {
+      "season": 2021,
+      "week": 6,
+      "home": "Team Ulm",
+      "home_score": 120.54,
+      "away": "Winnie Court Keepers",
+      "away_score": 142.46,
+      "margin": 21.92
+    },
+    {
+      "season": 2021,
+      "week": 7,
+      "home": "Yahara Nate K",
+      "home_score": 113.0,
+      "away": "Team Dahms",
+      "away_score": 130.04,
+      "margin": 17.039999999999992
+    },
+    {
+      "season": 2021,
+      "week": 7,
+      "home": "Team Holzwart",
+      "home_score": 58.5,
+      "away": "Team Lindner",
+      "away_score": 96.0,
+      "margin": 37.5
+    },
+    {
+      "season": 2021,
+      "week": 7,
+      "home": "Team Maurer",
+      "home_score": 100.48,
+      "away": "Team Strandberg",
+      "away_score": 77.94,
+      "margin": 22.540000000000006
+    },
+    {
+      "season": 2021,
+      "week": 7,
+      "home": "Team Cerroni",
+      "home_score": 131.58,
+      "away": "Team Freckmann",
+      "away_score": 101.74,
+      "margin": 29.840000000000018
+    },
+    {
+      "season": 2021,
+      "week": 7,
+      "home": "Mendota Mafia",
+      "home_score": 97.52,
+      "away": "Team Ulm",
+      "away_score": 111.56,
+      "margin": 14.040000000000006
+    },
+    {
+      "season": 2021,
+      "week": 7,
+      "home": "Brady\u2019s Got Back",
+      "home_score": 125.94,
+      "away": "The  Carndogs",
+      "away_score": 123.04,
+      "margin": 2.8999999999999915
+    },
+    {
+      "season": 2021,
+      "week": 7,
+      "home": "Bago TDs and beer",
+      "home_score": 116.74,
+      "away": "Winnie Court Keepers",
+      "away_score": 110.86,
+      "margin": 5.8799999999999955
+    },
+    {
+      "season": 2021,
+      "week": 8,
+      "home": "Team Strandberg",
+      "home_score": 109.4,
+      "away": "Team Freckmann",
+      "away_score": 101.84,
+      "margin": 7.560000000000002
+    },
+    {
+      "season": 2021,
+      "week": 8,
+      "home": "Team Ulm",
+      "home_score": 148.0,
+      "away": "The  Carndogs",
+      "away_score": 137.66,
+      "margin": 10.340000000000003
+    },
+    {
+      "season": 2021,
+      "week": 8,
+      "home": "Winnie Court Keepers",
+      "home_score": 106.46,
+      "away": "Brady\u2019s Got Back",
+      "away_score": 89.9,
+      "margin": 16.559999999999988
+    },
+    {
+      "season": 2021,
+      "week": 8,
+      "home": "Bago TDs and beer",
+      "home_score": 108.62,
+      "away": "Team Cerroni",
+      "away_score": 96.14,
+      "margin": 12.480000000000004
+    },
+    {
+      "season": 2021,
+      "week": 8,
+      "home": "Mendota Mafia",
+      "home_score": 121.46,
+      "away": "Team Holzwart",
+      "away_score": 42.0,
+      "margin": 79.46
+    },
+    {
+      "season": 2021,
+      "week": 8,
+      "home": "Team Maurer",
+      "home_score": 83.62,
+      "away": "Yahara Nate K",
+      "away_score": 86.96,
+      "margin": 3.339999999999989
+    },
+    {
+      "season": 2021,
+      "week": 8,
+      "home": "Team Dahms",
+      "home_score": 121.36,
+      "away": "Team Lindner",
+      "away_score": 113.94,
+      "margin": 7.420000000000002
+    },
+    {
+      "season": 2021,
+      "week": 9,
+      "home": "The  Carndogs",
+      "home_score": 87.88,
+      "away": "Team Strandberg",
+      "away_score": 61.94,
+      "margin": 25.939999999999998
+    },
+    {
+      "season": 2021,
+      "week": 9,
+      "home": "Brady\u2019s Got Back",
+      "home_score": 102.58,
+      "away": "Team Ulm",
+      "away_score": 87.96,
+      "margin": 14.620000000000005
+    },
+    {
+      "season": 2021,
+      "week": 9,
+      "home": "Team Cerroni",
+      "home_score": 118.28,
+      "away": "Winnie Court Keepers",
+      "away_score": 96.56,
+      "margin": 21.72
+    },
+    {
+      "season": 2021,
+      "week": 9,
+      "home": "Team Holzwart",
+      "home_score": 39.4,
+      "away": "Bago TDs and beer",
+      "away_score": 121.18,
+      "margin": 81.78
+    },
+    {
+      "season": 2021,
+      "week": 9,
+      "home": "Yahara Nate K",
+      "home_score": 113.98,
+      "away": "Mendota Mafia",
+      "away_score": 114.66,
+      "margin": 0.6799999999999926
+    },
+    {
+      "season": 2021,
+      "week": 9,
+      "home": "Team Lindner",
+      "home_score": 165.34,
+      "away": "Team Maurer",
+      "away_score": 112.34,
+      "margin": 53.0
+    },
+    {
+      "season": 2021,
+      "week": 9,
+      "home": "Team Freckmann",
+      "home_score": 87.7,
+      "away": "Team Dahms",
+      "away_score": 100.34,
+      "margin": 12.64
+    },
+    {
+      "season": 2021,
+      "week": 10,
+      "home": "Team Strandberg",
+      "home_score": 90.04,
+      "away": "Brady\u2019s Got Back",
+      "away_score": 80.8,
+      "margin": 9.240000000000009
+    },
+    {
+      "season": 2021,
+      "week": 10,
+      "home": "Team Ulm",
+      "home_score": 116.12,
+      "away": "Team Cerroni",
+      "away_score": 123.04,
+      "margin": 6.920000000000002
+    },
+    {
+      "season": 2021,
+      "week": 10,
+      "home": "Winnie Court Keepers",
+      "home_score": 109.58,
+      "away": "Team Holzwart",
+      "away_score": 67.84,
+      "margin": 41.739999999999995
+    },
+    {
+      "season": 2021,
+      "week": 10,
+      "home": "Bago TDs and beer",
+      "home_score": 98.82,
+      "away": "Yahara Nate K",
+      "away_score": 101.76,
+      "margin": 2.940000000000012
+    },
+    {
+      "season": 2021,
+      "week": 10,
+      "home": "Mendota Mafia",
+      "home_score": 118.44,
+      "away": "Team Lindner",
+      "away_score": 100.0,
+      "margin": 18.439999999999998
+    },
+    {
+      "season": 2021,
+      "week": 10,
+      "home": "Team Maurer",
+      "home_score": 102.32,
+      "away": "Team Freckmann",
+      "away_score": 61.08,
+      "margin": 41.239999999999995
+    },
+    {
+      "season": 2021,
+      "week": 10,
+      "home": "Team Dahms",
+      "home_score": 118.04,
+      "away": "The  Carndogs",
+      "away_score": 109.58,
+      "margin": 8.460000000000008
+    },
+    {
+      "season": 2021,
+      "week": 11,
+      "home": "Team Cerroni",
+      "home_score": 138.14,
+      "away": "Team Strandberg",
+      "away_score": 72.1,
+      "margin": 66.03999999999999
+    },
+    {
+      "season": 2021,
+      "week": 11,
+      "home": "Team Holzwart",
+      "home_score": 81.78,
+      "away": "Team Ulm",
+      "away_score": 127.78,
+      "margin": 46.0
+    },
+    {
+      "season": 2021,
+      "week": 11,
+      "home": "Yahara Nate K",
+      "home_score": 154.74,
+      "away": "Winnie Court Keepers",
+      "away_score": 118.2,
+      "margin": 36.540000000000006
+    },
+    {
+      "season": 2021,
+      "week": 11,
+      "home": "Team Lindner",
+      "home_score": 139.08,
+      "away": "Bago TDs and beer",
+      "away_score": 120.38,
+      "margin": 18.700000000000017
+    },
+    {
+      "season": 2021,
+      "week": 11,
+      "home": "Team Freckmann",
+      "home_score": 63.02,
+      "away": "Mendota Mafia",
+      "away_score": 101.06,
+      "margin": 38.04
+    },
+    {
+      "season": 2021,
+      "week": 11,
+      "home": "The  Carndogs",
+      "home_score": 85.22,
+      "away": "Team Maurer",
+      "away_score": 124.86,
+      "margin": 39.64
+    },
+    {
+      "season": 2021,
+      "week": 11,
+      "home": "Brady\u2019s Got Back",
+      "home_score": 64.88,
+      "away": "Team Dahms",
+      "away_score": 107.64,
+      "margin": 42.760000000000005
+    },
+    {
+      "season": 2021,
+      "week": 12,
+      "home": "Team Strandberg",
+      "home_score": 114.52,
+      "away": "Team Holzwart",
+      "away_score": 126.48,
+      "margin": 11.960000000000008
+    },
+    {
+      "season": 2021,
+      "week": 12,
+      "home": "Team Ulm",
+      "home_score": 130.18,
+      "away": "Yahara Nate K",
+      "away_score": 189.12,
+      "margin": 58.94
+    },
+    {
+      "season": 2021,
+      "week": 12,
+      "home": "Winnie Court Keepers",
+      "home_score": 105.58,
+      "away": "Team Lindner",
+      "away_score": 76.82,
+      "margin": 28.760000000000005
+    },
+    {
+      "season": 2021,
+      "week": 12,
+      "home": "Bago TDs and beer",
+      "home_score": 104.86,
+      "away": "Team Freckmann",
+      "away_score": 89.8,
+      "margin": 15.060000000000002
+    },
+    {
+      "season": 2021,
+      "week": 12,
+      "home": "Mendota Mafia",
+      "home_score": 130.7,
+      "away": "The  Carndogs",
+      "away_score": 74.4,
+      "margin": 56.29999999999998
+    },
+    {
+      "season": 2021,
+      "week": 12,
+      "home": "Team Maurer",
+      "home_score": 71.5,
+      "away": "Brady\u2019s Got Back",
+      "away_score": 84.34,
+      "margin": 12.840000000000003
+    },
+    {
+      "season": 2021,
+      "week": 12,
+      "home": "Team Dahms",
+      "home_score": 101.66,
+      "away": "Team Cerroni",
+      "away_score": 107.3,
+      "margin": 5.640000000000001
+    },
+    {
+      "season": 2021,
+      "week": 13,
+      "home": "Team Strandberg",
+      "home_score": 96.66,
+      "away": "Team Lindner",
+      "away_score": 118.28,
+      "margin": 21.620000000000005
+    },
+    {
+      "season": 2021,
+      "week": 13,
+      "home": "Team Ulm",
+      "home_score": 138.8,
+      "away": "Team Freckmann",
+      "away_score": 33.6,
+      "margin": 105.20000000000002
+    },
+    {
+      "season": 2021,
+      "week": 13,
+      "home": "Winnie Court Keepers",
+      "home_score": 98.46,
+      "away": "The  Carndogs",
+      "away_score": 47.0,
+      "margin": 51.459999999999994
+    },
+    {
+      "season": 2021,
+      "week": 13,
+      "home": "Bago TDs and beer",
+      "home_score": 107.3,
+      "away": "Brady\u2019s Got Back",
+      "away_score": 83.82,
+      "margin": 23.480000000000004
+    },
+    {
+      "season": 2021,
+      "week": 13,
+      "home": "Mendota Mafia",
+      "home_score": 83.5,
+      "away": "Team Cerroni",
+      "away_score": 171.42,
+      "margin": 87.91999999999999
+    },
+    {
+      "season": 2021,
+      "week": 13,
+      "home": "Team Maurer",
+      "home_score": 106.42,
+      "away": "Team Holzwart",
+      "away_score": 80.54,
+      "margin": 25.879999999999995
+    },
+    {
+      "season": 2021,
+      "week": 13,
+      "home": "Team Dahms",
+      "home_score": 164.32,
+      "away": "Yahara Nate K",
+      "away_score": 117.8,
+      "margin": 46.519999999999996
+    },
+    {
+      "season": 2021,
+      "week": 14,
+      "home": "Team Freckmann",
+      "home_score": 164.1,
+      "away": "Team Strandberg",
+      "away_score": 102.82,
+      "margin": 61.28
+    },
+    {
+      "season": 2021,
+      "week": 14,
+      "home": "The  Carndogs",
+      "home_score": 58.82,
+      "away": "Team Ulm",
+      "away_score": 116.48,
+      "margin": 57.660000000000004
+    },
+    {
+      "season": 2021,
+      "week": 14,
+      "home": "Brady\u2019s Got Back",
+      "home_score": 110.72,
+      "away": "Winnie Court Keepers",
+      "away_score": 117.54,
+      "margin": 6.820000000000007
+    },
+    {
+      "season": 2021,
+      "week": 14,
+      "home": "Team Cerroni",
+      "home_score": 153.84,
+      "away": "Bago TDs and beer",
+      "away_score": 113.52,
+      "margin": 40.32000000000001
+    },
+    {
+      "season": 2021,
+      "week": 14,
+      "home": "Team Holzwart",
+      "home_score": 48.6,
+      "away": "Mendota Mafia",
+      "away_score": 97.22,
+      "margin": 48.62
+    },
+    {
+      "season": 2021,
+      "week": 14,
+      "home": "Yahara Nate K",
+      "home_score": 123.74,
+      "away": "Team Maurer",
+      "away_score": 98.28,
+      "margin": 25.459999999999994
+    },
+    {
+      "season": 2021,
+      "week": 14,
+      "home": "Team Lindner",
+      "home_score": 151.2,
+      "away": "Team Dahms",
+      "away_score": 85.32,
+      "margin": 65.88
+    },
+    {
+      "season": 2021,
+      "week": 15,
+      "home": "Yahara Nate K",
+      "home_score": 73.58,
+      "away": "Winnie Court Keepers",
+      "away_score": 69.62,
+      "margin": 3.9599999999999937
+    },
+    {
+      "season": 2021,
+      "week": 15,
+      "home": "Bago TDs and beer",
+      "home_score": 103.14,
+      "away": "Team Ulm",
+      "away_score": 115.56,
+      "margin": 12.420000000000002
+    },
+    {
+      "season": 2021,
+      "week": 15,
+      "home": "Team Cerroni",
+      "home_score": 113.48,
+      "away": "Team Dahms",
+      "away_score": 72.78,
+      "margin": 40.7
+    },
+    {
+      "season": 2021,
+      "week": 15,
+      "home": "Mendota Mafia",
+      "home_score": 133.7,
+      "away": "Team Lindner",
+      "away_score": 89.64,
+      "margin": 44.05999999999999
+    },
+    {
+      "season": 2021,
+      "week": 15,
+      "home": "Team Maurer",
+      "home_score": 76.42,
+      "away": "Brady\u2019s Got Back",
+      "away_score": 98.46,
+      "margin": 22.039999999999992
+    },
+    {
+      "season": 2021,
+      "week": 15,
+      "home": "Team Strandberg",
+      "home_score": 91.3,
+      "away": "Team Holzwart",
+      "away_score": 57.74,
+      "margin": 33.559999999999995
+    },
+    {
+      "season": 2021,
+      "week": 15,
+      "home": "The  Carndogs",
+      "home_score": 102.28,
+      "away": "Team Freckmann",
+      "away_score": 131.66,
+      "margin": 29.379999999999995
+    },
+    {
+      "season": 2021,
+      "week": 16,
+      "home": "Yahara Nate K",
+      "home_score": 108.4,
+      "away": "Team Ulm",
+      "away_score": 114.68,
+      "margin": 6.280000000000001
+    },
+    {
+      "season": 2021,
+      "week": 16,
+      "home": "Mendota Mafia",
+      "home_score": 149.86,
+      "away": "Team Cerroni",
+      "away_score": 138.4,
+      "margin": 11.460000000000008
+    },
+    {
+      "season": 2021,
+      "week": 16,
+      "home": "Bago TDs and beer",
+      "home_score": 117.66,
+      "away": "Team Dahms",
+      "away_score": 121.4,
+      "margin": 3.740000000000009
+    },
+    {
+      "season": 2021,
+      "week": 16,
+      "home": "Team Lindner",
+      "home_score": 107.24,
+      "away": "Winnie Court Keepers",
+      "away_score": 107.78,
+      "margin": 0.5400000000000063
+    },
+    {
+      "season": 2021,
+      "week": 16,
+      "home": "Brady\u2019s Got Back",
+      "home_score": 81.78,
+      "away": "Team Strandberg",
+      "away_score": 113.02,
+      "margin": 31.239999999999995
+    },
+    {
+      "season": 2021,
+      "week": 16,
+      "home": "Team Maurer",
+      "home_score": 101.36,
+      "away": "Team Freckmann",
+      "away_score": 86.44,
+      "margin": 14.920000000000002
+    },
+    {
+      "season": 2021,
+      "week": 16,
+      "home": "Team Holzwart",
+      "home_score": 79.14,
+      "away": "The  Carndogs",
+      "away_score": 87.1,
+      "margin": 7.959999999999994
+    },
+    {
+      "season": 2021,
+      "week": 17,
+      "home": "Mendota Mafia",
+      "home_score": 107.3,
+      "away": "Team Ulm",
+      "away_score": 111.86,
+      "margin": 4.560000000000002
+    },
+    {
+      "season": 2021,
+      "week": 17,
+      "home": "Yahara Nate K",
+      "home_score": 116.4,
+      "away": "Team Cerroni",
+      "away_score": 141.24,
+      "margin": 24.840000000000003
+    },
+    {
+      "season": 2021,
+      "week": 17,
+      "home": "Team Dahms",
+      "home_score": 89.82,
+      "away": "Winnie Court Keepers",
+      "away_score": 115.12,
+      "margin": 25.30000000000001
+    },
+    {
+      "season": 2021,
+      "week": 17,
+      "home": "Bago TDs and beer",
+      "home_score": 69.06,
+      "away": "Team Lindner",
+      "away_score": 98.88,
+      "margin": 29.819999999999993
+    },
+    {
+      "season": 2021,
+      "week": 17,
+      "home": "Team Maurer",
+      "home_score": 120.2,
+      "away": "Team Strandberg",
+      "away_score": 125.56,
+      "margin": 5.359999999999999
+    },
+    {
+      "season": 2021,
+      "week": 17,
+      "home": "Brady\u2019s Got Back",
+      "home_score": 105.1,
+      "away": "The  Carndogs",
+      "away_score": 107.24,
+      "margin": 2.1400000000000006
+    },
+    {
+      "season": 2021,
+      "week": 17,
+      "home": "Team Holzwart",
+      "home_score": 57.64,
+      "away": "Team Freckmann",
+      "away_score": 107.08,
+      "margin": 49.44
+    },
+    {
+      "season": 2022,
+      "week": 1,
+      "home": "Team Lindner",
+      "home_score": 128.2,
+      "away": "Team Strandberg",
+      "away_score": 88.5,
+      "margin": 39.69999999999999
+    },
+    {
+      "season": 2022,
+      "week": 1,
+      "home": "Yahara Nate K",
+      "home_score": 110.82,
+      "away": "Little Giants",
+      "away_score": 135.98,
+      "margin": 25.159999999999997
+    },
+    {
+      "season": 2022,
+      "week": 1,
+      "home": "Team Dahms",
+      "home_score": 134.5,
+      "away": "Ulm FC",
+      "away_score": 148.52,
+      "margin": 14.02000000000001
+    },
+    {
+      "season": 2022,
+      "week": 1,
+      "home": "Mike Glennon",
+      "home_score": 112.22,
+      "away": "The  Carndogs",
+      "away_score": 108.46,
+      "margin": 3.760000000000005
+    },
+    {
+      "season": 2022,
+      "week": 1,
+      "home": "Maurer's Mishaps",
+      "home_score": 98.98,
+      "away": "Winnie Court Keepers",
+      "away_score": 116.4,
+      "margin": 17.42
+    },
+    {
+      "season": 2022,
+      "week": 1,
+      "home": "King of the North",
+      "home_score": 144.88,
+      "away": "Matty Ice",
+      "away_score": 122.16,
+      "margin": 22.72
+    },
+    {
+      "season": 2022,
+      "week": 1,
+      "home": "Mendota Mafia",
+      "home_score": 130.22,
+      "away": "TDs and Beer",
+      "away_score": 101.26,
+      "margin": 28.959999999999994
+    },
+    {
+      "season": 2022,
+      "week": 2,
+      "home": "Little Giants",
+      "home_score": 85.28,
+      "away": "Ulm FC",
+      "away_score": 134.78,
+      "margin": 49.5
+    },
+    {
+      "season": 2022,
+      "week": 2,
+      "home": "The  Carndogs",
+      "home_score": 98.1,
+      "away": "Team Lindner",
+      "away_score": 130.86,
+      "margin": 32.76000000000002
+    },
+    {
+      "season": 2022,
+      "week": 2,
+      "home": "Winnie Court Keepers",
+      "home_score": 145.58,
+      "away": "Team Strandberg",
+      "away_score": 133.36,
+      "margin": 12.219999999999999
+    },
+    {
+      "season": 2022,
+      "week": 2,
+      "home": "Matty Ice",
+      "home_score": 177.06,
+      "away": "Yahara Nate K",
+      "away_score": 100.76,
+      "margin": 76.3
+    },
+    {
+      "season": 2022,
+      "week": 2,
+      "home": "TDs and Beer",
+      "home_score": 129.28,
+      "away": "Team Dahms",
+      "away_score": 131.6,
+      "margin": 2.319999999999993
+    },
+    {
+      "season": 2022,
+      "week": 2,
+      "home": "King of the North",
+      "home_score": 108.38,
+      "away": "Mike Glennon",
+      "away_score": 129.72,
+      "margin": 21.340000000000003
+    },
+    {
+      "season": 2022,
+      "week": 2,
+      "home": "Mendota Mafia",
+      "home_score": 200.42,
+      "away": "Maurer's Mishaps",
+      "away_score": 121.4,
+      "margin": 79.01999999999998
+    },
+    {
+      "season": 2022,
+      "week": 3,
+      "home": "The  Carndogs",
+      "home_score": 92.18,
+      "away": "Winnie Court Keepers",
+      "away_score": 107.56,
+      "margin": 15.379999999999995
+    },
+    {
+      "season": 2022,
+      "week": 3,
+      "home": "Little Giants",
+      "home_score": 98.2,
+      "away": "Matty Ice",
+      "away_score": 111.38,
+      "margin": 13.179999999999993
+    },
+    {
+      "season": 2022,
+      "week": 3,
+      "home": "Ulm FC",
+      "home_score": 139.16,
+      "away": "TDs and Beer",
+      "away_score": 117.54,
+      "margin": 21.61999999999999
+    },
+    {
+      "season": 2022,
+      "week": 3,
+      "home": "Team Lindner",
+      "home_score": 101.16,
+      "away": "King of the North",
+      "away_score": 162.8,
+      "margin": 61.640000000000015
+    },
+    {
+      "season": 2022,
+      "week": 3,
+      "home": "Team Strandberg",
+      "home_score": 99.4,
+      "away": "Mendota Mafia",
+      "away_score": 138.8,
+      "margin": 39.400000000000006
+    },
+    {
+      "season": 2022,
+      "week": 3,
+      "home": "Yahara Nate K",
+      "home_score": 123.9,
+      "away": "Mike Glennon",
+      "away_score": 138.72,
+      "margin": 14.819999999999993
+    },
+    {
+      "season": 2022,
+      "week": 3,
+      "home": "Team Dahms",
+      "home_score": 83.68,
+      "away": "Maurer's Mishaps",
+      "away_score": 111.5,
+      "margin": 27.819999999999993
+    },
+    {
+      "season": 2022,
+      "week": 4,
+      "home": "Matty Ice",
+      "home_score": 144.5,
+      "away": "TDs and Beer",
+      "away_score": 109.7,
+      "margin": 34.8
+    },
+    {
+      "season": 2022,
+      "week": 4,
+      "home": "King of the North",
+      "home_score": 166.42,
+      "away": "The  Carndogs",
+      "away_score": 83.62,
+      "margin": 82.79999999999998
+    },
+    {
+      "season": 2022,
+      "week": 4,
+      "home": "Mendota Mafia",
+      "home_score": 146.76,
+      "away": "Winnie Court Keepers",
+      "away_score": 168.46,
+      "margin": 21.700000000000017
+    },
+    {
+      "season": 2022,
+      "week": 4,
+      "home": "Mike Glennon",
+      "home_score": 129.66,
+      "away": "Little Giants",
+      "away_score": 114.92,
+      "margin": 14.739999999999995
+    },
+    {
+      "season": 2022,
+      "week": 4,
+      "home": "Maurer's Mishaps",
+      "home_score": 142.5,
+      "away": "Ulm FC",
+      "away_score": 84.08,
+      "margin": 58.42
+    },
+    {
+      "season": 2022,
+      "week": 4,
+      "home": "Yahara Nate K",
+      "home_score": 95.18,
+      "away": "Team Lindner",
+      "away_score": 135.08,
+      "margin": 39.900000000000006
+    },
+    {
+      "season": 2022,
+      "week": 4,
+      "home": "Team Dahms",
+      "home_score": 89.56,
+      "away": "Team Strandberg",
+      "away_score": 154.94,
+      "margin": 65.38
+    },
+    {
+      "season": 2022,
+      "week": 5,
+      "home": "King of the North",
+      "home_score": 160.56,
+      "away": "Mendota Mafia",
+      "away_score": 140.96,
+      "margin": 19.599999999999994
+    },
+    {
+      "season": 2022,
+      "week": 5,
+      "home": "Matty Ice",
+      "home_score": 134.62,
+      "away": "Mike Glennon",
+      "away_score": 89.66,
+      "margin": 44.96000000000001
+    },
+    {
+      "season": 2022,
+      "week": 5,
+      "home": "TDs and Beer",
+      "home_score": 131.62,
+      "away": "Maurer's Mishaps",
+      "away_score": 123.44,
+      "margin": 8.180000000000007
+    },
+    {
+      "season": 2022,
+      "week": 5,
+      "home": "The  Carndogs",
+      "home_score": 76.46,
+      "away": "Yahara Nate K",
+      "away_score": 123.68,
+      "margin": 47.22000000000001
+    },
+    {
+      "season": 2022,
+      "week": 5,
+      "home": "Winnie Court Keepers",
+      "home_score": 114.74,
+      "away": "Team Dahms",
+      "away_score": 98.88,
+      "margin": 15.86
+    },
+    {
+      "season": 2022,
+      "week": 5,
+      "home": "Little Giants",
+      "home_score": 96.64,
+      "away": "Team Lindner",
+      "away_score": 125.66,
+      "margin": 29.019999999999996
+    },
+    {
+      "season": 2022,
+      "week": 5,
+      "home": "Ulm FC",
+      "home_score": 94.5,
+      "away": "Team Strandberg",
+      "away_score": 147.58,
+      "margin": 53.08000000000001
+    },
+    {
+      "season": 2022,
+      "week": 6,
+      "home": "Mike Glennon",
+      "home_score": 98.7,
+      "away": "Maurer's Mishaps",
+      "away_score": 111.66,
+      "margin": 12.959999999999994
+    },
+    {
+      "season": 2022,
+      "week": 6,
+      "home": "Yahara Nate K",
+      "home_score": 118.0,
+      "away": "King of the North",
+      "away_score": 113.36,
+      "margin": 4.640000000000001
+    },
+    {
+      "season": 2022,
+      "week": 6,
+      "home": "Team Dahms",
+      "home_score": 121.82,
+      "away": "Mendota Mafia",
+      "away_score": 102.6,
+      "margin": 19.22
+    },
+    {
+      "season": 2022,
+      "week": 6,
+      "home": "Team Lindner",
+      "home_score": 97.02,
+      "away": "Matty Ice",
+      "away_score": 127.22,
+      "margin": 30.200000000000003
+    },
+    {
+      "season": 2022,
+      "week": 6,
+      "home": "Team Strandberg",
+      "home_score": 89.74,
+      "away": "TDs and Beer",
+      "away_score": 92.28,
+      "margin": 2.5400000000000063
+    },
+    {
+      "season": 2022,
+      "week": 6,
+      "home": "Little Giants",
+      "home_score": 90.2,
+      "away": "The  Carndogs",
+      "away_score": 125.5,
+      "margin": 35.3
+    },
+    {
+      "season": 2022,
+      "week": 6,
+      "home": "Ulm FC",
+      "home_score": 116.98,
+      "away": "Winnie Court Keepers",
+      "away_score": 83.12,
+      "margin": 33.86
+    },
+    {
+      "season": 2022,
+      "week": 7,
+      "home": "Yahara Nate K",
+      "home_score": 144.94,
+      "away": "Team Dahms",
+      "away_score": 103.12,
+      "margin": 41.81999999999999
+    },
+    {
+      "season": 2022,
+      "week": 7,
+      "home": "Mike Glennon",
+      "home_score": 112.1,
+      "away": "Team Lindner",
+      "away_score": 137.8,
+      "margin": 25.700000000000017
+    },
+    {
+      "season": 2022,
+      "week": 7,
+      "home": "Maurer's Mishaps",
+      "home_score": 100.22,
+      "away": "Team Strandberg",
+      "away_score": 142.46,
+      "margin": 42.24000000000001
+    },
+    {
+      "season": 2022,
+      "week": 7,
+      "home": "King of the North",
+      "home_score": 91.42,
+      "away": "Little Giants",
+      "away_score": 99.94,
+      "margin": 8.519999999999996
+    },
+    {
+      "season": 2022,
+      "week": 7,
+      "home": "Mendota Mafia",
+      "home_score": 142.04,
+      "away": "Ulm FC",
+      "away_score": 80.66,
+      "margin": 61.379999999999995
+    },
+    {
+      "season": 2022,
+      "week": 7,
+      "home": "Matty Ice",
+      "home_score": 118.02,
+      "away": "The  Carndogs",
+      "away_score": 78.04,
+      "margin": 39.97999999999999
+    },
+    {
+      "season": 2022,
+      "week": 7,
+      "home": "TDs and Beer",
+      "home_score": 125.4,
+      "away": "Winnie Court Keepers",
+      "away_score": 82.88,
+      "margin": 42.52000000000001
+    },
+    {
+      "season": 2022,
+      "week": 8,
+      "home": "Team Strandberg",
+      "home_score": 141.52,
+      "away": "Little Giants",
+      "away_score": 104.18,
+      "margin": 37.34
+    },
+    {
+      "season": 2022,
+      "week": 8,
+      "home": "Ulm FC",
+      "home_score": 109.04,
+      "away": "The  Carndogs",
+      "away_score": 93.76,
+      "margin": 15.280000000000001
+    },
+    {
+      "season": 2022,
+      "week": 8,
+      "home": "Winnie Court Keepers",
+      "home_score": 145.88,
+      "away": "Matty Ice",
+      "away_score": 170.78,
+      "margin": 24.900000000000006
+    },
+    {
+      "season": 2022,
+      "week": 8,
+      "home": "TDs and Beer",
+      "home_score": 131.58,
+      "away": "King of the North",
+      "away_score": 133.82,
+      "margin": 2.2399999999999807
+    },
+    {
+      "season": 2022,
+      "week": 8,
+      "home": "Mendota Mafia",
+      "home_score": 134.3,
+      "away": "Mike Glennon",
+      "away_score": 106.72,
+      "margin": 27.580000000000013
+    },
+    {
+      "season": 2022,
+      "week": 8,
+      "home": "Maurer's Mishaps",
+      "home_score": 126.3,
+      "away": "Yahara Nate K",
+      "away_score": 166.88,
+      "margin": 40.58
+    },
+    {
+      "season": 2022,
+      "week": 8,
+      "home": "Team Dahms",
+      "home_score": 73.94,
+      "away": "Team Lindner",
+      "away_score": 73.12,
+      "margin": 0.8199999999999932
+    },
+    {
+      "season": 2022,
+      "week": 9,
+      "home": "The  Carndogs",
+      "home_score": 77.96,
+      "away": "Team Strandberg",
+      "away_score": 111.24,
+      "margin": 33.28
+    },
+    {
+      "season": 2022,
+      "week": 9,
+      "home": "Matty Ice",
+      "home_score": 101.0,
+      "away": "Ulm FC",
+      "away_score": 80.0,
+      "margin": 21.0
+    },
+    {
+      "season": 2022,
+      "week": 9,
+      "home": "King of the North",
+      "home_score": 121.2,
+      "away": "Winnie Court Keepers",
+      "away_score": 151.02,
+      "margin": 29.820000000000007
+    },
+    {
+      "season": 2022,
+      "week": 9,
+      "home": "Mike Glennon",
+      "home_score": 77.42,
+      "away": "TDs and Beer",
+      "away_score": 63.5,
+      "margin": 13.920000000000002
+    },
+    {
+      "season": 2022,
+      "week": 9,
+      "home": "Yahara Nate K",
+      "home_score": 126.74,
+      "away": "Mendota Mafia",
+      "away_score": 123.12,
+      "margin": 3.6199999999999903
+    },
+    {
+      "season": 2022,
+      "week": 9,
+      "home": "Team Lindner",
+      "home_score": 184.3,
+      "away": "Maurer's Mishaps",
+      "away_score": 145.62,
+      "margin": 38.68000000000001
+    },
+    {
+      "season": 2022,
+      "week": 9,
+      "home": "Little Giants",
+      "home_score": 94.7,
+      "away": "Team Dahms",
+      "away_score": 109.64,
+      "margin": 14.939999999999998
+    },
+    {
+      "season": 2022,
+      "week": 10,
+      "home": "Team Strandberg",
+      "home_score": 110.76,
+      "away": "Matty Ice",
+      "away_score": 99.94,
+      "margin": 10.820000000000007
+    },
+    {
+      "season": 2022,
+      "week": 10,
+      "home": "Ulm FC",
+      "home_score": 122.26,
+      "away": "King of the North",
+      "away_score": 132.7,
+      "margin": 10.439999999999984
+    },
+    {
+      "season": 2022,
+      "week": 10,
+      "home": "Winnie Court Keepers",
+      "home_score": 164.68,
+      "away": "Mike Glennon",
+      "away_score": 86.5,
+      "margin": 78.18
+    },
+    {
+      "season": 2022,
+      "week": 10,
+      "home": "TDs and Beer",
+      "home_score": 91.6,
+      "away": "Yahara Nate K",
+      "away_score": 95.04,
+      "margin": 3.440000000000012
+    },
+    {
+      "season": 2022,
+      "week": 10,
+      "home": "Mendota Mafia",
+      "home_score": 110.5,
+      "away": "Team Lindner",
+      "away_score": 113.46,
+      "margin": 2.9599999999999937
+    },
+    {
+      "season": 2022,
+      "week": 10,
+      "home": "Maurer's Mishaps",
+      "home_score": 129.42,
+      "away": "Little Giants",
+      "away_score": 113.78,
+      "margin": 15.639999999999986
+    },
+    {
+      "season": 2022,
+      "week": 10,
+      "home": "Team Dahms",
+      "home_score": 112.44,
+      "away": "The  Carndogs",
+      "away_score": 99.38,
+      "margin": 13.060000000000002
+    },
+    {
+      "season": 2022,
+      "week": 11,
+      "home": "King of the North",
+      "home_score": 151.58,
+      "away": "Team Strandberg",
+      "away_score": 164.08,
+      "margin": 12.5
+    },
+    {
+      "season": 2022,
+      "week": 11,
+      "home": "Mike Glennon",
+      "home_score": 126.46,
+      "away": "Ulm FC",
+      "away_score": 100.52,
+      "margin": 25.939999999999998
+    },
+    {
+      "season": 2022,
+      "week": 11,
+      "home": "Yahara Nate K",
+      "home_score": 111.26,
+      "away": "Winnie Court Keepers",
+      "away_score": 113.12,
+      "margin": 1.8599999999999994
+    },
+    {
+      "season": 2022,
+      "week": 11,
+      "home": "Team Lindner",
+      "home_score": 102.08,
+      "away": "TDs and Beer",
+      "away_score": 97.6,
+      "margin": 4.480000000000004
+    },
+    {
+      "season": 2022,
+      "week": 11,
+      "home": "Little Giants",
+      "home_score": 102.2,
+      "away": "Mendota Mafia",
+      "away_score": 134.8,
+      "margin": 32.60000000000001
+    },
+    {
+      "season": 2022,
+      "week": 11,
+      "home": "The  Carndogs",
+      "home_score": 52.86,
+      "away": "Maurer's Mishaps",
+      "away_score": 157.04,
+      "margin": 104.17999999999999
+    },
+    {
+      "season": 2022,
+      "week": 11,
+      "home": "Matty Ice",
+      "home_score": 119.9,
+      "away": "Team Dahms",
+      "away_score": 87.46,
+      "margin": 32.44000000000001
+    },
+    {
+      "season": 2022,
+      "week": 12,
+      "home": "Team Strandberg",
+      "home_score": 139.8,
+      "away": "Mike Glennon",
+      "away_score": 104.46,
+      "margin": 35.34000000000002
+    },
+    {
+      "season": 2022,
+      "week": 12,
+      "home": "Ulm FC",
+      "home_score": 144.64,
+      "away": "Yahara Nate K",
+      "away_score": 106.2,
+      "margin": 38.43999999999998
+    },
+    {
+      "season": 2022,
+      "week": 12,
+      "home": "Winnie Court Keepers",
+      "home_score": 138.8,
+      "away": "Team Lindner",
+      "away_score": 83.68,
+      "margin": 55.120000000000005
+    },
+    {
+      "season": 2022,
+      "week": 12,
+      "home": "TDs and Beer",
+      "home_score": 82.12,
+      "away": "Little Giants",
+      "away_score": 128.3,
+      "margin": 46.18000000000001
+    },
+    {
+      "season": 2022,
+      "week": 12,
+      "home": "Mendota Mafia",
+      "home_score": 179.12,
+      "away": "The  Carndogs",
+      "away_score": 66.7,
+      "margin": 112.42
+    },
+    {
+      "season": 2022,
+      "week": 12,
+      "home": "Maurer's Mishaps",
+      "home_score": 133.14,
+      "away": "Matty Ice",
+      "away_score": 142.06,
+      "margin": 8.920000000000016
+    },
+    {
+      "season": 2022,
+      "week": 12,
+      "home": "Team Dahms",
+      "home_score": 131.9,
+      "away": "King of the North",
+      "away_score": 116.62,
+      "margin": 15.280000000000001
+    },
+    {
+      "season": 2022,
+      "week": 13,
+      "home": "Team Strandberg",
+      "home_score": 113.28,
+      "away": "Team Lindner",
+      "away_score": 132.56,
+      "margin": 19.28
+    },
+    {
+      "season": 2022,
+      "week": 13,
+      "home": "Ulm FC",
+      "home_score": 119.26,
+      "away": "Little Giants",
+      "away_score": 116.7,
+      "margin": 2.5600000000000023
+    },
+    {
+      "season": 2022,
+      "week": 13,
+      "home": "Winnie Court Keepers",
+      "home_score": 133.36,
+      "away": "The  Carndogs",
+      "away_score": 120.9,
+      "margin": 12.460000000000008
+    },
+    {
+      "season": 2022,
+      "week": 13,
+      "home": "TDs and Beer",
+      "home_score": 148.48,
+      "away": "Matty Ice",
+      "away_score": 120.2,
+      "margin": 28.279999999999987
+    },
+    {
+      "season": 2022,
+      "week": 13,
+      "home": "Mendota Mafia",
+      "home_score": 142.1,
+      "away": "King of the North",
+      "away_score": 124.62,
+      "margin": 17.47999999999999
+    },
+    {
+      "season": 2022,
+      "week": 13,
+      "home": "Maurer's Mishaps",
+      "home_score": 120.94,
+      "away": "Mike Glennon",
+      "away_score": 83.74,
+      "margin": 37.2
+    },
+    {
+      "season": 2022,
+      "week": 13,
+      "home": "Team Dahms",
+      "home_score": 117.92,
+      "away": "Yahara Nate K",
+      "away_score": 124.74,
+      "margin": 6.819999999999993
+    },
+    {
+      "season": 2022,
+      "week": 14,
+      "home": "Little Giants",
+      "home_score": 141.0,
+      "away": "Team Strandberg",
+      "away_score": 110.76,
+      "margin": 30.239999999999995
+    },
+    {
+      "season": 2022,
+      "week": 14,
+      "home": "The  Carndogs",
+      "home_score": 64.6,
+      "away": "Ulm FC",
+      "away_score": 82.66,
+      "margin": 18.060000000000002
+    },
+    {
+      "season": 2022,
+      "week": 14,
+      "home": "Matty Ice",
+      "home_score": 117.38,
+      "away": "Winnie Court Keepers",
+      "away_score": 94.7,
+      "margin": 22.679999999999993
+    },
+    {
+      "season": 2022,
+      "week": 14,
+      "home": "King of the North",
+      "home_score": 123.08,
+      "away": "TDs and Beer",
+      "away_score": 87.76,
+      "margin": 35.31999999999999
+    },
+    {
+      "season": 2022,
+      "week": 14,
+      "home": "Mike Glennon",
+      "home_score": 108.82,
+      "away": "Mendota Mafia",
+      "away_score": 131.58,
+      "margin": 22.76000000000002
+    },
+    {
+      "season": 2022,
+      "week": 14,
+      "home": "Yahara Nate K",
+      "home_score": 83.46,
+      "away": "Maurer's Mishaps",
+      "away_score": 91.54,
+      "margin": 8.080000000000013
+    },
+    {
+      "season": 2022,
+      "week": 14,
+      "home": "Team Lindner",
+      "home_score": 105.92,
+      "away": "Team Dahms",
+      "away_score": 91.08,
+      "margin": 14.840000000000003
+    },
+    {
+      "season": 2022,
+      "week": 15,
+      "home": "Matty Ice",
+      "home_score": 94.62,
+      "away": "Maurer's Mishaps",
+      "away_score": 109.54,
+      "margin": 14.920000000000002
+    },
+    {
+      "season": 2022,
+      "week": 15,
+      "home": "Mendota Mafia",
+      "home_score": 126.9,
+      "away": "Team Strandberg",
+      "away_score": 117.16,
+      "margin": 9.740000000000009
+    },
+    {
+      "season": 2022,
+      "week": 15,
+      "home": "Team Lindner",
+      "home_score": 100.32,
+      "away": "Ulm FC",
+      "away_score": 129.18,
+      "margin": 28.860000000000014
+    },
+    {
+      "season": 2022,
+      "week": 15,
+      "home": "Winnie Court Keepers",
+      "home_score": 157.28,
+      "away": "King of the North",
+      "away_score": 148.76,
+      "margin": 8.52000000000001
+    },
+    {
+      "season": 2022,
+      "week": 15,
+      "home": "Yahara Nate K",
+      "home_score": 148.2,
+      "away": "Mike Glennon",
+      "away_score": 116.42,
+      "margin": 31.779999999999987
+    },
+    {
+      "season": 2022,
+      "week": 15,
+      "home": "Team Dahms",
+      "home_score": 128.24,
+      "away": "Little Giants",
+      "away_score": 133.9,
+      "margin": 5.659999999999997
+    },
+    {
+      "season": 2022,
+      "week": 15,
+      "home": "TDs and Beer",
+      "home_score": 79.02,
+      "away": "The  Carndogs",
+      "away_score": 96.16,
+      "margin": 17.14
+    },
+    {
+      "season": 2022,
+      "week": 16,
+      "home": "Mendota Mafia",
+      "home_score": 76.0,
+      "away": "Maurer's Mishaps",
+      "away_score": 103.2,
+      "margin": 27.200000000000003
+    },
+    {
+      "season": 2022,
+      "week": 16,
+      "home": "Winnie Court Keepers",
+      "home_score": 224.36,
+      "away": "Ulm FC",
+      "away_score": 76.2,
+      "margin": 148.16000000000003
+    },
+    {
+      "season": 2022,
+      "week": 16,
+      "home": "Matty Ice",
+      "home_score": 101.6,
+      "away": "Team Lindner",
+      "away_score": 112.56,
+      "margin": 10.960000000000008
+    },
+    {
+      "season": 2022,
+      "week": 16,
+      "home": "Team Strandberg",
+      "home_score": 126.52,
+      "away": "King of the North",
+      "away_score": 104.28,
+      "margin": 22.239999999999995
+    },
+    {
+      "season": 2022,
+      "week": 16,
+      "home": "Yahara Nate K",
+      "home_score": 132.6,
+      "away": "Little Giants",
+      "away_score": 184.16,
+      "margin": 51.56
+    },
+    {
+      "season": 2022,
+      "week": 16,
+      "home": "Mike Glennon",
+      "home_score": 96.1,
+      "away": "The  Carndogs",
+      "away_score": 89.94,
+      "margin": 6.159999999999997
+    },
+    {
+      "season": 2022,
+      "week": 16,
+      "home": "Team Dahms",
+      "home_score": 74.46,
+      "away": "TDs and Beer",
+      "away_score": 77.0,
+      "margin": 2.5400000000000063
+    },
+    {
+      "season": 2022,
+      "week": 17,
+      "home": "Winnie Court Keepers",
+      "home_score": 89.6,
+      "away": "Maurer's Mishaps",
+      "away_score": 95.36,
+      "margin": 5.760000000000005
+    },
+    {
+      "season": 2022,
+      "week": 17,
+      "home": "Mendota Mafia",
+      "home_score": 98.7,
+      "away": "Ulm FC",
+      "away_score": 140.76,
+      "margin": 42.05999999999999
+    },
+    {
+      "season": 2022,
+      "week": 17,
+      "home": "Team Lindner",
+      "home_score": 90.08,
+      "away": "Team Strandberg",
+      "away_score": 106.16,
+      "margin": 16.08
+    },
+    {
+      "season": 2022,
+      "week": 17,
+      "home": "Matty Ice",
+      "home_score": 127.38,
+      "away": "King of the North",
+      "away_score": 62.7,
+      "margin": 64.67999999999999
+    },
+    {
+      "season": 2022,
+      "week": 17,
+      "home": "Mike Glennon",
+      "home_score": 92.6,
+      "away": "Little Giants",
+      "away_score": 139.8,
+      "margin": 47.20000000000002
+    },
+    {
+      "season": 2022,
+      "week": 17,
+      "home": "Yahara Nate K",
+      "home_score": 115.9,
+      "away": "TDs and Beer",
+      "away_score": 103.52,
+      "margin": 12.38000000000001
+    },
+    {
+      "season": 2022,
+      "week": 17,
+      "home": "Team Dahms",
+      "home_score": 71.42,
+      "away": "The  Carndogs",
+      "away_score": 92.5,
+      "margin": 21.08
+    },
+    {
+      "season": 2023,
+      "week": 1,
+      "home": "King of the North",
+      "home_score": 111.54,
+      "away": "Scrote Squad",
+      "away_score": 75.16,
+      "margin": 36.38000000000001
+    },
+    {
+      "season": 2023,
+      "week": 1,
+      "home": "TDs and Beer",
+      "home_score": 80.84,
+      "away": "Ulm FC",
+      "away_score": 72.8,
+      "margin": 8.040000000000006
+    },
+    {
+      "season": 2023,
+      "week": 1,
+      "home": "Team Lindner",
+      "home_score": 140.76,
+      "away": "Snack Daddy",
+      "away_score": 98.94,
+      "margin": 41.81999999999999
+    },
+    {
+      "season": 2023,
+      "week": 1,
+      "home": "Turd Ferguson",
+      "home_score": 126.76,
+      "away": "Running Back U",
+      "away_score": 79.52,
+      "margin": 47.24000000000001
+    },
+    {
+      "season": 2023,
+      "week": 1,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 100.98,
+      "away": "Brees Nutz",
+      "away_score": 86.84,
+      "margin": 14.14
+    },
+    {
+      "season": 2023,
+      "week": 1,
+      "home": "The Love Boat",
+      "home_score": 97.78,
+      "away": "Witness",
+      "away_score": 79.82,
+      "margin": 17.960000000000008
+    },
+    {
+      "season": 2023,
+      "week": 2,
+      "home": "Scrote Squad",
+      "home_score": 109.98,
+      "away": "Ulm FC",
+      "away_score": 120.72,
+      "margin": 10.739999999999995
+    },
+    {
+      "season": 2023,
+      "week": 2,
+      "home": "Snack Daddy",
+      "home_score": 100.64,
+      "away": "King of the North",
+      "away_score": 123.46,
+      "margin": 22.819999999999993
+    },
+    {
+      "season": 2023,
+      "week": 2,
+      "home": "Running Back U",
+      "home_score": 127.04,
+      "away": "TDs and Beer",
+      "away_score": 70.84,
+      "margin": 56.2
+    },
+    {
+      "season": 2023,
+      "week": 2,
+      "home": "Brees Nutz",
+      "home_score": 88.7,
+      "away": "Team Lindner",
+      "away_score": 134.36,
+      "margin": 45.66000000000001
+    },
+    {
+      "season": 2023,
+      "week": 2,
+      "home": "Witness",
+      "home_score": 123.2,
+      "away": "Turd Ferguson",
+      "away_score": 109.2,
+      "margin": 14.0
+    },
+    {
+      "season": 2023,
+      "week": 2,
+      "home": "The Love Boat",
+      "home_score": 137.24,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 97.68,
+      "margin": 39.56
+    },
+    {
+      "season": 2023,
+      "week": 3,
+      "home": "Snack Daddy",
+      "home_score": 116.26,
+      "away": "Scrote Squad",
+      "away_score": 154.18,
+      "margin": 37.92
+    },
+    {
+      "season": 2023,
+      "week": 3,
+      "home": "Ulm FC",
+      "home_score": 100.38,
+      "away": "Running Back U",
+      "away_score": 113.66,
+      "margin": 13.280000000000001
+    },
+    {
+      "season": 2023,
+      "week": 3,
+      "home": "King of the North",
+      "home_score": 116.22,
+      "away": "Brees Nutz",
+      "away_score": 180.04,
+      "margin": 63.81999999999999
+    },
+    {
+      "season": 2023,
+      "week": 3,
+      "home": "TDs and Beer",
+      "home_score": 86.06,
+      "away": "Witness",
+      "away_score": 76.56,
+      "margin": 9.5
+    },
+    {
+      "season": 2023,
+      "week": 3,
+      "home": "Team Lindner",
+      "home_score": 108.88,
+      "away": "The Love Boat",
+      "away_score": 125.24,
+      "margin": 16.36
+    },
+    {
+      "season": 2023,
+      "week": 3,
+      "home": "Turd Ferguson",
+      "home_score": 157.6,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 109.76,
+      "margin": 47.83999999999999
+    },
+    {
+      "season": 2023,
+      "week": 4,
+      "home": "Scrote Squad",
+      "home_score": 108.44,
+      "away": "Running Back U",
+      "away_score": 133.2,
+      "margin": 24.75999999999999
+    },
+    {
+      "season": 2023,
+      "week": 4,
+      "home": "Brees Nutz",
+      "home_score": 77.92,
+      "away": "Snack Daddy",
+      "away_score": 125.8,
+      "margin": 47.879999999999995
+    },
+    {
+      "season": 2023,
+      "week": 4,
+      "home": "Witness",
+      "home_score": 110.34,
+      "away": "Ulm FC",
+      "away_score": 95.26,
+      "margin": 15.079999999999998
+    },
+    {
+      "season": 2023,
+      "week": 4,
+      "home": "The Love Boat",
+      "home_score": 174.22,
+      "away": "King of the North",
+      "away_score": 123.3,
+      "margin": 50.92
+    },
+    {
+      "season": 2023,
+      "week": 4,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 125.42,
+      "away": "TDs and Beer",
+      "away_score": 83.08,
+      "margin": 42.34
+    },
+    {
+      "season": 2023,
+      "week": 4,
+      "home": "Turd Ferguson",
+      "home_score": 109.08,
+      "away": "Team Lindner",
+      "away_score": 94.16,
+      "margin": 14.920000000000002
+    },
+    {
+      "season": 2023,
+      "week": 5,
+      "home": "Brees Nutz",
+      "home_score": 116.84,
+      "away": "Scrote Squad",
+      "away_score": 93.14,
+      "margin": 23.700000000000003
+    },
+    {
+      "season": 2023,
+      "week": 5,
+      "home": "Running Back U",
+      "home_score": 84.62,
+      "away": "Witness",
+      "away_score": 79.72,
+      "margin": 4.900000000000006
+    },
+    {
+      "season": 2023,
+      "week": 5,
+      "home": "Snack Daddy",
+      "home_score": 143.58,
+      "away": "The Love Boat",
+      "away_score": 106.48,
+      "margin": 37.10000000000001
+    },
+    {
+      "season": 2023,
+      "week": 5,
+      "home": "Ulm FC",
+      "home_score": 83.72,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 145.18,
+      "margin": 61.46000000000001
+    },
+    {
+      "season": 2023,
+      "week": 5,
+      "home": "King of the North",
+      "home_score": 130.26,
+      "away": "Turd Ferguson",
+      "away_score": 130.34,
+      "margin": 0.0800000000000125
+    },
+    {
+      "season": 2023,
+      "week": 5,
+      "home": "TDs and Beer",
+      "home_score": 126.44,
+      "away": "Team Lindner",
+      "away_score": 79.36,
+      "margin": 47.08
+    },
+    {
+      "season": 2023,
+      "week": 6,
+      "home": "Scrote Squad",
+      "home_score": 83.12,
+      "away": "Witness",
+      "away_score": 108.28,
+      "margin": 25.159999999999997
+    },
+    {
+      "season": 2023,
+      "week": 6,
+      "home": "The Love Boat",
+      "home_score": 98.44,
+      "away": "Brees Nutz",
+      "away_score": 123.64,
+      "margin": 25.200000000000003
+    },
+    {
+      "season": 2023,
+      "week": 6,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 103.7,
+      "away": "Running Back U",
+      "away_score": 105.88,
+      "margin": 2.1799999999999926
+    },
+    {
+      "season": 2023,
+      "week": 6,
+      "home": "Turd Ferguson",
+      "home_score": 121.68,
+      "away": "Snack Daddy",
+      "away_score": 82.92,
+      "margin": 38.760000000000005
+    },
+    {
+      "season": 2023,
+      "week": 6,
+      "home": "Team Lindner",
+      "home_score": 91.64,
+      "away": "Ulm FC",
+      "away_score": 120.6,
+      "margin": 28.959999999999994
+    },
+    {
+      "season": 2023,
+      "week": 6,
+      "home": "TDs and Beer",
+      "home_score": 99.04,
+      "away": "King of the North",
+      "away_score": 113.36,
+      "margin": 14.319999999999993
+    },
+    {
+      "season": 2023,
+      "week": 7,
+      "home": "The Love Boat",
+      "home_score": 123.6,
+      "away": "Scrote Squad",
+      "away_score": 107.88,
+      "margin": 15.719999999999999
+    },
+    {
+      "season": 2023,
+      "week": 7,
+      "home": "Witness",
+      "home_score": 97.2,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 177.28,
+      "margin": 80.08
+    },
+    {
+      "season": 2023,
+      "week": 7,
+      "home": "Brees Nutz",
+      "home_score": 79.26,
+      "away": "Turd Ferguson",
+      "away_score": 70.56,
+      "margin": 8.700000000000003
+    },
+    {
+      "season": 2023,
+      "week": 7,
+      "home": "Running Back U",
+      "home_score": 127.54,
+      "away": "Team Lindner",
+      "away_score": 104.66,
+      "margin": 22.88000000000001
+    },
+    {
+      "season": 2023,
+      "week": 7,
+      "home": "Snack Daddy",
+      "home_score": 103.36,
+      "away": "TDs and Beer",
+      "away_score": 71.24,
+      "margin": 32.120000000000005
+    },
+    {
+      "season": 2023,
+      "week": 7,
+      "home": "Ulm FC",
+      "home_score": 125.16,
+      "away": "King of the North",
+      "away_score": 134.0,
+      "margin": 8.840000000000003
+    },
+    {
+      "season": 2023,
+      "week": 8,
+      "home": "Scrote Squad",
+      "home_score": 94.38,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 146.4,
+      "margin": 52.02000000000001
+    },
+    {
+      "season": 2023,
+      "week": 8,
+      "home": "Turd Ferguson",
+      "home_score": 150.12,
+      "away": "The Love Boat",
+      "away_score": 107.26,
+      "margin": 42.86
+    },
+    {
+      "season": 2023,
+      "week": 8,
+      "home": "Team Lindner",
+      "home_score": 117.56,
+      "away": "Witness",
+      "away_score": 143.16,
+      "margin": 25.599999999999994
+    },
+    {
+      "season": 2023,
+      "week": 8,
+      "home": "TDs and Beer",
+      "home_score": 128.38,
+      "away": "Brees Nutz",
+      "away_score": 99.7,
+      "margin": 28.679999999999993
+    },
+    {
+      "season": 2023,
+      "week": 8,
+      "home": "King of the North",
+      "home_score": 133.86,
+      "away": "Running Back U",
+      "away_score": 126.76,
+      "margin": 7.1000000000000085
+    },
+    {
+      "season": 2023,
+      "week": 8,
+      "home": "Ulm FC",
+      "home_score": 98.26,
+      "away": "Snack Daddy",
+      "away_score": 94.02,
+      "margin": 4.240000000000009
+    },
+    {
+      "season": 2023,
+      "week": 9,
+      "home": "Turd Ferguson",
+      "home_score": 81.54,
+      "away": "Scrote Squad",
+      "away_score": 115.28,
+      "margin": 33.739999999999995
+    },
+    {
+      "season": 2023,
+      "week": 9,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 84.92,
+      "away": "Team Lindner",
+      "away_score": 103.6,
+      "margin": 18.679999999999993
+    },
+    {
+      "season": 2023,
+      "week": 9,
+      "home": "The Love Boat",
+      "home_score": 113.44,
+      "away": "TDs and Beer",
+      "away_score": 80.9,
+      "margin": 32.53999999999999
+    },
+    {
+      "season": 2023,
+      "week": 9,
+      "home": "Witness",
+      "home_score": 129.96,
+      "away": "King of the North",
+      "away_score": 98.42,
+      "margin": 31.540000000000006
+    },
+    {
+      "season": 2023,
+      "week": 9,
+      "home": "Brees Nutz",
+      "home_score": 100.2,
+      "away": "Ulm FC",
+      "away_score": 96.78,
+      "margin": 3.4200000000000017
+    },
+    {
+      "season": 2023,
+      "week": 9,
+      "home": "Running Back U",
+      "home_score": 125.82,
+      "away": "Snack Daddy",
+      "away_score": 104.14,
+      "margin": 21.679999999999993
+    },
+    {
+      "season": 2023,
+      "week": 10,
+      "home": "Scrote Squad",
+      "home_score": 108.92,
+      "away": "Team Lindner",
+      "away_score": 106.42,
+      "margin": 2.5
+    },
+    {
+      "season": 2023,
+      "week": 10,
+      "home": "TDs and Beer",
+      "home_score": 103.42,
+      "away": "Turd Ferguson",
+      "away_score": 110.22,
+      "margin": 6.799999999999997
+    },
+    {
+      "season": 2023,
+      "week": 10,
+      "home": "King of the North",
+      "home_score": 115.78,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 118.88,
+      "margin": 3.0999999999999943
+    },
+    {
+      "season": 2023,
+      "week": 10,
+      "home": "Ulm FC",
+      "home_score": 91.26,
+      "away": "The Love Boat",
+      "away_score": 82.26,
+      "margin": 9.0
+    },
+    {
+      "season": 2023,
+      "week": 10,
+      "home": "Snack Daddy",
+      "home_score": 88.6,
+      "away": "Witness",
+      "away_score": 143.96,
+      "margin": 55.360000000000014
+    },
+    {
+      "season": 2023,
+      "week": 10,
+      "home": "Running Back U",
+      "home_score": 151.18,
+      "away": "Brees Nutz",
+      "away_score": 156.26,
+      "margin": 5.079999999999984
+    },
+    {
+      "season": 2023,
+      "week": 11,
+      "home": "TDs and Beer",
+      "home_score": 98.34,
+      "away": "Scrote Squad",
+      "away_score": 89.66,
+      "margin": 8.680000000000007
+    },
+    {
+      "season": 2023,
+      "week": 11,
+      "home": "Team Lindner",
+      "home_score": 120.34,
+      "away": "King of the North",
+      "away_score": 106.44,
+      "margin": 13.900000000000006
+    },
+    {
+      "season": 2023,
+      "week": 11,
+      "home": "Turd Ferguson",
+      "home_score": 123.1,
+      "away": "Ulm FC",
+      "away_score": 72.4,
+      "margin": 50.69999999999999
+    },
+    {
+      "season": 2023,
+      "week": 11,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 142.12,
+      "away": "Snack Daddy",
+      "away_score": 83.9,
+      "margin": 58.22
+    },
+    {
+      "season": 2023,
+      "week": 11,
+      "home": "The Love Boat",
+      "home_score": 74.68,
+      "away": "Running Back U",
+      "away_score": 121.1,
+      "margin": 46.41999999999999
+    },
+    {
+      "season": 2023,
+      "week": 11,
+      "home": "Witness",
+      "home_score": 80.76,
+      "away": "Brees Nutz",
+      "away_score": 147.68,
+      "margin": 66.92
+    },
+    {
+      "season": 2023,
+      "week": 12,
+      "home": "Scrote Squad",
+      "home_score": 86.28,
+      "away": "King of the North",
+      "away_score": 149.56,
+      "margin": 63.28
+    },
+    {
+      "season": 2023,
+      "week": 12,
+      "home": "Ulm FC",
+      "home_score": 98.8,
+      "away": "TDs and Beer",
+      "away_score": 91.1,
+      "margin": 7.700000000000003
+    },
+    {
+      "season": 2023,
+      "week": 12,
+      "home": "Snack Daddy",
+      "home_score": 130.78,
+      "away": "Team Lindner",
+      "away_score": 108.26,
+      "margin": 22.519999999999996
+    },
+    {
+      "season": 2023,
+      "week": 12,
+      "home": "Running Back U",
+      "home_score": 128.92,
+      "away": "Turd Ferguson",
+      "away_score": 123.88,
+      "margin": 5.039999999999992
+    },
+    {
+      "season": 2023,
+      "week": 12,
+      "home": "Brees Nutz",
+      "home_score": 98.02,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 97.66,
+      "margin": 0.35999999999999943
+    },
+    {
+      "season": 2023,
+      "week": 12,
+      "home": "Witness",
+      "home_score": 134.54,
+      "away": "The Love Boat",
+      "away_score": 134.12,
+      "margin": 0.4199999999999875
+    },
+    {
+      "season": 2023,
+      "week": 13,
+      "home": "Ulm FC",
+      "home_score": 81.72,
+      "away": "Scrote Squad",
+      "away_score": 121.86,
+      "margin": 40.14
+    },
+    {
+      "season": 2023,
+      "week": 13,
+      "home": "King of the North",
+      "home_score": 149.56,
+      "away": "Snack Daddy",
+      "away_score": 88.9,
+      "margin": 60.66
+    },
+    {
+      "season": 2023,
+      "week": 13,
+      "home": "TDs and Beer",
+      "home_score": 171.44,
+      "away": "Running Back U",
+      "away_score": 91.1,
+      "margin": 80.34
+    },
+    {
+      "season": 2023,
+      "week": 13,
+      "home": "Team Lindner",
+      "home_score": 123.14,
+      "away": "Brees Nutz",
+      "away_score": 72.8,
+      "margin": 50.34
+    },
+    {
+      "season": 2023,
+      "week": 13,
+      "home": "Turd Ferguson",
+      "home_score": 158.08,
+      "away": "Witness",
+      "away_score": 117.96,
+      "margin": 40.12000000000002
+    },
+    {
+      "season": 2023,
+      "week": 13,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 114.06,
+      "away": "The Love Boat",
+      "away_score": 118.58,
+      "margin": 4.519999999999996
+    },
+    {
+      "season": 2023,
+      "week": 14,
+      "home": "Scrote Squad",
+      "home_score": 104.64,
+      "away": "Snack Daddy",
+      "away_score": 133.72,
+      "margin": 29.08
+    },
+    {
+      "season": 2023,
+      "week": 14,
+      "home": "Running Back U",
+      "home_score": 107.7,
+      "away": "Ulm FC",
+      "away_score": 85.58,
+      "margin": 22.120000000000005
+    },
+    {
+      "season": 2023,
+      "week": 14,
+      "home": "Brees Nutz",
+      "home_score": 101.14,
+      "away": "King of the North",
+      "away_score": 99.92,
+      "margin": 1.2199999999999989
+    },
+    {
+      "season": 2023,
+      "week": 14,
+      "home": "Witness",
+      "home_score": 117.74,
+      "away": "TDs and Beer",
+      "away_score": 125.22,
+      "margin": 7.480000000000004
+    },
+    {
+      "season": 2023,
+      "week": 14,
+      "home": "The Love Boat",
+      "home_score": 99.12,
+      "away": "Team Lindner",
+      "away_score": 108.26,
+      "margin": 9.14
+    },
+    {
+      "season": 2023,
+      "week": 14,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 128.62,
+      "away": "Turd Ferguson",
+      "away_score": 118.74,
+      "margin": 9.88000000000001
+    },
+    {
+      "season": 2023,
+      "week": 15,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 153.08,
+      "away": "King of the North",
+      "away_score": 112.56,
+      "margin": 40.52000000000001
+    },
+    {
+      "season": 2023,
+      "week": 15,
+      "home": "Brees Nutz",
+      "home_score": 96.8,
+      "away": "The Love Boat",
+      "away_score": 111.16,
+      "margin": 14.36
+    },
+    {
+      "season": 2023,
+      "week": 15,
+      "home": "Witness",
+      "home_score": 81.96,
+      "away": "TDs and Beer",
+      "away_score": 75.52,
+      "margin": 6.439999999999998
+    },
+    {
+      "season": 2023,
+      "week": 15,
+      "home": "Team Lindner",
+      "home_score": 100.12,
+      "away": "Snack Daddy",
+      "away_score": 110.34,
+      "margin": 10.219999999999999
+    },
+    {
+      "season": 2023,
+      "week": 15,
+      "home": "Ulm FC",
+      "home_score": 133.52,
+      "away": "Scrote Squad",
+      "away_score": 89.94,
+      "margin": 43.58000000000001
+    },
+    {
+      "season": 2023,
+      "week": 16,
+      "home": "Running Back U",
+      "home_score": 110.82,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 83.7,
+      "margin": 27.11999999999999
+    },
+    {
+      "season": 2023,
+      "week": 16,
+      "home": "Turd Ferguson",
+      "home_score": 92.58,
+      "away": "The Love Boat",
+      "away_score": 92.34,
+      "margin": 0.23999999999999488
+    },
+    {
+      "season": 2023,
+      "week": 16,
+      "home": "Brees Nutz",
+      "home_score": 145.4,
+      "away": "King of the North",
+      "away_score": 99.28,
+      "margin": 46.120000000000005
+    },
+    {
+      "season": 2023,
+      "week": 16,
+      "home": "Witness",
+      "home_score": 117.12,
+      "away": "Snack Daddy",
+      "away_score": 117.5,
+      "margin": 0.37999999999999545
+    },
+    {
+      "season": 2023,
+      "week": 16,
+      "home": "TDs and Beer",
+      "home_score": 128.92,
+      "away": "Ulm FC",
+      "away_score": 102.84,
+      "margin": 26.079999999999984
+    },
+    {
+      "season": 2023,
+      "week": 16,
+      "home": "Team Lindner",
+      "home_score": 144.52,
+      "away": "Scrote Squad",
+      "away_score": 75.48,
+      "margin": 69.04
+    },
+    {
+      "season": 2023,
+      "week": 17,
+      "home": "Running Back U",
+      "home_score": 88.18,
+      "away": "Turd Ferguson",
+      "away_score": 117.94,
+      "margin": 29.75999999999999
+    },
+    {
+      "season": 2023,
+      "week": 17,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 92.2,
+      "away": "The Love Boat",
+      "away_score": 114.58,
+      "margin": 22.379999999999995
+    },
+    {
+      "season": 2023,
+      "week": 17,
+      "home": "Brees Nutz",
+      "home_score": 60.1,
+      "away": "King of the North",
+      "away_score": 117.56,
+      "margin": 57.46
+    },
+    {
+      "season": 2023,
+      "week": 17,
+      "home": "TDs and Beer",
+      "home_score": 94.18,
+      "away": "Snack Daddy",
+      "away_score": 124.82,
+      "margin": 30.639999999999986
+    },
+    {
+      "season": 2023,
+      "week": 17,
+      "home": "Witness",
+      "home_score": 90.5,
+      "away": "Team Lindner",
+      "away_score": 79.58,
+      "margin": 10.920000000000002
+    },
+    {
+      "season": 2023,
+      "week": 17,
+      "home": "Ulm FC",
+      "home_score": 116.48,
+      "away": "Scrote Squad",
+      "away_score": 155.64,
+      "margin": 39.15999999999998
+    },
+    {
+      "season": 2024,
+      "week": 1,
+      "home": "King of the North",
+      "home_score": 107.32,
+      "away": "Scrote Squad",
+      "away_score": 131.98,
+      "margin": 24.659999999999997
+    },
+    {
+      "season": 2024,
+      "week": 1,
+      "home": "Dont Touchdown there",
+      "home_score": 83.66,
+      "away": "Ulm FC",
+      "away_score": 126.48,
+      "margin": 42.82000000000001
+    },
+    {
+      "season": 2024,
+      "week": 1,
+      "home": "Team Lindner",
+      "home_score": 84.86,
+      "away": "Snack Daddy",
+      "away_score": 86.06,
+      "margin": 1.2000000000000028
+    },
+    {
+      "season": 2024,
+      "week": 1,
+      "home": "Turd Ferguson",
+      "home_score": 107.4,
+      "away": "Running Back U",
+      "away_score": 95.44,
+      "margin": 11.960000000000008
+    },
+    {
+      "season": 2024,
+      "week": 1,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 142.44,
+      "away": "Brees Nutz",
+      "away_score": 85.42,
+      "margin": 57.019999999999996
+    },
+    {
+      "season": 2024,
+      "week": 1,
+      "home": "The Love Boat",
+      "home_score": 73.46,
+      "away": "Witness",
+      "away_score": 98.28,
+      "margin": 24.820000000000007
+    },
+    {
+      "season": 2024,
+      "week": 2,
+      "home": "Scrote Squad",
+      "home_score": 66.16,
+      "away": "Ulm FC",
+      "away_score": 58.46,
+      "margin": 7.699999999999996
+    },
+    {
+      "season": 2024,
+      "week": 2,
+      "home": "Snack Daddy",
+      "home_score": 80.9,
+      "away": "King of the North",
+      "away_score": 92.32,
+      "margin": 11.419999999999987
+    },
+    {
+      "season": 2024,
+      "week": 2,
+      "home": "Running Back U",
+      "home_score": 117.54,
+      "away": "Dont Touchdown there",
+      "away_score": 142.24,
+      "margin": 24.700000000000003
+    },
+    {
+      "season": 2024,
+      "week": 2,
+      "home": "Brees Nutz",
+      "home_score": 99.08,
+      "away": "Team Lindner",
+      "away_score": 115.12,
+      "margin": 16.040000000000006
+    },
+    {
+      "season": 2024,
+      "week": 2,
+      "home": "Witness",
+      "home_score": 127.54,
+      "away": "Turd Ferguson",
+      "away_score": 88.8,
+      "margin": 38.74000000000001
+    },
+    {
+      "season": 2024,
+      "week": 2,
+      "home": "The Love Boat",
+      "home_score": 118.02,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 118.76,
+      "margin": 0.7400000000000091
+    },
+    {
+      "season": 2024,
+      "week": 3,
+      "home": "Snack Daddy",
+      "home_score": 58.4,
+      "away": "Scrote Squad",
+      "away_score": 52.28,
+      "margin": 6.119999999999997
+    },
+    {
+      "season": 2024,
+      "week": 3,
+      "home": "Ulm FC",
+      "home_score": 93.72,
+      "away": "Running Back U",
+      "away_score": 103.88,
+      "margin": 10.159999999999997
+    },
+    {
+      "season": 2024,
+      "week": 3,
+      "home": "King of the North",
+      "home_score": 118.94,
+      "away": "Brees Nutz",
+      "away_score": 166.08,
+      "margin": 47.140000000000015
+    },
+    {
+      "season": 2024,
+      "week": 3,
+      "home": "Dont Touchdown there",
+      "home_score": 133.66,
+      "away": "Witness",
+      "away_score": 80.5,
+      "margin": 53.16
+    },
+    {
+      "season": 2024,
+      "week": 3,
+      "home": "Team Lindner",
+      "home_score": 114.36,
+      "away": "The Love Boat",
+      "away_score": 144.86,
+      "margin": 30.500000000000014
+    },
+    {
+      "season": 2024,
+      "week": 3,
+      "home": "Turd Ferguson",
+      "home_score": 71.4,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 93.68,
+      "margin": 22.28
+    },
+    {
+      "season": 2024,
+      "week": 4,
+      "home": "Scrote Squad",
+      "home_score": 101.74,
+      "away": "Running Back U",
+      "away_score": 110.3,
+      "margin": 8.560000000000002
+    },
+    {
+      "season": 2024,
+      "week": 4,
+      "home": "Brees Nutz",
+      "home_score": 108.14,
+      "away": "Snack Daddy",
+      "away_score": 124.1,
+      "margin": 15.959999999999994
+    },
+    {
+      "season": 2024,
+      "week": 4,
+      "home": "Witness",
+      "home_score": 73.76,
+      "away": "Ulm FC",
+      "away_score": 86.3,
+      "margin": 12.539999999999992
+    },
+    {
+      "season": 2024,
+      "week": 4,
+      "home": "The Love Boat",
+      "home_score": 80.14,
+      "away": "King of the North",
+      "away_score": 95.22,
+      "margin": 15.079999999999998
+    },
+    {
+      "season": 2024,
+      "week": 4,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 117.82,
+      "away": "Dont Touchdown there",
+      "away_score": 100.52,
+      "margin": 17.299999999999997
+    },
+    {
+      "season": 2024,
+      "week": 4,
+      "home": "Turd Ferguson",
+      "home_score": 89.66,
+      "away": "Team Lindner",
+      "away_score": 85.58,
+      "margin": 4.079999999999998
+    },
+    {
+      "season": 2024,
+      "week": 5,
+      "home": "Brees Nutz",
+      "home_score": 140.42,
+      "away": "Scrote Squad",
+      "away_score": 72.8,
+      "margin": 67.61999999999999
+    },
+    {
+      "season": 2024,
+      "week": 5,
+      "home": "Running Back U",
+      "home_score": 112.44,
+      "away": "Witness",
+      "away_score": 82.1,
+      "margin": 30.340000000000003
+    },
+    {
+      "season": 2024,
+      "week": 5,
+      "home": "Snack Daddy",
+      "home_score": 77.74,
+      "away": "The Love Boat",
+      "away_score": 79.48,
+      "margin": 1.740000000000009
+    },
+    {
+      "season": 2024,
+      "week": 5,
+      "home": "Ulm FC",
+      "home_score": 59.74,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 81.66,
+      "margin": 21.919999999999995
+    },
+    {
+      "season": 2024,
+      "week": 5,
+      "home": "King of the North",
+      "home_score": 75.6,
+      "away": "Turd Ferguson",
+      "away_score": 87.06,
+      "margin": 11.460000000000008
+    },
+    {
+      "season": 2024,
+      "week": 5,
+      "home": "Dont Touchdown there",
+      "home_score": 67.72,
+      "away": "Team Lindner",
+      "away_score": 90.08,
+      "margin": 22.36
+    },
+    {
+      "season": 2024,
+      "week": 6,
+      "home": "Scrote Squad",
+      "home_score": 76.1,
+      "away": "Witness",
+      "away_score": 118.66,
+      "margin": 42.56
+    },
+    {
+      "season": 2024,
+      "week": 6,
+      "home": "The Love Boat",
+      "home_score": 58.42,
+      "away": "Brees Nutz",
+      "away_score": 92.32,
+      "margin": 33.89999999999999
+    },
+    {
+      "season": 2024,
+      "week": 6,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 102.3,
+      "away": "Running Back U",
+      "away_score": 88.4,
+      "margin": 13.899999999999991
+    },
+    {
+      "season": 2024,
+      "week": 6,
+      "home": "Turd Ferguson",
+      "home_score": 89.52,
+      "away": "Snack Daddy",
+      "away_score": 73.78,
+      "margin": 15.739999999999995
+    },
+    {
+      "season": 2024,
+      "week": 6,
+      "home": "Team Lindner",
+      "home_score": 71.92,
+      "away": "Ulm FC",
+      "away_score": 117.9,
+      "margin": 45.980000000000004
+    },
+    {
+      "season": 2024,
+      "week": 6,
+      "home": "Dont Touchdown there",
+      "home_score": 107.66,
+      "away": "King of the North",
+      "away_score": 54.36,
+      "margin": 53.3
+    },
+    {
+      "season": 2024,
+      "week": 7,
+      "home": "The Love Boat",
+      "home_score": 48.4,
+      "away": "Scrote Squad",
+      "away_score": 59.76,
+      "margin": 11.36
+    },
+    {
+      "season": 2024,
+      "week": 7,
+      "home": "Witness",
+      "home_score": 126.4,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 78.68,
+      "margin": 47.72
+    },
+    {
+      "season": 2024,
+      "week": 7,
+      "home": "Brees Nutz",
+      "home_score": 137.24,
+      "away": "Turd Ferguson",
+      "away_score": 69.3,
+      "margin": 67.94000000000001
+    },
+    {
+      "season": 2024,
+      "week": 7,
+      "home": "Running Back U",
+      "home_score": 70.76,
+      "away": "Team Lindner",
+      "away_score": 79.24,
+      "margin": 8.47999999999999
+    },
+    {
+      "season": 2024,
+      "week": 7,
+      "home": "Snack Daddy",
+      "home_score": 52.04,
+      "away": "Dont Touchdown there",
+      "away_score": 92.44,
+      "margin": 40.4
+    },
+    {
+      "season": 2024,
+      "week": 7,
+      "home": "Ulm FC",
+      "home_score": 138.82,
+      "away": "King of the North",
+      "away_score": 89.56,
+      "margin": 49.25999999999999
+    },
+    {
+      "season": 2024,
+      "week": 8,
+      "home": "Scrote Squad",
+      "home_score": 124.8,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 151.32,
+      "margin": 26.519999999999996
+    },
+    {
+      "season": 2024,
+      "week": 8,
+      "home": "Turd Ferguson",
+      "home_score": 79.34,
+      "away": "The Love Boat",
+      "away_score": 94.62,
+      "margin": 15.280000000000001
+    },
+    {
+      "season": 2024,
+      "week": 8,
+      "home": "Team Lindner",
+      "home_score": 90.46,
+      "away": "Witness",
+      "away_score": 123.88,
+      "margin": 33.42
+    },
+    {
+      "season": 2024,
+      "week": 8,
+      "home": "Dont Touchdown there",
+      "home_score": 101.84,
+      "away": "Brees Nutz",
+      "away_score": 97.46,
+      "margin": 4.38000000000001
+    },
+    {
+      "season": 2024,
+      "week": 8,
+      "home": "King of the North",
+      "home_score": 124.56,
+      "away": "Running Back U",
+      "away_score": 82.18,
+      "margin": 42.379999999999995
+    },
+    {
+      "season": 2024,
+      "week": 8,
+      "home": "Ulm FC",
+      "home_score": 134.42,
+      "away": "Snack Daddy",
+      "away_score": 75.7,
+      "margin": 58.719999999999985
+    },
+    {
+      "season": 2024,
+      "week": 9,
+      "home": "Turd Ferguson",
+      "home_score": 76.32,
+      "away": "Scrote Squad",
+      "away_score": 108.5,
+      "margin": 32.18000000000001
+    },
+    {
+      "season": 2024,
+      "week": 9,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 79.8,
+      "away": "Team Lindner",
+      "away_score": 109.42,
+      "margin": 29.620000000000005
+    },
+    {
+      "season": 2024,
+      "week": 9,
+      "home": "The Love Boat",
+      "home_score": 57.32,
+      "away": "Dont Touchdown there",
+      "away_score": 53.26,
+      "margin": 4.060000000000002
+    },
+    {
+      "season": 2024,
+      "week": 9,
+      "home": "Witness",
+      "home_score": 91.06,
+      "away": "King of the North",
+      "away_score": 148.38,
+      "margin": 57.31999999999999
+    },
+    {
+      "season": 2024,
+      "week": 9,
+      "home": "Brees Nutz",
+      "home_score": 98.6,
+      "away": "Ulm FC",
+      "away_score": 98.1,
+      "margin": 0.5
+    },
+    {
+      "season": 2024,
+      "week": 9,
+      "home": "Running Back U",
+      "home_score": 94.04,
+      "away": "Snack Daddy",
+      "away_score": 106.04,
+      "margin": 12.0
+    },
+    {
+      "season": 2024,
+      "week": 10,
+      "home": "Scrote Squad",
+      "home_score": 96.5,
+      "away": "Team Lindner",
+      "away_score": 103.12,
+      "margin": 6.6200000000000045
+    },
+    {
+      "season": 2024,
+      "week": 10,
+      "home": "Dont Touchdown there",
+      "home_score": 80.28,
+      "away": "Turd Ferguson",
+      "away_score": 54.8,
+      "margin": 25.480000000000004
+    },
+    {
+      "season": 2024,
+      "week": 10,
+      "home": "King of the North",
+      "home_score": 100.78,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 105.72,
+      "margin": 4.939999999999998
+    },
+    {
+      "season": 2024,
+      "week": 10,
+      "home": "Ulm FC",
+      "home_score": 66.5,
+      "away": "The Love Boat",
+      "away_score": 83.5,
+      "margin": 17.0
+    },
+    {
+      "season": 2024,
+      "week": 10,
+      "home": "Snack Daddy",
+      "home_score": 44.58,
+      "away": "Witness",
+      "away_score": 98.54,
+      "margin": 53.96000000000001
+    },
+    {
+      "season": 2024,
+      "week": 10,
+      "home": "Running Back U",
+      "home_score": 90.94,
+      "away": "Brees Nutz",
+      "away_score": 74.6,
+      "margin": 16.340000000000003
+    },
+    {
+      "season": 2024,
+      "week": 11,
+      "home": "Dont Touchdown there",
+      "home_score": 91.44,
+      "away": "Scrote Squad",
+      "away_score": 76.68,
+      "margin": 14.759999999999991
+    },
+    {
+      "season": 2024,
+      "week": 11,
+      "home": "Team Lindner",
+      "home_score": 88.84,
+      "away": "King of the North",
+      "away_score": 116.94,
+      "margin": 28.099999999999994
+    },
+    {
+      "season": 2024,
+      "week": 11,
+      "home": "Turd Ferguson",
+      "home_score": 84.04,
+      "away": "Ulm FC",
+      "away_score": 137.98,
+      "margin": 53.93999999999998
+    },
+    {
+      "season": 2024,
+      "week": 11,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 121.76,
+      "away": "Snack Daddy",
+      "away_score": 90.18,
+      "margin": 31.58
+    },
+    {
+      "season": 2024,
+      "week": 11,
+      "home": "The Love Boat",
+      "home_score": 52.9,
+      "away": "Running Back U",
+      "away_score": 89.94,
+      "margin": 37.04
+    },
+    {
+      "season": 2024,
+      "week": 11,
+      "home": "Witness",
+      "home_score": 115.7,
+      "away": "Brees Nutz",
+      "away_score": 123.28,
+      "margin": 7.579999999999998
+    },
+    {
+      "season": 2024,
+      "week": 12,
+      "home": "Scrote Squad",
+      "home_score": 88.18,
+      "away": "King of the North",
+      "away_score": 127.16,
+      "margin": 38.97999999999999
+    },
+    {
+      "season": 2024,
+      "week": 12,
+      "home": "Ulm FC",
+      "home_score": 110.1,
+      "away": "Dont Touchdown there",
+      "away_score": 113.8,
+      "margin": 3.700000000000003
+    },
+    {
+      "season": 2024,
+      "week": 12,
+      "home": "Snack Daddy",
+      "home_score": 109.28,
+      "away": "Team Lindner",
+      "away_score": 68.0,
+      "margin": 41.28
+    },
+    {
+      "season": 2024,
+      "week": 12,
+      "home": "Running Back U",
+      "home_score": 93.06,
+      "away": "Turd Ferguson",
+      "away_score": 107.92,
+      "margin": 14.86
+    },
+    {
+      "season": 2024,
+      "week": 12,
+      "home": "Brees Nutz",
+      "home_score": 76.68,
+      "away": "Talk Purdy 2 Me",
+      "away_score": 73.7,
+      "margin": 2.980000000000004
+    },
+    {
+      "season": 2024,
+      "week": 12,
+      "home": "Witness",
+      "home_score": 64.8,
+      "away": "The Love Boat",
+      "away_score": 42.3,
+      "margin": 22.5
+    },
+    {
+      "season": 2024,
+      "week": 13,
+      "home": "Ulm FC",
+      "home_score": 126.22,
+      "away": "Scrote Squad",
+      "away_score": 116.56,
+      "margin": 9.659999999999997
+    },
+    {
+      "season": 2024,
+      "week": 13,
+      "home": "King of the North",
+      "home_score": 117.22,
+      "away": "Snack Daddy",
+      "away_score": 100.28,
+      "margin": 16.939999999999998
+    },
+    {
+      "season": 2024,
+      "week": 13,
+      "home": "Dont Touchdown there",
+      "home_score": 136.94,
+      "away": "Running Back U",
+      "away_score": 144.14,
+      "margin": 7.199999999999989
+    },
+    {
+      "season": 2024,
+      "week": 13,
+      "home": "Team Lindner",
+      "home_score": 107.26,
+      "away": "Brees Nutz",
+      "away_score": 118.48,
+      "margin": 11.219999999999999
+    },
+    {
+      "season": 2024,
+      "week": 13,
+      "home": "Turd Ferguson",
+      "home_score": 103.26,
+      "away": "Witness",
+      "away_score": 79.4,
+      "margin": 23.86
+    },
+    {
+      "season": 2024,
+      "week": 13,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 86.26,
+      "away": "The Love Boat",
+      "away_score": 57.4,
+      "margin": 28.860000000000007
+    },
+    {
+      "season": 2024,
+      "week": 14,
+      "home": "Scrote Squad",
+      "home_score": 116.7,
+      "away": "Snack Daddy",
+      "away_score": 85.2,
+      "margin": 31.5
+    },
+    {
+      "season": 2024,
+      "week": 14,
+      "home": "Running Back U",
+      "home_score": 52.2,
+      "away": "Ulm FC",
+      "away_score": 156.08,
+      "margin": 103.88000000000001
+    },
+    {
+      "season": 2024,
+      "week": 14,
+      "home": "Brees Nutz",
+      "home_score": 71.0,
+      "away": "King of the North",
+      "away_score": 89.12,
+      "margin": 18.120000000000005
+    },
+    {
+      "season": 2024,
+      "week": 14,
+      "home": "Witness",
+      "home_score": 75.26,
+      "away": "Dont Touchdown there",
+      "away_score": 48.0,
+      "margin": 27.260000000000005
+    },
+    {
+      "season": 2024,
+      "week": 14,
+      "home": "The Love Boat",
+      "home_score": 118.14,
+      "away": "Team Lindner",
+      "away_score": 116.16,
+      "margin": 1.980000000000004
+    },
+    {
+      "season": 2024,
+      "week": 14,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 109.3,
+      "away": "Turd Ferguson",
+      "away_score": 134.54,
+      "margin": 25.239999999999995
+    },
+    {
+      "season": 2024,
+      "week": 15,
+      "home": "King of the North",
+      "home_score": 99.5,
+      "away": "Witness",
+      "away_score": 121.26,
+      "margin": 21.760000000000005
+    },
+    {
+      "season": 2024,
+      "week": 15,
+      "home": "Brees Nutz",
+      "home_score": 91.0,
+      "away": "Dont Touchdown there",
+      "away_score": 105.44,
+      "margin": 14.439999999999998
+    },
+    {
+      "season": 2024,
+      "week": 15,
+      "home": "Turd Ferguson",
+      "home_score": 90.86,
+      "away": "Running Back U",
+      "away_score": 105.46,
+      "margin": 14.599999999999994
+    },
+    {
+      "season": 2024,
+      "week": 15,
+      "home": "The Love Boat",
+      "home_score": 103.24,
+      "away": "Team Lindner",
+      "away_score": 105.64,
+      "margin": 2.4000000000000057
+    },
+    {
+      "season": 2024,
+      "week": 15,
+      "home": "Scrote Squad",
+      "home_score": 121.98,
+      "away": "Snack Daddy",
+      "away_score": 74.04,
+      "margin": 47.94
+    },
+    {
+      "season": 2024,
+      "week": 16,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 57.62,
+      "away": "Witness",
+      "away_score": 119.98,
+      "margin": 62.36000000000001
+    },
+    {
+      "season": 2024,
+      "week": 16,
+      "home": "Ulm FC",
+      "home_score": 118.46,
+      "away": "Dont Touchdown there",
+      "away_score": 119.62,
+      "margin": 1.1600000000000108
+    },
+    {
+      "season": 2024,
+      "week": 16,
+      "home": "Brees Nutz",
+      "home_score": 103.98,
+      "away": "King of the North",
+      "away_score": 108.24,
+      "margin": 4.259999999999991
+    },
+    {
+      "season": 2024,
+      "week": 16,
+      "home": "Running Back U",
+      "home_score": 118.4,
+      "away": "Team Lindner",
+      "away_score": 143.88,
+      "margin": 25.47999999999999
+    },
+    {
+      "season": 2024,
+      "week": 16,
+      "home": "Turd Ferguson",
+      "home_score": 109.28,
+      "away": "Scrote Squad",
+      "away_score": 113.24,
+      "margin": 3.9599999999999937
+    },
+    {
+      "season": 2024,
+      "week": 16,
+      "home": "The Love Boat",
+      "home_score": 107.4,
+      "away": "Snack Daddy",
+      "away_score": 125.76,
+      "margin": 18.36
+    },
+    {
+      "season": 2024,
+      "week": 17,
+      "home": "Witness",
+      "home_score": 72.84,
+      "away": "Dont Touchdown there",
+      "away_score": 154.28,
+      "margin": 81.44
+    },
+    {
+      "season": 2024,
+      "week": 17,
+      "home": "Talk Purdy 2 Me",
+      "home_score": 86.28,
+      "away": "Ulm FC",
+      "away_score": 96.58,
+      "margin": 10.299999999999997
+    },
+    {
+      "season": 2024,
+      "week": 17,
+      "home": "Brees Nutz",
+      "home_score": 121.72,
+      "away": "King of the North",
+      "away_score": 92.2,
+      "margin": 29.519999999999996
+    },
+    {
+      "season": 2024,
+      "week": 17,
+      "home": "Team Lindner",
+      "home_score": 105.48,
+      "away": "Scrote Squad",
+      "away_score": 85.7,
+      "margin": 19.78
+    },
+    {
+      "season": 2024,
+      "week": 17,
+      "home": "Running Back U",
+      "home_score": 98.8,
+      "away": "Snack Daddy",
+      "away_score": 72.8,
+      "margin": 26.0
+    },
+    {
+      "season": 2024,
+      "week": 17,
+      "home": "Turd Ferguson",
+      "home_score": 83.7,
+      "away": "The Love Boat",
+      "away_score": 100.0,
+      "margin": 16.299999999999997
+    },
+    {
+      "season": 2025,
+      "week": 1,
+      "home": "Kyle Strandberg",
+      "home_score": 104.72,
+      "away": "Snack Dadddy",
+      "away_score": 87.82,
+      "margin": 16.900000000000006
+    },
+    {
+      "season": 2025,
+      "week": 1,
+      "home": "Ian's Impressive Team",
+      "home_score": 110.88,
+      "away": "Ditka in a Box",
+      "away_score": 75.64,
+      "margin": 35.239999999999995
+    },
+    {
+      "season": 2025,
+      "week": 1,
+      "home": "Rob's Remarkable Team",
+      "home_score": 124.42,
+      "away": "Scrote Squad",
+      "away_score": 82.42,
+      "margin": 42.0
+    },
+    {
+      "season": 2025,
+      "week": 1,
+      "home": "Talk Purdy 2 ME",
+      "home_score": 132.16,
+      "away": "Epstein's List",
+      "away_score": 103.86,
+      "margin": 28.299999999999997
+    },
+    {
+      "season": 2025,
+      "week": 1,
+      "home": "Ulm FC",
+      "home_score": 110.38,
+      "away": "Witness",
+      "away_score": 101.68,
+      "margin": 8.699999999999989
+    },
+    {
+      "season": 2025,
+      "week": 1,
+      "home": "RBU",
+      "home_score": 126.5,
+      "away": "Pocket Pancakes",
+      "away_score": 98.52,
+      "margin": 27.980000000000004
+    },
+    {
+      "season": 2025,
+      "week": 2,
+      "home": "Snack Dadddy",
+      "home_score": 138.6,
+      "away": "Ditka in a Box",
+      "away_score": 100.14,
+      "margin": 38.459999999999994
+    },
+    {
+      "season": 2025,
+      "week": 2,
+      "home": "Scrote Squad",
+      "home_score": 77.04,
+      "away": "Kyle Strandberg",
+      "away_score": 90.8,
+      "margin": 13.759999999999991
+    },
+    {
+      "season": 2025,
+      "week": 2,
+      "home": "Epstein's List",
+      "home_score": 153.8,
+      "away": "Ian's Impressive Team",
+      "away_score": 109.04,
+      "margin": 44.760000000000005
+    },
+    {
+      "season": 2025,
+      "week": 2,
+      "home": "Witness",
+      "home_score": 125.5,
+      "away": "Rob's Remarkable Team",
+      "away_score": 95.28,
+      "margin": 30.22
+    },
+    {
+      "season": 2025,
+      "week": 2,
+      "home": "Pocket Pancakes",
+      "home_score": 133.58,
+      "away": "Talk Purdy 2 ME",
+      "away_score": 100.42,
+      "margin": 33.16000000000001
+    },
+    {
+      "season": 2025,
+      "week": 2,
+      "home": "RBU",
+      "home_score": 109.36,
+      "away": "Ulm FC",
+      "away_score": 110.0,
+      "margin": 0.6400000000000006
+    },
+    {
+      "season": 2025,
+      "week": 3,
+      "home": "Scrote Squad",
+      "home_score": 69.5,
+      "away": "Snack Dadddy",
+      "away_score": 128.38,
+      "margin": 58.879999999999995
+    },
+    {
+      "season": 2025,
+      "week": 3,
+      "home": "Ditka in a Box",
+      "home_score": 116.32,
+      "away": "Epstein's List",
+      "away_score": 100.42,
+      "margin": 15.899999999999991
+    },
+    {
+      "season": 2025,
+      "week": 3,
+      "home": "Kyle Strandberg",
+      "home_score": 114.74,
+      "away": "Witness",
+      "away_score": 89.22,
+      "margin": 25.519999999999996
+    },
+    {
+      "season": 2025,
+      "week": 3,
+      "home": "Ian's Impressive Team",
+      "home_score": 147.64,
+      "away": "Pocket Pancakes",
+      "away_score": 89.36,
+      "margin": 58.27999999999999
+    },
+    {
+      "season": 2025,
+      "week": 3,
+      "home": "Rob's Remarkable Team",
+      "home_score": 143.6,
+      "away": "RBU",
+      "away_score": 131.68,
+      "margin": 11.919999999999987
+    },
+    {
+      "season": 2025,
+      "week": 3,
+      "home": "Talk Purdy 2 ME",
+      "home_score": 102.42,
+      "away": "Ulm FC",
+      "away_score": 109.92,
+      "margin": 7.5
+    },
+    {
+      "season": 2025,
+      "week": 4,
+      "home": "Snack Dadddy",
+      "home_score": 119.88,
+      "away": "Epstein's List",
+      "away_score": 77.18,
+      "margin": 42.69999999999999
+    },
+    {
+      "season": 2025,
+      "week": 4,
+      "home": "Witness",
+      "home_score": 114.16,
+      "away": "Scrote Squad",
+      "away_score": 153.38,
+      "margin": 39.22
+    },
+    {
+      "season": 2025,
+      "week": 4,
+      "home": "Pocket Pancakes",
+      "home_score": 122.3,
+      "away": "Ditka in a Box",
+      "away_score": 91.08,
+      "margin": 31.22
+    },
+    {
+      "season": 2025,
+      "week": 4,
+      "home": "RBU",
+      "home_score": 128.82,
+      "away": "Kyle Strandberg",
+      "away_score": 120.88,
+      "margin": 7.939999999999998
+    },
+    {
+      "season": 2025,
+      "week": 4,
+      "home": "Ulm FC",
+      "home_score": 124.62,
+      "away": "Ian's Impressive Team",
+      "away_score": 108.2,
+      "margin": 16.42
+    },
+    {
+      "season": 2025,
+      "week": 4,
+      "home": "Talk Purdy 2 ME",
+      "home_score": 138.36,
+      "away": "Rob's Remarkable Team",
+      "away_score": 138.28,
+      "margin": 0.0800000000000125
+    },
+    {
+      "season": 2025,
+      "week": 5,
+      "home": "Witness",
+      "home_score": 141.26,
+      "away": "Snack Dadddy",
+      "away_score": 122.74,
+      "margin": 18.519999999999996
+    },
+    {
+      "season": 2025,
+      "week": 5,
+      "home": "Epstein's List",
+      "home_score": 121.42,
+      "away": "Pocket Pancakes",
+      "away_score": 149.32,
+      "margin": 27.89999999999999
+    },
+    {
+      "season": 2025,
+      "week": 5,
+      "home": "Scrote Squad",
+      "home_score": 98.18,
+      "away": "RBU",
+      "away_score": 135.22,
+      "margin": 37.03999999999999
+    },
+    {
+      "season": 2025,
+      "week": 5,
+      "home": "Ditka in a Box",
+      "home_score": 102.48,
+      "away": "Ulm FC",
+      "away_score": 117.92,
+      "margin": 15.439999999999998
+    },
+    {
+      "season": 2025,
+      "week": 5,
+      "home": "Kyle Strandberg",
+      "home_score": 97.48,
+      "away": "Talk Purdy 2 ME",
+      "away_score": 115.02,
+      "margin": 17.539999999999992
+    },
+    {
+      "season": 2025,
+      "week": 5,
+      "home": "Ian's Impressive Team",
+      "home_score": 119.6,
+      "away": "Rob's Remarkable Team",
+      "away_score": 120.86,
+      "margin": 1.2600000000000051
+    },
+    {
+      "season": 2025,
+      "week": 6,
+      "home": "Snack Dadddy",
+      "home_score": 165.74,
+      "away": "Pocket Pancakes",
+      "away_score": 158.78,
+      "margin": 6.960000000000008
+    },
+    {
+      "season": 2025,
+      "week": 6,
+      "home": "RBU",
+      "home_score": 105.72,
+      "away": "Witness",
+      "away_score": 101.14,
+      "margin": 4.579999999999998
+    },
+    {
+      "season": 2025,
+      "week": 6,
+      "home": "Ulm FC",
+      "home_score": 122.44,
+      "away": "Epstein's List",
+      "away_score": 109.32,
+      "margin": 13.120000000000005
+    },
+    {
+      "season": 2025,
+      "week": 6,
+      "home": "Talk Purdy 2 ME",
+      "home_score": 126.62,
+      "away": "Scrote Squad",
+      "away_score": 116.2,
+      "margin": 10.420000000000002
+    },
+    {
+      "season": 2025,
+      "week": 6,
+      "home": "Rob's Remarkable Team",
+      "home_score": 80.86,
+      "away": "Ditka in a Box",
+      "away_score": 91.38,
+      "margin": 10.519999999999996
+    },
+    {
+      "season": 2025,
+      "week": 6,
+      "home": "Ian's Impressive Team",
+      "home_score": 82.92,
+      "away": "Kyle Strandberg",
+      "away_score": 95.16,
+      "margin": 12.239999999999995
+    },
+    {
+      "season": 2025,
+      "week": 7,
+      "home": "RBU",
+      "home_score": 147.34,
+      "away": "Snack Dadddy",
+      "away_score": 88.54,
+      "margin": 58.8
+    },
+    {
+      "season": 2025,
+      "week": 7,
+      "home": "Pocket Pancakes",
+      "home_score": 137.64,
+      "away": "Ulm FC",
+      "away_score": 132.58,
+      "margin": 5.059999999999974
+    },
+    {
+      "season": 2025,
+      "week": 7,
+      "home": "Witness",
+      "home_score": 66.52,
+      "away": "Talk Purdy 2 ME",
+      "away_score": 75.62,
+      "margin": 9.100000000000009
+    },
+    {
+      "season": 2025,
+      "week": 7,
+      "home": "Epstein's List",
+      "home_score": 108.34,
+      "away": "Rob's Remarkable Team",
+      "away_score": 128.1,
+      "margin": 19.75999999999999
+    },
+    {
+      "season": 2025,
+      "week": 7,
+      "home": "Scrote Squad",
+      "home_score": 105.92,
+      "away": "Ian's Impressive Team",
+      "away_score": 90.24,
+      "margin": 15.680000000000007
+    },
+    {
+      "season": 2025,
+      "week": 7,
+      "home": "Ditka in a Box",
+      "home_score": 102.12,
+      "away": "Kyle Strandberg",
+      "away_score": 128.66,
+      "margin": 26.539999999999992
+    },
+    {
+      "season": 2025,
+      "week": 8,
+      "home": "Snack Dadddy",
+      "home_score": 97.36,
+      "away": "Ulm FC",
+      "away_score": 118.58,
+      "margin": 21.22
+    },
+    {
+      "season": 2025,
+      "week": 8,
+      "home": "Talk Purdy 2 ME",
+      "home_score": 111.92,
+      "away": "RBU",
+      "away_score": 100.3,
+      "margin": 11.620000000000005
+    },
+    {
+      "season": 2025,
+      "week": 8,
+      "home": "Rob's Remarkable Team",
+      "home_score": 100.48,
+      "away": "Pocket Pancakes",
+      "away_score": 137.36,
+      "margin": 36.88000000000001
+    },
+    {
+      "season": 2025,
+      "week": 8,
+      "home": "Ian's Impressive Team",
+      "home_score": 104.66,
+      "away": "Witness",
+      "away_score": 58.58,
+      "margin": 46.08
+    },
+    {
+      "season": 2025,
+      "week": 8,
+      "home": "Kyle Strandberg",
+      "home_score": 72.12,
+      "away": "Epstein's List",
+      "away_score": 134.18,
+      "margin": 62.06
+    },
+    {
+      "season": 2025,
+      "week": 8,
+      "home": "Ditka in a Box",
+      "home_score": 114.48,
+      "away": "Scrote Squad",
+      "away_score": 100.52,
+      "margin": 13.960000000000008
+    },
+    {
+      "season": 2025,
+      "week": 9,
+      "home": "Talk Purdy 2 ME",
+      "home_score": 135.52,
+      "away": "Snack Dadddy",
+      "away_score": 159.02,
+      "margin": 23.5
+    },
+    {
+      "season": 2025,
+      "week": 9,
+      "home": "Ulm FC",
+      "home_score": 115.66,
+      "away": "Rob's Remarkable Team",
+      "away_score": 123.1,
+      "margin": 7.439999999999998
+    },
+    {
+      "season": 2025,
+      "week": 9,
+      "home": "RBU",
+      "home_score": 139.0,
+      "away": "Ian's Impressive Team",
+      "away_score": 61.06,
+      "margin": 77.94
+    },
+    {
+      "season": 2025,
+      "week": 9,
+      "home": "Pocket Pancakes",
+      "home_score": 77.9,
+      "away": "Kyle Strandberg",
+      "away_score": 120.9,
+      "margin": 43.0
+    },
+    {
+      "season": 2025,
+      "week": 9,
+      "home": "Witness",
+      "home_score": 91.3,
+      "away": "Ditka in a Box",
+      "away_score": 114.36,
+      "margin": 23.060000000000002
+    },
+    {
+      "season": 2025,
+      "week": 9,
+      "home": "Epstein's List",
+      "home_score": 92.06,
+      "away": "Scrote Squad",
+      "away_score": 151.04,
+      "margin": 58.97999999999999
+    },
+    {
+      "season": 2025,
+      "week": 10,
+      "home": "Snack Dadddy",
+      "home_score": 156.76,
+      "away": "Rob's Remarkable Team",
+      "away_score": 85.5,
+      "margin": 71.25999999999999
+    },
+    {
+      "season": 2025,
+      "week": 10,
+      "home": "Ian's Impressive Team",
+      "home_score": 97.92,
+      "away": "Talk Purdy 2 ME",
+      "away_score": 137.94,
+      "margin": 40.019999999999996
+    },
+    {
+      "season": 2025,
+      "week": 10,
+      "home": "Kyle Strandberg",
+      "home_score": 62.64,
+      "away": "Ulm FC",
+      "away_score": 100.3,
+      "margin": 37.66
+    },
+    {
+      "season": 2025,
+      "week": 10,
+      "home": "Ditka in a Box",
+      "home_score": 113.3,
+      "away": "RBU",
+      "away_score": 118.2,
+      "margin": 4.900000000000006
+    },
+    {
+      "season": 2025,
+      "week": 10,
+      "home": "Scrote Squad",
+      "home_score": 109.88,
+      "away": "Pocket Pancakes",
+      "away_score": 126.4,
+      "margin": 16.52000000000001
+    },
+    {
+      "season": 2025,
+      "week": 10,
+      "home": "Epstein's List",
+      "home_score": 98.24,
+      "away": "Witness",
+      "away_score": 137.42,
+      "margin": 39.17999999999999
+    },
+    {
+      "season": 2025,
+      "week": 11,
+      "home": "Ian's Impressive Team",
+      "home_score": 69.0,
+      "away": "Snack Dadddy",
+      "away_score": 127.04,
+      "margin": 58.040000000000006
+    },
+    {
+      "season": 2025,
+      "week": 11,
+      "home": "Rob's Remarkable Team",
+      "home_score": 83.84,
+      "away": "Kyle Strandberg",
+      "away_score": 104.42,
+      "margin": 20.58
+    },
+    {
+      "season": 2025,
+      "week": 11,
+      "home": "Talk Purdy 2 ME",
+      "home_score": 149.48,
+      "away": "Ditka in a Box",
+      "away_score": 83.9,
+      "margin": 65.57999999999998
+    },
+    {
+      "season": 2025,
+      "week": 11,
+      "home": "Ulm FC",
+      "home_score": 153.34,
+      "away": "Scrote Squad",
+      "away_score": 47.4,
+      "margin": 105.94
+    },
+    {
+      "season": 2025,
+      "week": 11,
+      "home": "RBU",
+      "home_score": 106.72,
+      "away": "Epstein's List",
+      "away_score": 52.92,
+      "margin": 53.8
+    },
+    {
+      "season": 2025,
+      "week": 11,
+      "home": "Pocket Pancakes",
+      "home_score": 80.64,
+      "away": "Witness",
+      "away_score": 127.92,
+      "margin": 47.28
+    },
+    {
+      "season": 2025,
+      "week": 12,
+      "home": "Snack Dadddy",
+      "home_score": 106.88,
+      "away": "Kyle Strandberg",
+      "away_score": 150.76,
+      "margin": 43.879999999999995
+    },
+    {
+      "season": 2025,
+      "week": 12,
+      "home": "Ditka in a Box",
+      "home_score": 143.04,
+      "away": "Ian's Impressive Team",
+      "away_score": 109.86,
+      "margin": 33.17999999999999
+    },
+    {
+      "season": 2025,
+      "week": 12,
+      "home": "Scrote Squad",
+      "home_score": 99.78,
+      "away": "Rob's Remarkable Team",
+      "away_score": 96.92,
+      "margin": 2.8599999999999994
+    },
+    {
+      "season": 2025,
+      "week": 12,
+      "home": "Epstein's List",
+      "home_score": 78.02,
+      "away": "Talk Purdy 2 ME",
+      "away_score": 98.32,
+      "margin": 20.299999999999997
+    },
+    {
+      "season": 2025,
+      "week": 12,
+      "home": "Witness",
+      "home_score": 82.16,
+      "away": "Ulm FC",
+      "away_score": 91.36,
+      "margin": 9.200000000000003
+    },
+    {
+      "season": 2025,
+      "week": 12,
+      "home": "Pocket Pancakes",
+      "home_score": 90.58,
+      "away": "RBU",
+      "away_score": 135.56,
+      "margin": 44.980000000000004
+    },
+    {
+      "season": 2025,
+      "week": 13,
+      "home": "Ditka in a Box",
+      "home_score": 93.84,
+      "away": "Snack Dadddy",
+      "away_score": 112.34,
+      "margin": 18.5
+    },
+    {
+      "season": 2025,
+      "week": 13,
+      "home": "Kyle Strandberg",
+      "home_score": 74.0,
+      "away": "Scrote Squad",
+      "away_score": 79.64,
+      "margin": 5.640000000000001
+    },
+    {
+      "season": 2025,
+      "week": 13,
+      "home": "Ian's Impressive Team",
+      "home_score": 109.6,
+      "away": "Epstein's List",
+      "away_score": 110.24,
+      "margin": 0.6400000000000006
+    },
+    {
+      "season": 2025,
+      "week": 13,
+      "home": "Rob's Remarkable Team",
+      "home_score": 87.64,
+      "away": "Witness",
+      "away_score": 79.22,
+      "margin": 8.420000000000002
+    },
+    {
+      "season": 2025,
+      "week": 13,
+      "home": "Talk Purdy 2 ME",
+      "home_score": 76.12,
+      "away": "Pocket Pancakes",
+      "away_score": 122.84,
+      "margin": 46.72
+    },
+    {
+      "season": 2025,
+      "week": 13,
+      "home": "Ulm FC",
+      "home_score": 120.48,
+      "away": "RBU",
+      "away_score": 159.94,
+      "margin": 39.459999999999994
+    },
+    {
+      "season": 2025,
+      "week": 14,
+      "home": "Snack Dadddy",
+      "home_score": 78.34,
+      "away": "Scrote Squad",
+      "away_score": 77.96,
+      "margin": 0.38000000000000966
+    },
+    {
+      "season": 2025,
+      "week": 14,
+      "home": "Epstein's List",
+      "home_score": 94.56,
+      "away": "Ditka in a Box",
+      "away_score": 76.3,
+      "margin": 18.260000000000005
+    },
+    {
+      "season": 2025,
+      "week": 14,
+      "home": "Witness",
+      "home_score": 127.18,
+      "away": "Kyle Strandberg",
+      "away_score": 120.44,
+      "margin": 6.740000000000009
+    },
+    {
+      "season": 2025,
+      "week": 14,
+      "home": "Pocket Pancakes",
+      "home_score": 103.44,
+      "away": "Ian's Impressive Team",
+      "away_score": 82.5,
+      "margin": 20.939999999999998
+    },
+    {
+      "season": 2025,
+      "week": 14,
+      "home": "RBU",
+      "home_score": 109.76,
+      "away": "Rob's Remarkable Team",
+      "away_score": 92.76,
+      "margin": 17.0
+    },
+    {
+      "season": 2025,
+      "week": 14,
+      "home": "Ulm FC",
+      "home_score": 90.26,
+      "away": "Talk Purdy 2 ME",
+      "away_score": 168.64,
+      "margin": 78.37999999999998
+    },
+    {
+      "season": 2025,
+      "week": 15,
+      "home": "Snack Dadddy",
+      "home_score": 96.14,
+      "away": "Pocket Pancakes",
+      "away_score": 115.12,
+      "margin": 18.980000000000004
+    },
+    {
+      "season": 2025,
+      "week": 15,
+      "home": "Ulm FC",
+      "home_score": 96.4,
+      "away": "Kyle Strandberg",
+      "away_score": 112.16,
+      "margin": 15.759999999999991
+    },
+    {
+      "season": 2025,
+      "week": 15,
+      "home": "Rob's Remarkable Team",
+      "home_score": 107.8,
+      "away": "Witness",
+      "away_score": 173.98,
+      "margin": 66.17999999999999
+    },
+    {
+      "season": 2025,
+      "week": 15,
+      "home": "Ditka in a Box",
+      "home_score": 120.58,
+      "away": "Scrote Squad",
+      "away_score": 96.84,
+      "margin": 23.739999999999995
+    },
+    {
+      "season": 2025,
+      "week": 15,
+      "home": "Epstein's List",
+      "home_score": 98.5,
+      "away": "Ian's Impressive Team",
+      "away_score": 96.8,
+      "margin": 1.7000000000000028
+    },
+    {
+      "season": 2025,
+      "week": 16,
+      "home": "RBU",
+      "home_score": 121.56,
+      "away": "Pocket Pancakes",
+      "away_score": 120.38,
+      "margin": 1.1800000000000068
+    },
+    {
+      "season": 2025,
+      "week": 16,
+      "home": "Talk Purdy 2 ME",
+      "home_score": 115.0,
+      "away": "Kyle Strandberg",
+      "away_score": 109.16,
+      "margin": 5.840000000000003
+    },
+    {
+      "season": 2025,
+      "week": 16,
+      "home": "Ulm FC",
+      "home_score": 125.1,
+      "away": "Snack Dadddy",
+      "away_score": 116.0,
+      "margin": 9.099999999999994
+    },
+    {
+      "season": 2025,
+      "week": 16,
+      "home": "Witness",
+      "home_score": 102.8,
+      "away": "Ditka in a Box",
+      "away_score": 131.58,
+      "margin": 28.780000000000015
+    },
+    {
+      "season": 2025,
+      "week": 16,
+      "home": "Rob's Remarkable Team",
+      "home_score": 119.7,
+      "away": "Epstein's List",
+      "away_score": 112.64,
+      "margin": 7.060000000000002
+    },
+    {
+      "season": 2025,
+      "week": 16,
+      "home": "Scrote Squad",
+      "home_score": 78.12,
+      "away": "Ian's Impressive Team",
+      "away_score": 101.6,
+      "margin": 23.47999999999999
+    },
+    {
+      "season": 2025,
+      "week": 17,
+      "home": "RBU",
+      "home_score": 134.0,
+      "away": "Talk Purdy 2 ME",
+      "away_score": 136.02,
+      "margin": 2.0200000000000102
+    },
+    {
+      "season": 2025,
+      "week": 17,
+      "home": "Pocket Pancakes",
+      "home_score": 95.76,
+      "away": "Kyle Strandberg",
+      "away_score": 116.58,
+      "margin": 20.819999999999993
+    },
+    {
+      "season": 2025,
+      "week": 17,
+      "home": "Ulm FC",
+      "home_score": 117.74,
+      "away": "Snack Dadddy",
+      "away_score": 75.5,
+      "margin": 42.239999999999995
+    },
+    {
+      "season": 2025,
+      "week": 17,
+      "home": "Rob's Remarkable Team",
+      "home_score": 91.54,
+      "away": "Ditka in a Box",
+      "away_score": 126.98,
+      "margin": 35.44
+    },
+    {
+      "season": 2025,
+      "week": 17,
+      "home": "Witness",
+      "home_score": 91.44,
+      "away": "Ian's Impressive Team",
+      "away_score": 58.5,
+      "margin": 32.94
+    },
+    {
+      "season": 2025,
+      "week": 17,
+      "home": "Scrote Squad",
+      "home_score": 76.78,
+      "away": "Epstein's List",
+      "away_score": 126.72,
+      "margin": 49.94
+    },
+    {
+      "season": 2026,
       "week": 1,
       "home": "Kyle Strandberg",
       "home_score": 100.86,
       "away": "Snack Dadddy",
-      "away_score": 121.5
+      "away_score": 121.5,
+      "margin": 20.64
     },
     {
-      "season": "2026",
+      "season": 2026,
       "week": 1,
       "home": "Ian's Impressive Team",
       "home_score": 157.46,
-      "away": "Ditka in a Box ",
-      "away_score": 181.46
+      "away": "Ditka in a Box",
+      "away_score": 181.46,
+      "margin": 24.0
     },
     {
-      "season": "2026",
+      "season": 2026,
       "week": 1,
       "home": "Rob's Remarkable Team",
       "home_score": 122.3,
       "away": "Scrote Squad",
-      "away_score": 104.96
+      "away_score": 104.96,
+      "margin": 17.340000000000003
     },
     {
-      "season": "2026",
+      "season": 2026,
       "week": 1,
-      "home": "Daejon's Cut List ",
+      "home": "Daejon's Cut List",
       "home_score": 170.06,
       "away": "Big Ol Tuddies",
-      "away_score": 108.84
+      "away_score": 108.84,
+      "margin": 61.22
     },
     {
-      "season": "2026",
+      "season": 2026,
       "week": 1,
       "home": "Ulm FC",
       "home_score": 109.54,
       "away": "Witness",
-      "away_score": 115.9
+      "away_score": 115.9,
+      "margin": 6.359999999999999
     },
     {
-      "season": "2026",
+      "season": 2026,
       "week": 1,
       "home": "RBU",
       "home_score": 138.1,
       "away": "Tush Touching",
-      "away_score": 99.22
+      "away_score": 99.22,
+      "margin": 38.879999999999995
     },
     {
-      "season": "2026",
+      "season": 2026,
       "week": 2,
       "home": "Snack Dadddy",
       "home_score": 84.86,
-      "away": "Ditka in a Box ",
-      "away_score": 103.12
+      "away": "Ditka in a Box",
+      "away_score": 103.12,
+      "margin": 18.260000000000005
     },
     {
-      "season": "2026",
+      "season": 2026,
       "week": 2,
       "home": "Scrote Squad",
       "home_score": 154.58,
       "away": "Kyle Strandberg",
-      "away_score": 126.72
+      "away_score": 126.72,
+      "margin": 27.860000000000014
     },
     {
-      "season": "2026",
+      "season": 2026,
       "week": 2,
       "home": "Big Ol Tuddies",
       "home_score": 117.18,
       "away": "Ian's Impressive Team",
-      "away_score": 115.98
+      "away_score": 115.98,
+      "margin": 1.2000000000000028
     },
     {
-      "season": "2026",
+      "season": 2026,
       "week": 2,
       "home": "Witness",
       "home_score": 124.38,
       "away": "Rob's Remarkable Team",
-      "away_score": 103.28
+      "away_score": 103.28,
+      "margin": 21.099999999999994
     },
     {
-      "season": "2026",
+      "season": 2026,
       "week": 2,
       "home": "Tush Touching",
       "home_score": 112.16,
-      "away": "Daejon's Cut List ",
-      "away_score": 157.6
+      "away": "Daejon's Cut List",
+      "away_score": 157.6,
+      "margin": 45.44
     },
     {
-      "season": "2026",
+      "season": 2026,
       "week": 2,
       "home": "RBU",
       "home_score": 88.16,
       "away": "Ulm FC",
-      "away_score": 120.18
+      "away_score": 120.18,
+      "margin": 32.02000000000001
     }
   ],
   "records": {
     "highest_score": {
-      "team": "Ditka in a Box ",
-      "score": 181.46,
-      "season": "2026",
-      "week": 1
+      "team": "Winnie Court Keepers",
+      "score": 224.36,
+      "season": 2022,
+      "week": 16
     },
     "lowest_score": {
-      "team": "Snack Dadddy",
-      "score": 84.86,
-      "season": "2026",
-      "week": 2
+      "team": "Team Freckmann",
+      "score": 33.6,
+      "season": 2021,
+      "week": 13
     },
     "biggest_blowout": {
-      "season": "2026",
-      "week": 1,
-      "home": "Daejon's Cut List ",
-      "home_score": 170.06,
-      "away": "Big Ol Tuddies",
-      "away_score": 108.84
+      "season": 2022,
+      "week": 16,
+      "home": "Winnie Court Keepers",
+      "home_score": 224.36,
+      "away": "Ulm FC",
+      "away_score": 76.2,
+      "margin": 148.16000000000003
     },
     "closest_game": {
-      "season": "2026",
-      "week": 2,
-      "home": "Big Ol Tuddies",
-      "home_score": 117.18,
-      "away": "Ian's Impressive Team",
-      "away_score": 115.98
+      "season": 2023,
+      "week": 5,
+      "home": "King of the North",
+      "home_score": 130.26,
+      "away": "Turd Ferguson",
+      "away_score": 130.34,
+      "margin": 0.0800000000000125
     }
-  }
+  },
+  "season_summaries": {
+    "2021": {
+      "teams": 14,
+      "games": 119
+    },
+    "2022": {
+      "teams": 14,
+      "games": 119
+    },
+    "2023": {
+      "teams": 12,
+      "games": 101
+    },
+    "2024": {
+      "teams": 12,
+      "games": 101
+    },
+    "2025": {
+      "teams": 12,
+      "games": 101
+    },
+    "2026": {
+      "teams": 12,
+      "games": 12
+    }
+  },
+  "career": {
+    "Team Lindner": {
+      "wins": 35,
+      "losses": 33,
+      "ties": 0,
+      "points_for": 7444.860000000001,
+      "games": 68,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "avg_points": 109.48
+    },
+    "Team Strandberg": {
+      "wins": 17,
+      "losses": 17,
+      "ties": 0,
+      "points_for": 3879.54,
+      "games": 34,
+      "seasons": [
+        2021,
+        2022
+      ],
+      "avg_points": 114.1
+    },
+    "Yahara Nate K": {
+      "wins": 20,
+      "losses": 14,
+      "ties": 0,
+      "points_for": 4030.5,
+      "games": 34,
+      "seasons": [
+        2021,
+        2022
+      ],
+      "avg_points": 118.54
+    },
+    "Team Freckmann": {
+      "wins": 5,
+      "losses": 12,
+      "ties": 0,
+      "points_for": 1723.04,
+      "games": 17,
+      "seasons": [
+        2021
+      ],
+      "avg_points": 101.36
+    },
+    "Team Dahms": {
+      "wins": 15,
+      "losses": 19,
+      "ties": 0,
+      "points_for": 3699.8599999999997,
+      "games": 34,
+      "seasons": [
+        2021,
+        2022
+      ],
+      "avg_points": 108.82
+    },
+    "Team Ulm": {
+      "wins": 11,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 2071.4,
+      "games": 17,
+      "seasons": [
+        2021
+      ],
+      "avg_points": 121.85
+    },
+    "Team Holzwart": {
+      "wins": 4,
+      "losses": 13,
+      "ties": 0,
+      "points_for": 1383.4,
+      "games": 17,
+      "seasons": [
+        2021
+      ],
+      "avg_points": 81.38
+    },
+    "The  Carndogs": {
+      "wins": 8,
+      "losses": 26,
+      "ties": 0,
+      "points_for": 3256.04,
+      "games": 34,
+      "seasons": [
+        2021,
+        2022
+      ],
+      "avg_points": 95.77
+    },
+    "Team Maurer": {
+      "wins": 9,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1830.74,
+      "games": 17,
+      "seasons": [
+        2021
+      ],
+      "avg_points": 107.69
+    },
+    "Winnie Court Keepers": {
+      "wins": 22,
+      "losses": 12,
+      "ties": 0,
+      "points_for": 4114.88,
+      "games": 34,
+      "seasons": [
+        2021,
+        2022
+      ],
+      "avg_points": 121.03
+    },
+    "Team Cerroni": {
+      "wins": 11,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 2067.92,
+      "games": 17,
+      "seasons": [
+        2021
+      ],
+      "avg_points": 121.64
+    },
+    "Brady\u2019s Got Back": {
+      "wins": 7,
+      "losses": 10,
+      "ties": 0,
+      "points_for": 1723.6799999999998,
+      "games": 17,
+      "seasons": [
+        2021
+      ],
+      "avg_points": 101.39
+    },
+    "Mendota Mafia": {
+      "wins": 22,
+      "losses": 12,
+      "ties": 0,
+      "points_for": 4303.5599999999995,
+      "games": 34,
+      "seasons": [
+        2021,
+        2022
+      ],
+      "avg_points": 126.58
+    },
+    "Bago TDs and beer": {
+      "wins": 9,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1910.88,
+      "games": 17,
+      "seasons": [
+        2021
+      ],
+      "avg_points": 112.4
+    },
+    "Little Giants": {
+      "wins": 7,
+      "losses": 10,
+      "ties": 0,
+      "points_for": 1979.8800000000003,
+      "games": 17,
+      "seasons": [
+        2022
+      ],
+      "avg_points": 116.46
+    },
+    "Ulm FC": {
+      "wins": 38,
+      "losses": 31,
+      "ties": 0,
+      "points_for": 7512.139999999999,
+      "games": 69,
+      "seasons": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "avg_points": 108.87
+    },
+    "Mike Glennon": {
+      "wins": 7,
+      "losses": 10,
+      "ties": 0,
+      "points_for": 1810.02,
+      "games": 17,
+      "seasons": [
+        2022
+      ],
+      "avg_points": 106.47
+    },
+    "Maurer's Mishaps": {
+      "wins": 10,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 2021.7999999999997,
+      "games": 17,
+      "seasons": [
+        2022
+      ],
+      "avg_points": 118.93
+    },
+    "King of the North": {
+      "wins": 24,
+      "losses": 27,
+      "ties": 0,
+      "points_for": 5959.679999999999,
+      "games": 51,
+      "seasons": [
+        2022,
+        2023,
+        2024
+      ],
+      "avg_points": 116.86
+    },
+    "Matty Ice": {
+      "wins": 12,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 2129.82,
+      "games": 17,
+      "seasons": [
+        2022
+      ],
+      "avg_points": 125.28
+    },
+    "TDs and Beer": {
+      "wins": 13,
+      "losses": 21,
+      "ties": 0,
+      "points_for": 3484.22,
+      "games": 34,
+      "seasons": [
+        2022,
+        2023
+      ],
+      "avg_points": 102.48
+    },
+    "Scrote Squad": {
+      "wins": 18,
+      "losses": 35,
+      "ties": 0,
+      "points_for": 5263.779999999999,
+      "games": 53,
+      "seasons": [
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "avg_points": 99.32
+    },
+    "Snack Daddy": {
+      "wins": 14,
+      "losses": 20,
+      "ties": 0,
+      "points_for": 3285.1,
+      "games": 34,
+      "seasons": [
+        2023,
+        2024
+      ],
+      "avg_points": 96.62
+    },
+    "Turd Ferguson": {
+      "wins": 18,
+      "losses": 15,
+      "ties": 0,
+      "points_for": 3428.620000000001,
+      "games": 33,
+      "seasons": [
+        2023,
+        2024
+      ],
+      "avg_points": 103.9
+    },
+    "Running Back U": {
+      "wins": 19,
+      "losses": 14,
+      "ties": 0,
+      "points_for": 3490.9600000000005,
+      "games": 33,
+      "seasons": [
+        2023,
+        2024
+      ],
+      "avg_points": 105.79
+    },
+    "Talk Purdy 2 Me": {
+      "wins": 19,
+      "losses": 14,
+      "ties": 0,
+      "points_for": 3628.7400000000007,
+      "games": 33,
+      "seasons": [
+        2023,
+        2024
+      ],
+      "avg_points": 109.96
+    },
+    "Brees Nutz": {
+      "wins": 19,
+      "losses": 15,
+      "ties": 0,
+      "points_for": 3636.8399999999997,
+      "games": 34,
+      "seasons": [
+        2023,
+        2024
+      ],
+      "avg_points": 106.97
+    },
+    "The Love Boat": {
+      "wins": 16,
+      "losses": 18,
+      "ties": 0,
+      "points_for": 3330.1400000000003,
+      "games": 34,
+      "seasons": [
+        2023,
+        2024
+      ],
+      "avg_points": 97.95
+    },
+    "Witness": {
+      "wins": 28,
+      "losses": 25,
+      "ties": 0,
+      "points_for": 5554.500000000001,
+      "games": 53,
+      "seasons": [
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "avg_points": 104.8
+    },
+    "Dont Touchdown there": {
+      "wins": 11,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1732.8,
+      "games": 17,
+      "seasons": [
+        2024
+      ],
+      "avg_points": 101.93
+    },
+    "Kyle Strandberg": {
+      "wins": 10,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 2023.2,
+      "games": 19,
+      "seasons": [
+        2025,
+        2026
+      ],
+      "avg_points": 106.48
+    },
+    "Snack Dadddy": {
+      "wins": 10,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 2183.44,
+      "games": 19,
+      "seasons": [
+        2025,
+        2026
+      ],
+      "avg_points": 114.92
+    },
+    "Ian's Impressive Team": {
+      "wins": 4,
+      "losses": 15,
+      "ties": 0,
+      "points_for": 1933.4599999999998,
+      "games": 19,
+      "seasons": [
+        2025,
+        2026
+      ],
+      "avg_points": 101.76
+    },
+    "Ditka in a Box": {
+      "wins": 10,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 2082.1,
+      "games": 19,
+      "seasons": [
+        2025,
+        2026
+      ],
+      "avg_points": 109.58
+    },
+    "Rob's Remarkable Team": {
+      "wins": 8,
+      "losses": 11,
+      "ties": 0,
+      "points_for": 2046.26,
+      "games": 19,
+      "seasons": [
+        2025,
+        2026
+      ],
+      "avg_points": 107.7
+    },
+    "Talk Purdy 2 ME": {
+      "wins": 12,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 1919.58,
+      "games": 16,
+      "seasons": [
+        2025
+      ],
+      "avg_points": 119.97
+    },
+    "Epstein's List": {
+      "wins": 6,
+      "losses": 11,
+      "ties": 0,
+      "points_for": 1772.42,
+      "games": 17,
+      "seasons": [
+        2025
+      ],
+      "avg_points": 104.26
+    },
+    "RBU": {
+      "wins": 13,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 2235.94,
+      "games": 18,
+      "seasons": [
+        2025,
+        2026
+      ],
+      "avg_points": 124.22
+    },
+    "Pocket Pancakes": {
+      "wins": 9,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1959.9200000000003,
+      "games": 17,
+      "seasons": [
+        2025
+      ],
+      "avg_points": 115.29
+    },
+    "Daejon's Cut List": {
+      "wins": 2,
+      "losses": 0,
+      "ties": 0,
+      "points_for": 327.65999999999997,
+      "games": 2,
+      "seasons": [
+        2026
+      ],
+      "avg_points": 163.83
+    },
+    "Big Ol Tuddies": {
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "points_for": 226.02,
+      "games": 2,
+      "seasons": [
+        2026
+      ],
+      "avg_points": 113.01
+    },
+    "Tush Touching": {
+      "wins": 0,
+      "losses": 2,
+      "ties": 0,
+      "points_for": 211.38,
+      "games": 2,
+      "seasons": [
+        2026
+      ],
+      "avg_points": 105.69
+    }
+  },
+  "source": "data/historical/all_time.json"
 }

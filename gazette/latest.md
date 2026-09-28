@@ -38,6 +38,6 @@
 
 ## Record Book
 
-- **Season high:** Ditka in a Box  — 181.46 (Week 1)
-- **Season low:** Snack Dadddy — 84.86 (Week 2)
-- **Biggest blowout:** 61.22 points — Daejon's Cut List  vs. Big Ol Tuddies (Week 1)
+- **Season high:** Winnie Court Keepers — 224.36 (Week 16)
+- **Season low:** Team Freckmann — 33.60 (Week 13)
+- **Biggest blowout:** 148.16 points — Winnie Court Keepers vs. Ulm FC (Week 16)
