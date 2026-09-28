@@ -3,16 +3,18 @@ name: Build Bago Block Gazette
 on:
   workflow_dispatch:
   push:
-    branches: ["main"]
+    branches:
+      - main
     paths:
-      - ".github/workflows/collect.yml"
-      - "collector.py"
-      - "generate_gazette.py"
-      - "build_awards.py"
-      - "build_history.py"
-      - "analyze_week.py"
-      - "build_site.py"\n      - "build_week_details.py"
-      - "requirements.txt"
+      - .github/workflows/collect.yml
+      - collector.py
+      - generate_gazette.py
+      - build_awards.py
+      - build_history.py
+      - analyze_week.py
+      - build_week_details.py
+      - build_site.py
+      - requirements.txt
   schedule:
     - cron: "0 14 * * 2"
 
@@ -22,27 +24,37 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - name: Install dependencies
         run: pip install -r requirements.txt
+
       - name: Collect ESPN data
         env:
           ESPN_LEAGUE_ID: "1724229206"
           ESPN_SEASON: "2026"
         run: python collector.py
+
       - name: Analyze league
         run: |
           python build_awards.py
           python build_history.py
-          python analyze_week.py\n          python build_week_details.py
+          python analyze_week.py
+          python build_week_details.py
+
       - name: Generate Gazette
         run: |
           python generate_gazette.py
           python build_site.py
+
       - name: Commit Gazette database and publication
         run: |
           git config user.name "bago-block-bot"
