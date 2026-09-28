@@ -16,6 +16,28 @@ def matchup_roster(side, team):
         entries=((team or {}).get("roster") or {}).get("entries") or []
     return entries
 
+def player_points(player, week):
+    vals=[]
+    for s in (player.get("stats") or []):
+        if s.get("scoringPeriodId")==week and s.get("appliedTotal") is not None:
+            vals.append((s.get("statSourceId",99),s.get("statSplitTypeId",99),float(s.get("appliedTotal") or 0)))
+    if not vals:
+        return 0.0
+    vals.sort(key=lambda x:(x[0]!=0,x[1]!=1,x[0],x[1]))
+    return vals[0][2]
+
+def live_score(side, team, week):
+    official=float(side.get("totalPoints",0) or 0)
+    if official:
+        return official
+    total=0.0
+    for e in matchup_roster(side,team):
+        if e.get("lineupSlotId") in BENCH_SLOTS:
+            continue
+        p=((e.get("playerPoolEntry") or {}).get("player") or {})
+        total += player_points(p,week)
+    return round(total,2)
+
 def monday_players(side, team):
     out=[]
     for e in matchup_roster(side,team):
@@ -42,8 +64,8 @@ def main():
         if not h or not a:
             continue
         ht,at=teams.get(h.get("teamId"),{}),teams.get(a.get("teamId"),{})
-        hs=float(h.get("totalPoints",0) or 0)
-        aps=float(a.get("totalPoints",0) or 0)
+        hs=live_score(h,ht,week)
+        aps=live_score(a,at,week)
         games.append({
             "home":tn(ht),"away":tn(at),
             "home_score":hs,"away_score":aps,
