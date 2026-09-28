@@ -49,7 +49,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: One-time historical archive
-        if: github.event_name == 'workflow_dispatch' && inputs.historical_import == 'true'
+        if: (github.event_name == 'workflow_dispatch' && inputs.historical_import == 'true') || (github.event_name == 'push' && contains(github.event.head_commit.message, '[historical-import]'))
         env:
           ESPN_LEAGUE_ID: "1724229206"
           ESPN_SEASON: "2026"
