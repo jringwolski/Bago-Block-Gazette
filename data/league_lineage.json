@@ -1,0 +1,44 @@
+{
+  "status": "CERTIFICATION_CONFIG",
+  "authoritative": [
+    {
+      "season": 2021,
+      "leagueId": "746360760",
+      "league": "Lake Country Village"
+    },
+    {
+      "season": 2022,
+      "leagueId": "746360760",
+      "league": "Lake Country Village"
+    },
+    {
+      "season": 2023,
+      "leagueId": "704863106",
+      "league": "Bago Block"
+    },
+    {
+      "season": 2024,
+      "leagueId": "1724229206",
+      "league": "Bago Block v3"
+    },
+    {
+      "season": 2025,
+      "leagueId": "1724229206",
+      "league": "Bago Block v3"
+    },
+    {
+      "season": 2026,
+      "leagueId": "1724229206",
+      "league": "Bago Block v3"
+    }
+  ],
+  "excluded": [
+    {
+      "season": 2024,
+      "leagueId": "704863106",
+      "league": "Bago Block",
+      "reason": "Abandoned duplicate league; never include in history, records, H2H, awards, or Gazette."
+    }
+  ],
+  "policy": "Certified completed games are append-only. ESPN is used to append new completed games, not to rebuild certified history during normal publication runs."
+}
