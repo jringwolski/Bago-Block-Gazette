@@ -149,9 +149,9 @@
       "bench_points": 0.0,
       "top_bench": {
         "team": "Daejon's Cut List",
-        "player": "Jordan Mason",
+        "player": "Chris Godwin Jr.",
         "points": 0.0,
-        "lineupSlotId": 21,
+        "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
@@ -916,7 +916,7 @@
       "team": "Daejon's Cut List",
       "player": "Zay Flowers",
       "points": 0.0,
-      "lineupSlotId": 23,
+      "lineupSlotId": 4,
       "starter": true
     },
     {
@@ -937,22 +937,22 @@
       "team": "Daejon's Cut List",
       "player": "David Montgomery",
       "points": 0.0,
-      "lineupSlotId": 2,
+      "lineupSlotId": 23,
       "starter": true
     },
     {
       "team": "Daejon's Cut List",
       "player": "Jaylen Warren",
       "points": 0.0,
-      "lineupSlotId": 23,
+      "lineupSlotId": 2,
       "starter": true
     },
     {
       "team": "Daejon's Cut List",
       "player": "Chris Godwin Jr.",
       "points": 0.0,
-      "lineupSlotId": 4,
-      "starter": true
+      "lineupSlotId": 20,
+      "starter": false
     },
     {
       "team": "Daejon's Cut List",
@@ -979,8 +979,8 @@
       "team": "Daejon's Cut List",
       "player": "Juwan Johnson",
       "points": 0.0,
-      "lineupSlotId": 20,
-      "starter": false
+      "lineupSlotId": 23,
+      "starter": true
     },
     {
       "team": "Daejon's Cut List",
@@ -1182,15 +1182,15 @@
       "team": "Ulm FC",
       "player": "Jordan Addison",
       "points": 0.0,
-      "lineupSlotId": 20,
-      "starter": false
+      "lineupSlotId": 23,
+      "starter": true
     },
     {
       "team": "Ulm FC",
       "player": "Romeo Doubs",
       "points": 0.0,
-      "lineupSlotId": 23,
-      "starter": true
+      "lineupSlotId": 20,
+      "starter": false
     },
     {
       "team": "Ulm FC",

@@ -1,27 +1,27 @@
 {
-  "week": 2,
+  "week": 3,
   "game_of_week": {
     "teams": [
-      "Big Ol Tuddies",
-      "Ian's Impressive Team"
+      "Scrote Squad",
+      "Snack Dadddy"
     ],
-    "margin": 1.2000000000000028
+    "margin": 0.2400000000000091
   },
   "ass_kicking": {
     "winner": "Daejon's Cut List ",
-    "victim": "Tush Touching",
-    "margin": 45.44
+    "victim": "Ulm FC",
+    "margin": 32.959999999999994
   },
   "high_score": {
     "team": "Daejon's Cut List ",
-    "score": 157.6
+    "score": 145.7
   },
   "low_score": {
-    "team": "Snack Dadddy",
-    "score": 84.86
+    "team": "Tush Touching",
+    "score": 97.82
   },
   "heartbreaker": {
-    "team": "Ian's Impressive Team",
-    "margin": 1.2000000000000028
+    "team": "Snack Dadddy",
+    "margin": 0.2400000000000091
   }
 }
