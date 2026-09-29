@@ -1,9 +1,4 @@
 {
-  "leagueIds": {
-    "v3": "1724229206",
-    "bago_block": "704863106",
-    "lake_country_village": "746360760"
-  },
   "currentSeason": 2026,
   "seasons": [
     {
@@ -26,7 +21,7 @@
     },
     {
       "season": 2024,
-      "leagueId": "704863106",
+      "leagueId": "1724229206",
       "teams": 12,
       "matchups": 103
     },
@@ -41,6 +36,14 @@
       "leagueId": "1724229206",
       "teams": 12,
       "matchups": 84
+    }
+  ],
+  "excluded": [
+    {
+      "season": 2024,
+      "leagueId": "704863106",
+      "league": "Bago Block",
+      "reason": "Abandoned duplicate league; never include in history, records, H2H, awards, or Gazette."
     }
   ],
   "notes": []

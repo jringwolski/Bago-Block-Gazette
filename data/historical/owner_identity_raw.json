@@ -1,272 +1,8 @@
 [
   {
-    "season": 2026,
+    "season": 2021,
     "team_id": 1,
-    "team_name": "Snack Dadddy",
-    "owner_ids": [
-      "{D2FFA8C4-0894-4BF9-8FF4-AD4663E3C5DA}"
-    ],
-    "owner_names": [
-      "ESPNFAN0465836673"
-    ]
-  },
-  {
-    "season": 2026,
-    "team_id": 2,
-    "team_name": "Big Ol Tuddies",
-    "owner_ids": [
-      "{E1B85C3C-6485-4FDF-B85C-3C6485CFDF8F}"
-    ],
-    "owner_names": [
-      "SgtRing026"
-    ]
-  },
-  {
-    "season": 2026,
-    "team_id": 3,
-    "team_name": "Daejon's Cut List ",
-    "owner_ids": [
-      "{956FA246-963D-4ACB-B006-D63EF91B5112}"
-    ],
-    "owner_names": [
-      "castillo1921"
-    ]
-  },
-  {
-    "season": 2026,
-    "team_id": 4,
-    "team_name": "Tush Touching",
-    "owner_ids": [
-      "{6EFD42BF-CD53-4D8C-BD42-BFCD53AD8C6B}"
-    ],
-    "owner_names": [
-      "MattSmags731"
-    ]
-  },
-  {
-    "season": 2026,
-    "team_id": 5,
-    "team_name": "Ian's Impressive Team",
-    "owner_ids": [
-      "{F869656D-06D3-40B3-A965-6D06D380B3FF}"
-    ],
-    "owner_names": [
-      "ESPNFAN8366876511"
-    ]
-  },
-  {
-    "season": 2026,
-    "team_id": 6,
-    "team_name": "Kyle Strandberg",
-    "owner_ids": [
-      "{56ABF385-6C66-477E-86B8-3C2C196FE87D}"
-    ],
-    "owner_names": [
-      "Kyle Strandberg"
-    ]
-  },
-  {
-    "season": 2026,
-    "team_id": 7,
-    "team_name": "Rob's Remarkable Team",
-    "owner_ids": [
-      "{7A574462-9259-4007-BA67-4D94379DEE64}"
-    ],
-    "owner_names": [
-      "Rob Sweasy"
-    ]
-  },
-  {
-    "season": 2026,
-    "team_id": 8,
-    "team_name": "Ditka in a Box ",
-    "owner_ids": [
-      "{A66267B3-4595-453B-9697-079F72C5EC7C}"
-    ],
-    "owner_names": [
-      "Berto D "
-    ]
-  },
-  {
-    "season": 2026,
-    "team_id": 9,
-    "team_name": "Witness",
-    "owner_ids": [
-      "{1FE5FF41-6166-4063-BB8A-6E41B477955C}"
-    ],
-    "owner_names": [
-      "JSef24"
-    ]
-  },
-  {
-    "season": 2026,
-    "team_id": 10,
-    "team_name": "RBU",
-    "owner_ids": [
-      "{CBD315FA-CC07-44CE-9A87-16C7ED8CF3D8}"
-    ],
-    "owner_names": [
-      "ESPNFAN4700203380"
-    ]
-  },
-  {
-    "season": 2026,
-    "team_id": 11,
-    "team_name": "Ulm FC",
-    "owner_ids": [
-      "{F360DF4D-5086-4C79-A695-B8FEC26C8A5C}"
-    ],
-    "owner_names": [
-      "ESPNfan8216749860"
-    ]
-  },
-  {
-    "season": 2026,
-    "team_id": 12,
-    "team_name": "Scrote Squad",
-    "owner_ids": [
-      "{834C0375-7102-4FD5-9428-A0CE3F66F371}"
-    ],
-    "owner_names": [
-      "ESPNFAN80291420"
-    ]
-  },
-  {
-    "season": 2025,
-    "team_id": 1,
-    "team_name": "Snack Dadddy",
-    "owner_ids": [
-      "{D2FFA8C4-0894-4BF9-8FF4-AD4663E3C5DA}"
-    ],
-    "owner_names": [
-      "ESPNFAN0465836673"
-    ]
-  },
-  {
-    "season": 2025,
-    "team_id": 2,
-    "team_name": "Epstein's List",
-    "owner_ids": [
-      "{E1B85C3C-6485-4FDF-B85C-3C6485CFDF8F}"
-    ],
-    "owner_names": [
-      "SgtRing026"
-    ]
-  },
-  {
-    "season": 2025,
-    "team_id": 3,
-    "team_name": "Talk Purdy 2 ME",
-    "owner_ids": [
-      "{956FA246-963D-4ACB-B006-D63EF91B5112}"
-    ],
-    "owner_names": [
-      "castillo1921"
-    ]
-  },
-  {
-    "season": 2025,
-    "team_id": 4,
-    "team_name": "Pocket Pancakes",
-    "owner_ids": [
-      "{6EFD42BF-CD53-4D8C-BD42-BFCD53AD8C6B}"
-    ],
-    "owner_names": [
-      "MattSmags731"
-    ]
-  },
-  {
-    "season": 2025,
-    "team_id": 5,
-    "team_name": "Ian's Impressive Team",
-    "owner_ids": [
-      "{F869656D-06D3-40B3-A965-6D06D380B3FF}"
-    ],
-    "owner_names": [
-      "ESPNFAN8366876511"
-    ]
-  },
-  {
-    "season": 2025,
-    "team_id": 6,
-    "team_name": "Kyle Strandberg",
-    "owner_ids": [
-      "{56ABF385-6C66-477E-86B8-3C2C196FE87D}"
-    ],
-    "owner_names": [
-      "Kyle Strandberg"
-    ]
-  },
-  {
-    "season": 2025,
-    "team_id": 7,
-    "team_name": "Rob's Remarkable Team",
-    "owner_ids": [
-      "{7A574462-9259-4007-BA67-4D94379DEE64}"
-    ],
-    "owner_names": [
-      "Rob Sweasy"
-    ]
-  },
-  {
-    "season": 2025,
-    "team_id": 8,
-    "team_name": "Ditka in a Box ",
-    "owner_ids": [
-      "{A66267B3-4595-453B-9697-079F72C5EC7C}"
-    ],
-    "owner_names": [
-      "Berto D "
-    ]
-  },
-  {
-    "season": 2025,
-    "team_id": 9,
-    "team_name": "Witness",
-    "owner_ids": [
-      "{1FE5FF41-6166-4063-BB8A-6E41B477955C}"
-    ],
-    "owner_names": [
-      "JSef24"
-    ]
-  },
-  {
-    "season": 2025,
-    "team_id": 10,
-    "team_name": "RBU",
-    "owner_ids": [
-      "{CBD315FA-CC07-44CE-9A87-16C7ED8CF3D8}"
-    ],
-    "owner_names": [
-      "ESPNFAN4700203380"
-    ]
-  },
-  {
-    "season": 2025,
-    "team_id": 11,
-    "team_name": "Ulm FC",
-    "owner_ids": [
-      "{F360DF4D-5086-4C79-A695-B8FEC26C8A5C}"
-    ],
-    "owner_names": [
-      "ESPNfan8216749860"
-    ]
-  },
-  {
-    "season": 2025,
-    "team_id": 12,
-    "team_name": "Scrote Squad",
-    "owner_ids": [
-      "{834C0375-7102-4FD5-9428-A0CE3F66F371}"
-    ],
-    "owner_names": [
-      "ESPNFAN80291420"
-    ]
-  },
-  {
-    "season": 2024,
-    "team_id": 1,
-    "team_name": "Snack Daddy ",
+    "team_name": "The  Carndogs ",
     "owner_ids": [
       "{99D1A9AB-4CE5-4C0F-85A4-740CC7735B1F}"
     ],
@@ -275,74 +11,19 @@
     ]
   },
   {
-    "season": 2024,
+    "season": 2021,
     "team_id": 2,
-    "team_name": "Dont Touchdown there",
+    "team_name": "Team Strandberg",
     "owner_ids": [
-      "{E1B85C3C-6485-4FDF-B85C-3C6485CFDF8F}"
+      "{56ABF385-6C66-477E-86B8-3C2C196FE87D}"
     ],
     "owner_names": [
-      "SgtRing026"
+      "Kyle Strandberg"
     ]
   },
   {
-    "season": 2024,
+    "season": 2021,
     "team_id": 3,
-    "team_name": "Running Back U",
-    "owner_ids": [
-      "{CBD315FA-CC07-44CE-9A87-16C7ED8CF3D8}"
-    ],
-    "owner_names": [
-      "ESPNFAN4700203380"
-    ]
-  },
-  {
-    "season": 2024,
-    "team_id": 4,
-    "team_name": "Ulm FC",
-    "owner_ids": [
-      "{73E99B8E-D69A-44EC-AB80-ECEE56846DBD}"
-    ],
-    "owner_names": [
-      "CHICK3PNP0TPIE"
-    ]
-  },
-  {
-    "season": 2024,
-    "team_id": 5,
-    "team_name": "Turd Ferguson",
-    "owner_ids": [
-      "{6EFD42BF-CD53-4D8C-BD42-BFCD53AD8C6B}"
-    ],
-    "owner_names": [
-      "MattSmags731"
-    ]
-  },
-  {
-    "season": 2024,
-    "team_id": 6,
-    "team_name": "Witness",
-    "owner_ids": [
-      "{1FE5FF41-6166-4063-BB8A-6E41B477955C}"
-    ],
-    "owner_names": [
-      "JSef24"
-    ]
-  },
-  {
-    "season": 2024,
-    "team_id": 7,
-    "team_name": "King of the North",
-    "owner_ids": [
-      "{E3DC2984-E463-46E0-9C29-84E463F6E0ED}"
-    ],
-    "owner_names": [
-      "Ccerroni22"
-    ]
-  },
-  {
-    "season": 2024,
-    "team_id": 8,
     "team_name": "Team Lindner",
     "owner_ids": [
       "{F869656D-06D3-40B3-A965-6D06D380B3FF}"
@@ -352,119 +33,86 @@
     ]
   },
   {
-    "season": 2024,
-    "team_id": 9,
-    "team_name": "Talk Purdy 2 Me",
+    "season": 2021,
+    "team_id": 4,
+    "team_name": "Team Dahms",
     "owner_ids": [
-      "{956FA246-963D-4ACB-B006-D63EF91B5112}"
+      "{5E549226-563F-4321-A943-DD55570D816B}"
     ],
     "owner_names": [
-      "castillo1921"
+      "ESPNFAN4652244952"
     ]
   },
   {
-    "season": 2024,
-    "team_id": 10,
-    "team_name": "Scrote Squad",
+    "season": 2021,
+    "team_id": 5,
+    "team_name": "Yahara Nate K ",
     "owner_ids": [
-      "{834C0375-7102-4FD5-9428-A0CE3F66F371}"
+      "{16BC9488-0411-46B1-BC94-88041106B1F6}"
     ],
     "owner_names": [
-      "ESPNFAN80291420"
+      "Nate Kowalczyk"
     ]
   },
   {
-    "season": 2024,
-    "team_id": 11,
-    "team_name": "Brees Nutz",
+    "season": 2021,
+    "team_id": 6,
+    "team_name": "Mendota Mafia",
     "owner_ids": [
-      "{56ABF385-6C66-477E-86B8-3C2C196FE87D}"
+      "{B164D7FF-C736-45EA-A4D7-FFC736D5EAA4}"
     ],
     "owner_names": [
-      "Kyle Strandberg"
+      "tmyers1837"
     ]
   },
   {
-    "season": 2024,
-    "team_id": 12,
-    "team_name": "The Love Boat",
+    "season": 2021,
+    "team_id": 7,
+    "team_name": "Team Holzwart",
     "owner_ids": [
-      "{7A574462-9259-4007-BA67-4D94379DEE64}"
+      "{3F1746E3-4480-4E3B-AA12-F5AA65C24636}"
     ],
     "owner_names": [
-      "Rob Sweasy"
+      "Baby Holz"
     ]
   },
   {
-    "season": 2023,
-    "team_id": 1,
-    "team_name": "Snack Daddy ",
-    "owner_ids": [
-      "{99D1A9AB-4CE5-4C0F-85A4-740CC7735B1F}"
-    ],
-    "owner_names": [
-      "Eazy E05"
-    ]
-  },
-  {
-    "season": 2023,
-    "team_id": 2,
-    "team_name": "TDs and Beer",
+    "season": 2021,
+    "team_id": 8,
+    "team_name": "Bago TDs and beer",
     "owner_ids": [
       "{E1B85C3C-6485-4FDF-B85C-3C6485CFDF8F}"
     ],
     "owner_names": [
-      "SgtRing026"
+      "Jeramy.ringwolski"
     ]
   },
   {
-    "season": 2023,
-    "team_id": 3,
-    "team_name": "Running Back U",
+    "season": 2021,
+    "team_id": 9,
+    "team_name": "Team Freckmann",
     "owner_ids": [
-      "{CBD315FA-CC07-44CE-9A87-16C7ED8CF3D8}"
+      "{7D625A72-DD1D-4A14-8774-73F1BD6AE334}"
     ],
     "owner_names": [
-      "ESPNFAN4700203380"
+      "ESPNFAN6699901401"
     ]
   },
   {
-    "season": 2023,
-    "team_id": 4,
-    "team_name": "Ulm FC",
+    "season": 2021,
+    "team_id": 10,
+    "team_name": "Team Maurer",
     "owner_ids": [
-      "{73E99B8E-D69A-44EC-AB80-ECEE56846DBD}"
+      "{3A6E4A98-B2A7-4394-84BF-79079CA1352D}"
     ],
     "owner_names": [
-      "CHICK3PNP0TPIE"
+      "ESPNFAN6963152074"
     ]
   },
   {
-    "season": 2023,
-    "team_id": 5,
-    "team_name": "Turd Ferguson",
-    "owner_ids": [
-      "{6EFD42BF-CD53-4D8C-BD42-BFCD53AD8C6B}"
-    ],
-    "owner_names": [
-      "MattSmags731"
-    ]
-  },
-  {
-    "season": 2023,
-    "team_id": 6,
-    "team_name": "Witness",
-    "owner_ids": [
-      "{1FE5FF41-6166-4063-BB8A-6E41B477955C}"
-    ],
-    "owner_names": [
-      "JSef24"
-    ]
-  },
-  {
-    "season": 2023,
-    "team_id": 7,
-    "team_name": "King of the North",
+    "season": 2021,
+    "team_id": 11,
+    "team_name": "Team Cerroni",
     "owner_ids": [
       "{E3DC2984-E463-46E0-9C29-84E463F6E0ED}"
     ],
@@ -473,58 +121,36 @@
     ]
   },
   {
-    "season": 2023,
-    "team_id": 8,
-    "team_name": "Team Lindner",
-    "owner_ids": [
-      "{F869656D-06D3-40B3-A965-6D06D380B3FF}"
-    ],
-    "owner_names": [
-      "ESPNFAN8366876511"
-    ]
-  },
-  {
-    "season": 2023,
-    "team_id": 9,
-    "team_name": "Talk Purdy 2 Me",
-    "owner_ids": [
-      "{956FA246-963D-4ACB-B006-D63EF91B5112}"
-    ],
-    "owner_names": [
-      "castillo1921"
-    ]
-  },
-  {
-    "season": 2023,
-    "team_id": 10,
-    "team_name": "Scrote Squad ",
-    "owner_ids": [
-      "{B617300D-DBD9-48D1-8410-8237B6102898}"
-    ],
-    "owner_names": [
-      "ESPNFAN3524295959"
-    ]
-  },
-  {
-    "season": 2023,
-    "team_id": 11,
-    "team_name": "Brees Nutz",
-    "owner_ids": [
-      "{56ABF385-6C66-477E-86B8-3C2C196FE87D}"
-    ],
-    "owner_names": [
-      "Kyle Strandberg"
-    ]
-  },
-  {
-    "season": 2023,
+    "season": 2021,
     "team_id": 12,
-    "team_name": "The Love Boat",
+    "team_name": "Team Ulm",
+    "owner_ids": [
+      "{73E99B8E-D69A-44EC-AB80-ECEE56846DBD}"
+    ],
+    "owner_names": [
+      "CHICK3PNP0TPIE"
+    ]
+  },
+  {
+    "season": 2021,
+    "team_id": 13,
+    "team_name": "Brady\u2019s Got Back",
+    "owner_ids": [
+      "{6EFD42BF-CD53-4D8C-BD42-BFCD53AD8C6B}"
+    ],
+    "owner_names": [
+      "MattSmags731"
+    ]
+  },
+  {
+    "season": 2021,
+    "team_id": 14,
+    "team_name": "Winnie Court Keepers",
     "owner_ids": [
       "{7A574462-9259-4007-BA67-4D94379DEE64}"
     ],
     "owner_names": [
-      "Rob Sweasy"
+      "RSwayz"
     ]
   },
   {
@@ -682,9 +308,9 @@
     ]
   },
   {
-    "season": 2021,
+    "season": 2023,
     "team_id": 1,
-    "team_name": "The  Carndogs ",
+    "team_name": "Snack Daddy ",
     "owner_ids": [
       "{99D1A9AB-4CE5-4C0F-85A4-740CC7735B1F}"
     ],
@@ -693,19 +319,74 @@
     ]
   },
   {
-    "season": 2021,
+    "season": 2023,
     "team_id": 2,
-    "team_name": "Team Strandberg",
+    "team_name": "TDs and Beer",
     "owner_ids": [
-      "{56ABF385-6C66-477E-86B8-3C2C196FE87D}"
+      "{E1B85C3C-6485-4FDF-B85C-3C6485CFDF8F}"
     ],
     "owner_names": [
-      "Kyle Strandberg"
+      "SgtRing026"
     ]
   },
   {
-    "season": 2021,
+    "season": 2023,
     "team_id": 3,
+    "team_name": "Running Back U",
+    "owner_ids": [
+      "{CBD315FA-CC07-44CE-9A87-16C7ED8CF3D8}"
+    ],
+    "owner_names": [
+      "ESPNFAN4700203380"
+    ]
+  },
+  {
+    "season": 2023,
+    "team_id": 4,
+    "team_name": "Ulm FC",
+    "owner_ids": [
+      "{73E99B8E-D69A-44EC-AB80-ECEE56846DBD}"
+    ],
+    "owner_names": [
+      "CHICK3PNP0TPIE"
+    ]
+  },
+  {
+    "season": 2023,
+    "team_id": 5,
+    "team_name": "Turd Ferguson",
+    "owner_ids": [
+      "{6EFD42BF-CD53-4D8C-BD42-BFCD53AD8C6B}"
+    ],
+    "owner_names": [
+      "MattSmags731"
+    ]
+  },
+  {
+    "season": 2023,
+    "team_id": 6,
+    "team_name": "Witness",
+    "owner_ids": [
+      "{1FE5FF41-6166-4063-BB8A-6E41B477955C}"
+    ],
+    "owner_names": [
+      "JSef24"
+    ]
+  },
+  {
+    "season": 2023,
+    "team_id": 7,
+    "team_name": "King of the North",
+    "owner_ids": [
+      "{E3DC2984-E463-46E0-9C29-84E463F6E0ED}"
+    ],
+    "owner_names": [
+      "Ccerroni22"
+    ]
+  },
+  {
+    "season": 2023,
+    "team_id": 8,
     "team_name": "Team Lindner",
     "owner_ids": [
       "{F869656D-06D3-40B3-A965-6D06D380B3FF}"
@@ -715,108 +396,86 @@
     ]
   },
   {
-    "season": 2021,
-    "team_id": 4,
-    "team_name": "Team Dahms",
+    "season": 2023,
+    "team_id": 9,
+    "team_name": "Talk Purdy 2 Me",
     "owner_ids": [
-      "{5E549226-563F-4321-A943-DD55570D816B}"
+      "{956FA246-963D-4ACB-B006-D63EF91B5112}"
     ],
     "owner_names": [
-      "ESPNFAN4652244952"
+      "castillo1921"
     ]
   },
   {
-    "season": 2021,
-    "team_id": 5,
-    "team_name": "Yahara Nate K ",
+    "season": 2023,
+    "team_id": 10,
+    "team_name": "Scrote Squad ",
     "owner_ids": [
-      "{16BC9488-0411-46B1-BC94-88041106B1F6}"
+      "{B617300D-DBD9-48D1-8410-8237B6102898}"
     ],
     "owner_names": [
-      "Nate Kowalczyk"
+      "ESPNFAN3524295959"
     ]
   },
   {
-    "season": 2021,
-    "team_id": 6,
-    "team_name": "Mendota Mafia",
+    "season": 2023,
+    "team_id": 11,
+    "team_name": "Brees Nutz",
     "owner_ids": [
-      "{B164D7FF-C736-45EA-A4D7-FFC736D5EAA4}"
+      "{56ABF385-6C66-477E-86B8-3C2C196FE87D}"
     ],
     "owner_names": [
-      "tmyers1837"
+      "Kyle Strandberg"
     ]
   },
   {
-    "season": 2021,
-    "team_id": 7,
-    "team_name": "Team Holzwart",
+    "season": 2023,
+    "team_id": 12,
+    "team_name": "The Love Boat",
     "owner_ids": [
-      "{3F1746E3-4480-4E3B-AA12-F5AA65C24636}"
+      "{7A574462-9259-4007-BA67-4D94379DEE64}"
     ],
     "owner_names": [
-      "Baby Holz"
+      "Rob Sweasy"
     ]
   },
   {
-    "season": 2021,
-    "team_id": 8,
-    "team_name": "Bago TDs and beer",
+    "season": 2024,
+    "team_id": 1,
+    "team_name": "Snack Dadddy",
+    "owner_ids": [
+      "{D2FFA8C4-0894-4BF9-8FF4-AD4663E3C5DA}"
+    ],
+    "owner_names": [
+      "ESPNFAN0465836673"
+    ]
+  },
+  {
+    "season": 2024,
+    "team_id": 2,
+    "team_name": "Nabers With Attitude",
     "owner_ids": [
       "{E1B85C3C-6485-4FDF-B85C-3C6485CFDF8F}"
     ],
     "owner_names": [
-      "Jeramy.ringwolski"
+      "SgtRing026"
     ]
   },
   {
-    "season": 2021,
-    "team_id": 9,
-    "team_name": "Team Freckmann",
+    "season": 2024,
+    "team_id": 3,
+    "team_name": "Talk Purdy 2 ME",
     "owner_ids": [
-      "{7D625A72-DD1D-4A14-8774-73F1BD6AE334}"
+      "{956FA246-963D-4ACB-B006-D63EF91B5112}"
     ],
     "owner_names": [
-      "ESPNFAN6699901401"
+      "castillo1921"
     ]
   },
   {
-    "season": 2021,
-    "team_id": 10,
-    "team_name": "Team Maurer",
-    "owner_ids": [
-      "{3A6E4A98-B2A7-4394-84BF-79079CA1352D}"
-    ],
-    "owner_names": [
-      "ESPNFAN6963152074"
-    ]
-  },
-  {
-    "season": 2021,
-    "team_id": 11,
-    "team_name": "Team Cerroni",
-    "owner_ids": [
-      "{E3DC2984-E463-46E0-9C29-84E463F6E0ED}"
-    ],
-    "owner_names": [
-      "Ccerroni22"
-    ]
-  },
-  {
-    "season": 2021,
-    "team_id": 12,
-    "team_name": "Team Ulm",
-    "owner_ids": [
-      "{73E99B8E-D69A-44EC-AB80-ECEE56846DBD}"
-    ],
-    "owner_names": [
-      "CHICK3PNP0TPIE"
-    ]
-  },
-  {
-    "season": 2021,
-    "team_id": 13,
-    "team_name": "Brady\u2019s Got Back",
+    "season": 2024,
+    "team_id": 4,
+    "team_name": "Lamb of God",
     "owner_ids": [
       "{6EFD42BF-CD53-4D8C-BD42-BFCD53AD8C6B}"
     ],
@@ -825,14 +484,355 @@
     ]
   },
   {
-    "season": 2021,
-    "team_id": 14,
-    "team_name": "Winnie Court Keepers",
+    "season": 2024,
+    "team_id": 5,
+    "team_name": "Ian's Impressive Team",
+    "owner_ids": [
+      "{F869656D-06D3-40B3-A965-6D06D380B3FF}"
+    ],
+    "owner_names": [
+      "ESPNFAN8366876511"
+    ]
+  },
+  {
+    "season": 2024,
+    "team_id": 6,
+    "team_name": "Kyle Strandberg",
+    "owner_ids": [
+      "{56ABF385-6C66-477E-86B8-3C2C196FE87D}"
+    ],
+    "owner_names": [
+      "Kyle Strandberg"
+    ]
+  },
+  {
+    "season": 2024,
+    "team_id": 7,
+    "team_name": "Rob's Remarkable Team",
     "owner_ids": [
       "{7A574462-9259-4007-BA67-4D94379DEE64}"
     ],
     "owner_names": [
-      "RSwayz"
+      "Rob Sweasy"
+    ]
+  },
+  {
+    "season": 2024,
+    "team_id": 8,
+    "team_name": "Winter is Coming",
+    "owner_ids": [
+      "{E3DC2984-E463-46E0-9C29-84E463F6E0ED}"
+    ],
+    "owner_names": [
+      "Ccerroni22"
+    ]
+  },
+  {
+    "season": 2024,
+    "team_id": 9,
+    "team_name": "Witness",
+    "owner_ids": [
+      "{1FE5FF41-6166-4063-BB8A-6E41B477955C}"
+    ],
+    "owner_names": [
+      "JSef24"
+    ]
+  },
+  {
+    "season": 2024,
+    "team_id": 10,
+    "team_name": "RBU",
+    "owner_ids": [
+      "{CBD315FA-CC07-44CE-9A87-16C7ED8CF3D8}"
+    ],
+    "owner_names": [
+      "ESPNFAN4700203380"
+    ]
+  },
+  {
+    "season": 2024,
+    "team_id": 11,
+    "team_name": "Amon-Ra Dawgin",
+    "owner_ids": [
+      "{F360DF4D-5086-4C79-A695-B8FEC26C8A5C}"
+    ],
+    "owner_names": [
+      "ESPNfan8216749860"
+    ]
+  },
+  {
+    "season": 2024,
+    "team_id": 12,
+    "team_name": "Scrote Squad",
+    "owner_ids": [
+      "{834C0375-7102-4FD5-9428-A0CE3F66F371}"
+    ],
+    "owner_names": [
+      "ESPNFAN80291420"
+    ]
+  },
+  {
+    "season": 2025,
+    "team_id": 1,
+    "team_name": "Snack Dadddy",
+    "owner_ids": [
+      "{D2FFA8C4-0894-4BF9-8FF4-AD4663E3C5DA}"
+    ],
+    "owner_names": [
+      "ESPNFAN0465836673"
+    ]
+  },
+  {
+    "season": 2025,
+    "team_id": 2,
+    "team_name": "Epstein's List",
+    "owner_ids": [
+      "{E1B85C3C-6485-4FDF-B85C-3C6485CFDF8F}"
+    ],
+    "owner_names": [
+      "SgtRing026"
+    ]
+  },
+  {
+    "season": 2025,
+    "team_id": 3,
+    "team_name": "Talk Purdy 2 ME",
+    "owner_ids": [
+      "{956FA246-963D-4ACB-B006-D63EF91B5112}"
+    ],
+    "owner_names": [
+      "castillo1921"
+    ]
+  },
+  {
+    "season": 2025,
+    "team_id": 4,
+    "team_name": "Pocket Pancakes",
+    "owner_ids": [
+      "{6EFD42BF-CD53-4D8C-BD42-BFCD53AD8C6B}"
+    ],
+    "owner_names": [
+      "MattSmags731"
+    ]
+  },
+  {
+    "season": 2025,
+    "team_id": 5,
+    "team_name": "Ian's Impressive Team",
+    "owner_ids": [
+      "{F869656D-06D3-40B3-A965-6D06D380B3FF}"
+    ],
+    "owner_names": [
+      "ESPNFAN8366876511"
+    ]
+  },
+  {
+    "season": 2025,
+    "team_id": 6,
+    "team_name": "Kyle Strandberg",
+    "owner_ids": [
+      "{56ABF385-6C66-477E-86B8-3C2C196FE87D}"
+    ],
+    "owner_names": [
+      "Kyle Strandberg"
+    ]
+  },
+  {
+    "season": 2025,
+    "team_id": 7,
+    "team_name": "Rob's Remarkable Team",
+    "owner_ids": [
+      "{7A574462-9259-4007-BA67-4D94379DEE64}"
+    ],
+    "owner_names": [
+      "Rob Sweasy"
+    ]
+  },
+  {
+    "season": 2025,
+    "team_id": 8,
+    "team_name": "Ditka in a Box ",
+    "owner_ids": [
+      "{A66267B3-4595-453B-9697-079F72C5EC7C}"
+    ],
+    "owner_names": [
+      "Berto D "
+    ]
+  },
+  {
+    "season": 2025,
+    "team_id": 9,
+    "team_name": "Witness",
+    "owner_ids": [
+      "{1FE5FF41-6166-4063-BB8A-6E41B477955C}"
+    ],
+    "owner_names": [
+      "JSef24"
+    ]
+  },
+  {
+    "season": 2025,
+    "team_id": 10,
+    "team_name": "RBU",
+    "owner_ids": [
+      "{CBD315FA-CC07-44CE-9A87-16C7ED8CF3D8}"
+    ],
+    "owner_names": [
+      "ESPNFAN4700203380"
+    ]
+  },
+  {
+    "season": 2025,
+    "team_id": 11,
+    "team_name": "Ulm FC",
+    "owner_ids": [
+      "{F360DF4D-5086-4C79-A695-B8FEC26C8A5C}"
+    ],
+    "owner_names": [
+      "ESPNfan8216749860"
+    ]
+  },
+  {
+    "season": 2025,
+    "team_id": 12,
+    "team_name": "Scrote Squad",
+    "owner_ids": [
+      "{834C0375-7102-4FD5-9428-A0CE3F66F371}"
+    ],
+    "owner_names": [
+      "ESPNFAN80291420"
+    ]
+  },
+  {
+    "season": 2026,
+    "team_id": 1,
+    "team_name": "Snack Dadddy",
+    "owner_ids": [
+      "{D2FFA8C4-0894-4BF9-8FF4-AD4663E3C5DA}"
+    ],
+    "owner_names": [
+      "ESPNFAN0465836673"
+    ]
+  },
+  {
+    "season": 2026,
+    "team_id": 2,
+    "team_name": "Big Ol Tuddies",
+    "owner_ids": [
+      "{E1B85C3C-6485-4FDF-B85C-3C6485CFDF8F}"
+    ],
+    "owner_names": [
+      "SgtRing026"
+    ]
+  },
+  {
+    "season": 2026,
+    "team_id": 3,
+    "team_name": "Daejon's Cut List ",
+    "owner_ids": [
+      "{956FA246-963D-4ACB-B006-D63EF91B5112}"
+    ],
+    "owner_names": [
+      "castillo1921"
+    ]
+  },
+  {
+    "season": 2026,
+    "team_id": 4,
+    "team_name": "Tush Touching",
+    "owner_ids": [
+      "{6EFD42BF-CD53-4D8C-BD42-BFCD53AD8C6B}"
+    ],
+    "owner_names": [
+      "MattSmags731"
+    ]
+  },
+  {
+    "season": 2026,
+    "team_id": 5,
+    "team_name": "Ian's Impressive Team",
+    "owner_ids": [
+      "{F869656D-06D3-40B3-A965-6D06D380B3FF}"
+    ],
+    "owner_names": [
+      "ESPNFAN8366876511"
+    ]
+  },
+  {
+    "season": 2026,
+    "team_id": 6,
+    "team_name": "Kyle Strandberg",
+    "owner_ids": [
+      "{56ABF385-6C66-477E-86B8-3C2C196FE87D}"
+    ],
+    "owner_names": [
+      "Kyle Strandberg"
+    ]
+  },
+  {
+    "season": 2026,
+    "team_id": 7,
+    "team_name": "Rob's Remarkable Team",
+    "owner_ids": [
+      "{7A574462-9259-4007-BA67-4D94379DEE64}"
+    ],
+    "owner_names": [
+      "Rob Sweasy"
+    ]
+  },
+  {
+    "season": 2026,
+    "team_id": 8,
+    "team_name": "Ditka in a Box ",
+    "owner_ids": [
+      "{A66267B3-4595-453B-9697-079F72C5EC7C}"
+    ],
+    "owner_names": [
+      "Berto D "
+    ]
+  },
+  {
+    "season": 2026,
+    "team_id": 9,
+    "team_name": "Witness",
+    "owner_ids": [
+      "{1FE5FF41-6166-4063-BB8A-6E41B477955C}"
+    ],
+    "owner_names": [
+      "JSef24"
+    ]
+  },
+  {
+    "season": 2026,
+    "team_id": 10,
+    "team_name": "RBU",
+    "owner_ids": [
+      "{CBD315FA-CC07-44CE-9A87-16C7ED8CF3D8}"
+    ],
+    "owner_names": [
+      "ESPNFAN4700203380"
+    ]
+  },
+  {
+    "season": 2026,
+    "team_id": 11,
+    "team_name": "Ulm FC",
+    "owner_ids": [
+      "{F360DF4D-5086-4C79-A695-B8FEC26C8A5C}"
+    ],
+    "owner_names": [
+      "ESPNfan8216749860"
+    ]
+  },
+  {
+    "season": 2026,
+    "team_id": 12,
+    "team_name": "Scrote Squad",
+    "owner_ids": [
+      "{834C0375-7102-4FD5-9428-A0CE3F66F371}"
+    ],
+    "owner_names": [
+      "ESPNFAN80291420"
     ]
   }
 ]
