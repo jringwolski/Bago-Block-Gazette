@@ -41,7 +41,12 @@ def main():
   lines += ["","## Record Book",""]
   if rec.get("highest_score"): x=rec["highest_score"]; lines.append(f"- **Season high:** {x['team']} — {x['score']:.2f} (Week {x['week']})")
   if rec.get("lowest_score"): x=rec["lowest_score"]; lines.append(f"- **Season low:** {x['team']} — {x['score']:.2f} (Week {x['week']})")
-  if rec.get("biggest_blowout"): x=rec["biggest_blowout"]; lines.append(f"- **Biggest blowout:** {abs(x['home_score']-x['away_score']):.2f} points — {x['home']} vs. {x['away']} (Week {x['week']})")
+  if rec.get("biggest_blowout"):
+   x=rec["biggest_blowout"]
+   margin=x.get("margin",abs(x.get("home_score",0)-x.get("away_score",0)))
+   home=x.get("home") or x.get("home_team") or x.get("home_display","Home")
+   away=x.get("away") or x.get("away_team") or x.get("away_display","Away")
+   lines.append(f"- **Biggest blowout:** {margin:.2f} points — {home} vs. {away} (Week {x['week']})")
  text="\n".join(lines)+"\n"; out=Path("gazette");out.mkdir(exist_ok=True)
  (out/"latest.md").write_text(text,encoding="utf-8");(out/f"week-{week}.md").write_text(text,encoding="utf-8")
 if __name__=="__main__":main()
