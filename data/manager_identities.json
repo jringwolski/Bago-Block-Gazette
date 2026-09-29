@@ -1,0 +1,204 @@
+{
+  "displayRules": {
+    "Kyle Strandberg": "Kyle",
+    "Kyle Maurer": "Kyle M."
+  },
+  "managers": [
+    {
+      "canonical": "Alex Ulm",
+      "display": "Alex",
+      "teams": {
+        "2021": "Team Ulm",
+        "2022": "Ulm FC",
+        "2023": "Ulm FC",
+        "2024": "Amon-Ra Dawgin",
+        "2025": "Ulm FC",
+        "2026": "Ulm FC"
+      }
+    },
+    {
+      "canonical": "Jeramy Ringwolski",
+      "display": "Jeramy",
+      "teams": {
+        "2021": "Bago TDs and beer",
+        "2022": "TDs and Beer",
+        "2023": "TDs and Beer",
+        "2024": "Nabers With Attitude",
+        "2025": "Epstein's List",
+        "2026": "Big Ol Tuddies"
+      }
+    },
+    {
+      "canonical": "Rob Sweasy",
+      "display": "Rob",
+      "teams": {
+        "2021": "Winnie Court Keepers",
+        "2022": "Winnie Court Keepers",
+        "2023": "The Love Boat",
+        "2024": "Rob's Remarkable Team",
+        "2025": "Rob's Remarkable Team",
+        "2026": "Rob's Remarkable Team"
+      }
+    },
+    {
+      "canonical": "Elliot Carney",
+      "display": "Elliot",
+      "teams": {
+        "2021": "The Carndogs",
+        "2022": "The Carndogs",
+        "2023": "Snack Daddy",
+        "2024": "Snack Dadddy",
+        "2025": "Snack Dadddy",
+        "2026": "Snack Dadddy"
+      }
+    },
+    {
+      "canonical": "Ian Lindner",
+      "display": "Ian",
+      "teams": {
+        "2021": "Team Lindner",
+        "2022": "Team Lindner",
+        "2023": "Team Lindner",
+        "2024": "Ian's Impressive Team",
+        "2025": "Ian's Impressive Team",
+        "2026": "Ian's Impressive Team"
+      }
+    },
+    {
+      "canonical": "Kyle Strandberg",
+      "display": "Kyle",
+      "teams": {
+        "2021": "Team Strandberg",
+        "2022": "Team Strandberg",
+        "2023": "Brees Nutz",
+        "2024": "Kyle Strandberg",
+        "2025": "Kyle Strandberg",
+        "2026": "Kyle Strandberg"
+      }
+    },
+    {
+      "canonical": "Matt Smaglick",
+      "display": "Matt",
+      "teams": {
+        "2021": "Brady's Got Back",
+        "2022": "Matty Ice",
+        "2023": "Turd Ferguson",
+        "2024": "Lamb of God",
+        "2025": "Pocket Pancakes",
+        "2026": "Tush Touching"
+      }
+    },
+    {
+      "canonical": "Chad Cerroni",
+      "display": "Chad",
+      "teams": {
+        "2021": "Team Cerroni",
+        "2022": "King of the North",
+        "2023": "King of the North",
+        "2024": "Winter is Coming"
+      }
+    },
+    {
+      "canonical": "Tony Myers",
+      "display": "Tony",
+      "teams": {
+        "2021": "Mendota Mafia",
+        "2022": "Mendota Mafia"
+      }
+    },
+    {
+      "canonical": "Nate Kowalczyk",
+      "display": "Nate",
+      "teams": {
+        "2021": "Yahara Nate K",
+        "2022": "Yahara Nate K"
+      }
+    },
+    {
+      "canonical": "Dale Freckmann",
+      "display": "Dale",
+      "teams": {
+        "2021": "Team Freckmann",
+        "2022": "Little Giants"
+      }
+    },
+    {
+      "canonical": "Chris Dahms",
+      "display": "Chris",
+      "teams": {
+        "2021": "Team Dahms",
+        "2022": "Team Dahms"
+      }
+    },
+    {
+      "canonical": "Kyle Maurer",
+      "display": "Kyle M.",
+      "teams": {
+        "2021": "Team Maurer",
+        "2022": "Maurer's Mishaps"
+      }
+    },
+    {
+      "canonical": "Adam Holzwart",
+      "display": "Adam",
+      "teams": {
+        "2021": "Team Holzwart"
+      }
+    },
+    {
+      "canonical": "Ayden Freckmann",
+      "display": "Ayden",
+      "teams": {
+        "2022": "Mike Glennon"
+      }
+    },
+    {
+      "canonical": "Nick Tehan",
+      "display": "Nick",
+      "teams": {
+        "2023": "Running Back U",
+        "2024": "RBU",
+        "2025": "RBU",
+        "2026": "RBU"
+      }
+    },
+    {
+      "canonical": "David Castillo",
+      "display": "David",
+      "teams": {
+        "2023": "Talk Purdy 2 Me",
+        "2024": "Talk Purdy 2 ME",
+        "2025": "Talk Purdy 2 ME",
+        "2026": "Daejon's Cut List"
+      }
+    },
+    {
+      "canonical": "Jordan Seflow",
+      "display": "Jordan",
+      "teams": {
+        "2023": "Witness",
+        "2024": "Witness",
+        "2025": "Witness",
+        "2026": "Witness"
+      }
+    },
+    {
+      "canonical": "Jason Jarosch",
+      "display": "Jason",
+      "teams": {
+        "2023": "Scrote Squad",
+        "2024": "Scrote Squad",
+        "2025": "Scrote Squad",
+        "2026": "Scrote Squad"
+      }
+    },
+    {
+      "canonical": "Berto Diaz",
+      "display": "Berto",
+      "teams": {
+        "2025": "Ditka in a Box",
+        "2026": "Ditka in a Box"
+      }
+    }
+  ]
+}
