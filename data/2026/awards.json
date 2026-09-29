@@ -5,15 +5,15 @@
       "Scrote Squad",
       "Snack Dadddy"
     ],
-    "margin": 0.2400000000000091
+    "margin": 0.24
   },
   "ass_kicking": {
-    "winner": "Daejon's Cut List ",
+    "winner": "Daejon's Cut List",
     "victim": "Ulm FC",
-    "margin": 32.959999999999994
+    "margin": 32.96
   },
   "high_score": {
-    "team": "Daejon's Cut List ",
+    "team": "Daejon's Cut List",
     "score": 145.7
   },
   "low_score": {
@@ -22,6 +22,6 @@
   },
   "heartbreaker": {
     "team": "Snack Dadddy",
-    "margin": 0.2400000000000091
+    "margin": 0.24
   }
 }

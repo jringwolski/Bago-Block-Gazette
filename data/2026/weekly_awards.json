@@ -1,0 +1,78 @@
+{
+  "season": 2026,
+  "completed_through_week": 3,
+  "weeks": [
+    {
+      "week": 1,
+      "nuclear_performance": {
+        "team": "Ditka in a Box",
+        "score": 181.46
+      },
+      "dumpster_fire": {
+        "team": "Tush Touching",
+        "score": 99.22
+      },
+      "akow": {
+        "winner": "Daejon's Cut List",
+        "victim": "Big Ol Tuddies",
+        "margin": 61.22
+      },
+      "heartbreak": {
+        "team": "Ulm FC",
+        "margin": 6.36
+      },
+      "escape_artist": {
+        "team": "Witness",
+        "margin": 6.36
+      }
+    },
+    {
+      "week": 2,
+      "nuclear_performance": {
+        "team": "Daejon's Cut List",
+        "score": 157.6
+      },
+      "dumpster_fire": {
+        "team": "Snack Dadddy",
+        "score": 84.86
+      },
+      "akow": {
+        "winner": "Daejon's Cut List",
+        "victim": "Tush Touching",
+        "margin": 45.44
+      },
+      "heartbreak": {
+        "team": "Ian's Impressive Team",
+        "margin": 1.2
+      },
+      "escape_artist": {
+        "team": "Big Ol Tuddies",
+        "margin": 1.2
+      }
+    },
+    {
+      "week": 3,
+      "nuclear_performance": {
+        "team": "Daejon's Cut List",
+        "score": 145.7
+      },
+      "dumpster_fire": {
+        "team": "Tush Touching",
+        "score": 97.82
+      },
+      "akow": {
+        "winner": "Daejon's Cut List",
+        "victim": "Ulm FC",
+        "margin": 32.96
+      },
+      "heartbreak": {
+        "team": "Snack Dadddy",
+        "margin": 0.24
+      },
+      "escape_artist": {
+        "team": "Scrote Squad",
+        "margin": 0.24
+      }
+    }
+  ]
+}
