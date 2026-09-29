@@ -58,6 +58,14 @@ jobs:
         run: |
           python historical_import.py
           python build_all_time.py
+      - name: Commit certified historical master
+        if: (github.event_name == 'workflow_dispatch' && inputs.historical_import == 'true') || (github.event_name == 'push' && contains(github.event.head_commit.message, '[historical-import]'))
+        run: |
+          git config user.name "bago-block-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/historical/ data/manager_identities.json data/league_lineage.json
+          git diff --cached --quiet || git commit -m "Certify historical master ledger"
+          git push
       - name: Collect ESPN data
         env:
           ESPN_LEAGUE_ID: "1724229206"
