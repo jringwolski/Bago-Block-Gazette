@@ -55,7 +55,8 @@ def main():
                     rec={"team":tname,"player":pname,"points":round(pts,2),"lineupSlotId":slot,"starter":starter}
                     rows.append(rec); plist.append(rec)
                 team_summaries[tname]={
-                    "starter_points":round(sum(x["points"] for x in plist if x["starter"]),2),
+                     # Publication rule: ESPN matchup total is authoritative for final/starter score.
+                    # Player rows are used for top performers; bench slots are summed independently.\n                    "starter_points":round(float(side.get("totalPoints") or 0),2),
                     "bench_points":round(sum(x["points"] for x in plist if not x["starter"]),2),
                     "top_bench":max((x for x in plist if not x["starter"]),key=lambda x:x["points"],default=None),
                     "top_starter":max((x for x in plist if x["starter"]),key=lambda x:x["points"],default=None)
