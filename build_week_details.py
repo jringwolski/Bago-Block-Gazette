@@ -28,7 +28,8 @@ def main():
     d=json.loads(Path(f"data/{SEASON}/latest.json").read_text(encoding="utf-8"))
     teams={t["id"]:t for t in d.get("teams",[])}
     out={}
-    completed_weeks = sorted({int(g.get("matchupPeriodId")) for g in d.get("schedule",[]) if g.get("matchupPeriodId") and (g.get("home") or {}).get("totalPoints") is not None and (g.get("away") or {}).get("totalPoints") is not None})\n    for week in completed_weeks:
+    completed_weeks = sorted({int(g.get("matchupPeriodId")) for g in d.get("schedule",[]) if g.get("matchupPeriodId") and (g.get("home") or {}).get("totalPoints") is not None and (g.get("away") or {}).get("totalPoints") is not None})
+    for week in completed_weeks:
         rows=[]
         team_summaries={}
         for g in d.get("schedule",[]):
