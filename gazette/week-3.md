@@ -1,5 +1,5 @@
 # DAEJON'S CUT LIST DROPS 145.70
-*Bago Block Gazette — Week 3 • September 29, 2026*
+*Bago Block Gazette — Week 3 • September 30, 2026*
 
 ## Lead Story
 
