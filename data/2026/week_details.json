@@ -18,7 +18,6 @@
     "bench_disaster": [
       "Kyle Strandberg",
       {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -38,7 +37,6 @@
     ],
     "teams": {
       "Kyle Strandberg": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -56,7 +54,6 @@
         }
       },
       "Snack Dadddy": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -74,7 +71,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -92,7 +88,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -110,7 +105,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -128,7 +122,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Scrote Squad",
@@ -146,7 +139,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -164,7 +156,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -182,7 +173,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ulm FC",
@@ -200,7 +190,6 @@
         }
       },
       "Witness": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -218,7 +207,6 @@
         }
       },
       "RBU": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -236,7 +224,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Tush Touching",
@@ -1578,7 +1565,6 @@
     "bench_disaster": [
       "Snack Dadddy",
       {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -1598,7 +1584,6 @@
     ],
     "teams": {
       "Snack Dadddy": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -1616,7 +1601,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -1634,7 +1618,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Scrote Squad",
@@ -1652,7 +1635,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -1670,7 +1652,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -1688,7 +1669,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -1706,7 +1686,6 @@
         }
       },
       "Witness": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -1724,7 +1703,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -1742,7 +1720,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Tush Touching",
@@ -1760,7 +1737,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -1778,7 +1754,6 @@
         }
       },
       "RBU": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -1796,7 +1771,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ulm FC",
@@ -3138,7 +3112,6 @@
     "bench_disaster": [
       "Kyle Strandberg",
       {
-        "starter_points": 129.06,
         "bench_points": 75.02,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -3158,7 +3131,6 @@
     ],
     "teams": {
       "Scrote Squad": {
-        "starter_points": 119.48,
         "bench_points": 7.4,
         "top_bench": {
           "team": "Scrote Squad",
@@ -3176,7 +3148,6 @@
         }
       },
       "Snack Dadddy": {
-        "starter_points": 117.94,
         "bench_points": 28.6,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -3194,7 +3165,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 101.18,
         "bench_points": 30.6,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -3212,7 +3182,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 105.76,
         "bench_points": 38.96,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -3230,7 +3199,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 129.06,
         "bench_points": 75.02,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -3248,7 +3216,6 @@
         }
       },
       "Witness": {
-        "starter_points": 116.2,
         "bench_points": 35.8,
         "top_bench": {
           "team": "Witness",
@@ -3266,7 +3233,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 115.14,
         "bench_points": 22.9,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -3284,7 +3250,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 97.82,
         "bench_points": 23.48,
         "top_bench": {
           "team": "Tush Touching",
@@ -3302,7 +3267,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 135.98,
         "bench_points": 26.54,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -3320,7 +3284,6 @@
         }
       },
       "RBU": {
-        "starter_points": 134.78,
         "bench_points": 38.24,
         "top_bench": {
           "team": "RBU",
@@ -3338,7 +3301,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 163.5,
         "bench_points": 57.06,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -3356,7 +3318,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 124.84,
         "bench_points": 51.28,
         "top_bench": {
           "team": "Ulm FC",
@@ -4698,7 +4659,6 @@
     "bench_disaster": [
       "Kyle Strandberg",
       {
-        "starter_points": 116.01,
         "bench_points": 77.12,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -4718,7 +4678,6 @@
     ],
     "teams": {
       "Snack Dadddy": {
-        "starter_points": 117.94,
         "bench_points": 39.97,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -4736,7 +4695,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 121.46,
         "bench_points": 60.28,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -4754,7 +4712,6 @@
         }
       },
       "Witness": {
-        "starter_points": 123.35,
         "bench_points": 56.27,
         "top_bench": {
           "team": "Witness",
@@ -4772,7 +4729,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 120.08,
         "bench_points": 10.3,
         "top_bench": {
           "team": "Scrote Squad",
@@ -4790,7 +4746,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 103.92,
         "bench_points": 47.73,
         "top_bench": {
           "team": "Tush Touching",
@@ -4808,7 +4763,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 117.31,
         "bench_points": 34.32,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -4826,7 +4780,6 @@
         }
       },
       "RBU": {
-        "starter_points": 127.03,
         "bench_points": 32.16,
         "top_bench": {
           "team": "RBU",
@@ -4844,7 +4797,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 116.01,
         "bench_points": 77.12,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -4862,7 +4814,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 127.36,
         "bench_points": 24.2,
         "top_bench": {
           "team": "Ulm FC",
@@ -4880,7 +4831,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 125.87,
         "bench_points": 27.8,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -4898,7 +4848,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 139.74,
         "bench_points": 48.53,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -4916,7 +4865,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 119.08,
         "bench_points": 52.02,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -6258,7 +6206,6 @@
     "bench_disaster": [
       "Witness",
       {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -6278,7 +6225,6 @@
     ],
     "teams": {
       "Witness": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -6296,7 +6242,6 @@
         }
       },
       "Snack Dadddy": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -6314,7 +6259,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -6332,7 +6276,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Tush Touching",
@@ -6350,7 +6293,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Scrote Squad",
@@ -6368,7 +6310,6 @@
         }
       },
       "RBU": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -6386,7 +6327,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -6404,7 +6344,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ulm FC",
@@ -6422,7 +6361,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -6440,7 +6378,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -6458,7 +6395,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -6476,7 +6412,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -7818,7 +7753,6 @@
     "bench_disaster": [
       "Snack Dadddy",
       {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -7838,7 +7772,6 @@
     ],
     "teams": {
       "Snack Dadddy": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -7856,7 +7789,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Tush Touching",
@@ -7874,7 +7806,6 @@
         }
       },
       "RBU": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -7892,7 +7823,6 @@
         }
       },
       "Witness": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -7910,7 +7840,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ulm FC",
@@ -7928,7 +7857,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -7946,7 +7874,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -7964,7 +7891,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Scrote Squad",
@@ -7982,7 +7908,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -8000,7 +7925,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -8018,7 +7942,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -8036,7 +7959,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -9378,7 +9300,6 @@
     "bench_disaster": [
       "RBU",
       {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -9398,7 +9319,6 @@
     ],
     "teams": {
       "RBU": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -9416,7 +9336,6 @@
         }
       },
       "Snack Dadddy": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -9434,7 +9353,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Tush Touching",
@@ -9452,7 +9370,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ulm FC",
@@ -9470,7 +9387,6 @@
         }
       },
       "Witness": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -9488,7 +9404,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -9506,7 +9421,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -9524,7 +9438,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -9542,7 +9455,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Scrote Squad",
@@ -9560,7 +9472,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -9578,7 +9489,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -9596,7 +9506,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -10938,7 +10847,6 @@
     "bench_disaster": [
       "Snack Dadddy",
       {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -10958,7 +10866,6 @@
     ],
     "teams": {
       "Snack Dadddy": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -10976,7 +10883,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ulm FC",
@@ -10994,7 +10900,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -11012,7 +10917,6 @@
         }
       },
       "RBU": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -11030,7 +10934,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -11048,7 +10951,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Tush Touching",
@@ -11066,7 +10968,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -11084,7 +10985,6 @@
         }
       },
       "Witness": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -11102,7 +11002,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -11120,7 +11019,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -11138,7 +11036,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -11156,7 +11053,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Scrote Squad",
@@ -12498,7 +12394,6 @@
     "bench_disaster": [
       "Daejon's Cut List",
       {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -12518,7 +12413,6 @@
     ],
     "teams": {
       "Daejon's Cut List": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -12536,7 +12430,6 @@
         }
       },
       "Snack Dadddy": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -12554,7 +12447,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ulm FC",
@@ -12572,7 +12464,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -12590,7 +12481,6 @@
         }
       },
       "RBU": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -12608,7 +12498,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -12626,7 +12515,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Tush Touching",
@@ -12644,7 +12532,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -12662,7 +12549,6 @@
         }
       },
       "Witness": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -12680,7 +12566,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -12698,7 +12583,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -12716,7 +12600,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Scrote Squad",
@@ -14058,7 +13941,6 @@
     "bench_disaster": [
       "Snack Dadddy",
       {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -14078,7 +13960,6 @@
     ],
     "teams": {
       "Snack Dadddy": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -14096,7 +13977,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -14114,7 +13994,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -14132,7 +14011,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -14150,7 +14028,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -14168,7 +14045,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ulm FC",
@@ -14186,7 +14062,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -14204,7 +14079,6 @@
         }
       },
       "RBU": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -14222,7 +14096,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Scrote Squad",
@@ -14240,7 +14113,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Tush Touching",
@@ -14258,7 +14130,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -14276,7 +14147,6 @@
         }
       },
       "Witness": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -15618,7 +15488,6 @@
     "bench_disaster": [
       "Ian's Impressive Team",
       {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -15638,7 +15507,6 @@
     ],
     "teams": {
       "Ian's Impressive Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -15656,7 +15524,6 @@
         }
       },
       "Snack Dadddy": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -15674,7 +15541,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -15692,7 +15558,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -15710,7 +15575,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -15728,7 +15592,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -15746,7 +15609,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ulm FC",
@@ -15764,7 +15626,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Scrote Squad",
@@ -15782,7 +15643,6 @@
         }
       },
       "RBU": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -15800,7 +15660,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -15818,7 +15677,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Tush Touching",
@@ -15836,7 +15694,6 @@
         }
       },
       "Witness": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -17178,7 +17035,6 @@
     "bench_disaster": [
       "Snack Dadddy",
       {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -17198,7 +17054,6 @@
     ],
     "teams": {
       "Snack Dadddy": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -17216,7 +17071,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -17234,7 +17088,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -17252,7 +17105,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -17270,7 +17122,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Scrote Squad",
@@ -17288,7 +17139,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -17306,7 +17156,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -17324,7 +17173,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -17342,7 +17190,6 @@
         }
       },
       "Witness": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -17360,7 +17207,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ulm FC",
@@ -17378,7 +17224,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Tush Touching",
@@ -17396,7 +17241,6 @@
         }
       },
       "RBU": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -18738,7 +18582,6 @@
     "bench_disaster": [
       "Ditka in a Box",
       {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -18758,7 +18601,6 @@
     ],
     "teams": {
       "Ditka in a Box": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -18776,7 +18618,6 @@
         }
       },
       "Snack Dadddy": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -18794,7 +18635,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -18812,7 +18652,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Scrote Squad",
@@ -18830,7 +18669,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -18848,7 +18686,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -18866,7 +18703,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -18884,7 +18720,6 @@
         }
       },
       "Witness": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -18902,7 +18737,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",
@@ -18920,7 +18754,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Tush Touching",
@@ -18938,7 +18771,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ulm FC",
@@ -18956,7 +18788,6 @@
         }
       },
       "RBU": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -20298,7 +20129,6 @@
     "bench_disaster": [
       "Snack Dadddy",
       {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -20318,7 +20148,6 @@
     ],
     "teams": {
       "Snack Dadddy": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Snack Dadddy",
@@ -20336,7 +20165,6 @@
         }
       },
       "Scrote Squad": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Scrote Squad",
@@ -20354,7 +20182,6 @@
         }
       },
       "Big Ol Tuddies": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Big Ol Tuddies",
@@ -20372,7 +20199,6 @@
         }
       },
       "Ditka in a Box": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ditka in a Box",
@@ -20390,7 +20216,6 @@
         }
       },
       "Witness": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Witness",
@@ -20408,7 +20233,6 @@
         }
       },
       "Kyle Strandberg": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Kyle Strandberg",
@@ -20426,7 +20250,6 @@
         }
       },
       "Tush Touching": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Tush Touching",
@@ -20444,7 +20267,6 @@
         }
       },
       "Ian's Impressive Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ian's Impressive Team",
@@ -20462,7 +20284,6 @@
         }
       },
       "RBU": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "RBU",
@@ -20480,7 +20301,6 @@
         }
       },
       "Rob's Remarkable Team": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Rob's Remarkable Team",
@@ -20498,7 +20318,6 @@
         }
       },
       "Ulm FC": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Ulm FC",
@@ -20516,7 +20335,6 @@
         }
       },
       "Daejon's Cut List": {
-        "starter_points": 0.0,
         "bench_points": 0.0,
         "top_bench": {
           "team": "Daejon's Cut List",

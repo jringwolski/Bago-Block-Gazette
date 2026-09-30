@@ -17,7 +17,6 @@
   "bench_disaster": [
     "Snack Dadddy",
     {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "Snack Dadddy",
@@ -37,7 +36,6 @@
   ],
   "teams": {
     "Snack Dadddy": {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "Snack Dadddy",
@@ -55,7 +53,6 @@
       }
     },
     "Rob's Remarkable Team": {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "Rob's Remarkable Team",
@@ -73,7 +70,6 @@
       }
     },
     "Ian's Impressive Team": {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "Ian's Impressive Team",
@@ -91,7 +87,6 @@
       }
     },
     "Daejon's Cut List": {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "Daejon's Cut List",
@@ -109,7 +104,6 @@
       }
     },
     "Kyle Strandberg": {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "Kyle Strandberg",
@@ -127,7 +121,6 @@
       }
     },
     "Ulm FC": {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "Ulm FC",
@@ -145,7 +138,6 @@
       }
     },
     "Ditka in a Box": {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "Ditka in a Box",
@@ -163,7 +155,6 @@
       }
     },
     "RBU": {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "RBU",
@@ -181,7 +172,6 @@
       }
     },
     "Scrote Squad": {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "Scrote Squad",
@@ -199,7 +189,6 @@
       }
     },
     "Tush Touching": {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "Tush Touching",
@@ -217,7 +206,6 @@
       }
     },
     "Big Ol Tuddies": {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "Big Ol Tuddies",
@@ -235,7 +223,6 @@
       }
     },
     "Witness": {
-      "starter_points": 0.0,
       "bench_points": 0.0,
       "top_bench": {
         "team": "Witness",
