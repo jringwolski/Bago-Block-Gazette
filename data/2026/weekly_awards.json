@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "completed_through_week": 3,
+  "completed_through_week": 4,
   "weeks": [
     {
       "week": 1,
@@ -72,6 +72,30 @@
       "escape_artist": {
         "team": "Scrote Squad",
         "margin": 0.24
+      }
+    },
+    {
+      "week": 4,
+      "nuclear_performance": {
+        "team": "Ditka in a Box",
+        "score": 174.88
+      },
+      "dumpster_fire": {
+        "team": "Tush Touching",
+        "score": 77.82
+      },
+      "akow": {
+        "winner": "Ditka in a Box",
+        "victim": "Tush Touching",
+        "margin": 97.06
+      },
+      "heartbreak": {
+        "team": "Ian's Impressive Team",
+        "margin": 1.5
+      },
+      "escape_artist": {
+        "team": "Ulm FC",
+        "margin": 1.5
       }
     }
   ]
