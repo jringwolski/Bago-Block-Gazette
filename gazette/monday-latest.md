@@ -1,52 +1,53 @@
 # THE MONDAY HANGOVER
 ### Sunday's damage is done. Monday night gets the last word.
 
-**Bago Block Gazette • Week 5 • October 06, 2026**
+**Bago Block Gazette • Week 5 • October 12, 2026**
 
 ## WHAT HAPPENED SUNDAY
 
-- **Rob's Remarkable Team 143.65 — Ian's Impressive Team 127.54**
-- **Witness 128.71 — Snack Dadddy 115.83**
-- **RBU 127.41 — Scrote Squad 113.64**
-- **Big Ol Tuddies 127.00 — Tush Touching 77.46**
-- **Kyle Strandberg 125.45 — Daejon's Cut List 103.54**
-- **Ulm FC 122.02 — Ditka in a Box 87.69**
+- **Rob's Remarkable Team 152.42 — Ian's Impressive Team 145.50**
+- **Big Ol Tuddies 147.84 — Tush Touching 91.11**
+- **RBU 140.77 — Scrote Squad 127.41**
+- **Snack Dadddy 129.24 — Witness 124.37**
+- **Ditka in a Box 113.88 — Ulm FC 80.68**
+- **Kyle Strandberg 102.50 — Daejon's Cut List 102.32**
 
 ## SCOREBOARD
 
-- **Snack Dadddy 115.83** at **Witness 128.71** — margin **12.88**
-- **RBU 127.41** at **Scrote Squad 113.64** — margin **13.77**
-- **Rob's Remarkable Team 143.65** at **Ian's Impressive Team 127.54** — margin **16.11**
-- **Daejon's Cut List 103.54** at **Kyle Strandberg 125.45** — margin **21.91**
-- **Ulm FC 122.02** at **Ditka in a Box 87.69** — margin **34.33**
-- **Tush Touching 77.46** at **Big Ol Tuddies 127.00** — margin **49.54**
+- **Daejon's Cut List 102.32** at **Kyle Strandberg 102.50** — margin **0.18**
+- **Snack Dadddy 129.24** at **Witness 124.37** — margin **4.87**
+- **Rob's Remarkable Team 152.42** at **Ian's Impressive Team 145.50** — margin **6.92**
+- **RBU 140.77** at **Scrote Squad 127.41** — margin **13.36**
+- **Ulm FC 80.68** at **Ditka in a Box 113.88** — margin **33.20**
+- **Tush Touching 91.11** at **Big Ol Tuddies 147.84** — margin **56.73**
 
 ## WHAT'S ON THE LINE TONIGHT
 
 **Eagles at Bears — 8:15 PM ET.** These are the fantasy starters still capable of moving the Bago Block scoreboard tonight.
 
-### Snack Dadddy 115.83 at Witness 128.71
+### Snack Dadddy 129.24 at Witness 124.37
 - **Snack Dadddy still has:** Colston Loveland (CHI)
-- **Current gap:** 12.88. **Snack Dadddy** needs at least that much swing tonight.
+- **Current gap:** 4.87. **Witness** needs at least that much swing tonight.
 
-### Rob's Remarkable Team 143.65 at Ian's Impressive Team 127.54
+### Rob's Remarkable Team 152.42 at Ian's Impressive Team 145.50
 - **Ian's Impressive Team still has:** D'Andre Swift (CHI)
-- **Current gap:** 16.11. **Ian's Impressive Team** needs at least that much swing tonight.
+- **Current gap:** 6.92. **Ian's Impressive Team** needs at least that much swing tonight.
 
-### Ulm FC 122.02 at Ditka in a Box 87.69
-- **Ditka in a Box still has:** Luther Burden III (CHI), Kyle Monangai (CHI), Makai Lemon (PHI)
-- **Current gap:** 34.33. **Ditka in a Box** needs at least that much swing tonight.
+### Ulm FC 80.68 at Ditka in a Box 113.88
+- **Ulm FC still has:** Will Shipley (PHI)
+- **Ditka in a Box still has:** Luther Burden III (CHI), Makai Lemon (PHI)
+- **Current gap:** 33.20. **Ulm FC** needs at least that much swing tonight.
 
-### Tush Touching 77.46 at Big Ol Tuddies 127.00
-- **Tush Touching still has:** Jalen Hurts (PHI)
+### Tush Touching 91.11 at Big Ol Tuddies 147.84
+- **Tush Touching still has:** Jalen Hurts (PHI), Dallas Goedert (PHI)
 - **Big Ol Tuddies still has:** Rome Odunze (CHI), Dontayvion Wicks (PHI)
-- **Current gap:** 49.54. **Tush Touching** needs at least that much swing tonight.
+- **Current gap:** 56.73. **Tush Touching** needs at least that much swing tonight.
 
 ## MONDAY NIGHT SWEAT
 
-- **Snack Dadddy vs. Witness** — only **12.88** points apart.
-- **RBU vs. Scrote Squad** — only **13.77** points apart.
-- **Rob's Remarkable Team vs. Ian's Impressive Team** — only **16.11** points apart.
+- **Daejon's Cut List vs. Kyle Strandberg** — only **0.18** points apart.
+- **Snack Dadddy vs. Witness** — only **4.87** points apart.
+- **Rob's Remarkable Team vs. Ian's Impressive Team** — only **6.92** points apart.
 
 ## TOMORROW: THE VERDICT
 
