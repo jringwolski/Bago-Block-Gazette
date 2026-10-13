@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "completed_through_week": 4,
+  "completed_through_week": 5,
   "weeks": [
     {
       "week": 1,
@@ -96,6 +96,30 @@
       "escape_artist": {
         "team": "Ulm FC",
         "margin": 1.5
+      }
+    },
+    {
+      "week": 5,
+      "nuclear_performance": {
+        "team": "Rob's Remarkable Team",
+        "score": 168.44
+      },
+      "dumpster_fire": {
+        "team": "Ulm FC",
+        "score": 80.68
+      },
+      "akow": {
+        "winner": "Big Ol Tuddies",
+        "victim": "Tush Touching",
+        "margin": 49.64
+      },
+      "heartbreak": {
+        "team": "Snack Dadddy",
+        "margin": 6.08
+      },
+      "escape_artist": {
+        "team": "Witness",
+        "margin": 6.08
       }
     }
   ]

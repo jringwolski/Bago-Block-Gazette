@@ -1,27 +1,27 @@
 {
-  "week": 4,
+  "week": 5,
   "game_of_week": {
     "teams": [
-      "Ulm FC",
-      "Ian's Impressive Team"
+      "Witness",
+      "Snack Dadddy"
     ],
-    "margin": 1.5
+    "margin": 6.08
   },
   "ass_kicking": {
-    "winner": "Ditka in a Box",
+    "winner": "Big Ol Tuddies",
     "victim": "Tush Touching",
-    "margin": 97.06
+    "margin": 49.64
   },
   "high_score": {
-    "team": "Ditka in a Box",
-    "score": 174.88
+    "team": "Rob's Remarkable Team",
+    "score": 168.44
   },
   "low_score": {
-    "team": "Tush Touching",
-    "score": 77.82
+    "team": "Ulm FC",
+    "score": 80.68
   },
   "heartbreaker": {
-    "team": "Ian's Impressive Team",
-    "margin": 1.5
+    "team": "Snack Dadddy",
+    "margin": 6.08
   }
 }
