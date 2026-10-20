@@ -1,40 +1,40 @@
-# ROB'S REMARKABLE TEAM DROPS 168.44
-*Bago Block Gazette — Week 5 • October 13, 2026*
+# RBU DROPS 174.54
+*Bago Block Gazette — Week 6 • October 20, 2026*
 
 ## Lead Story
 
-**Rob's Remarkable Team** owns the Week 5 front page after posting a league-best **168.44 points**.
+**RBU** owns the Week 6 front page after posting a league-best **174.54 points**.
 
-## Week 5 Scoreboard
+## Week 6 Scoreboard
 
-- **Rob's Remarkable Team** 168.44 — Ian's Impressive Team 145.50
-- **Big Ol Tuddies** 147.84 — Tush Touching 98.20
-- **RBU** 139.64 — Scrote Squad 129.90
-- **Witness** 135.32 — Snack Dadddy 129.24
-- **Ditka in a Box** 113.88 — Ulm FC 80.68
-- **Kyle Strandberg** 113.10 — Daejon's Cut List 102.32
+- **RBU** 174.54 — Witness 90.68
+- **Kyle Strandberg** 147.00 — Ian's Impressive Team 111.32
+- **Tush Touching** 133.78 — Snack Dadddy 99.12
+- **Daejon's Cut List** 124.92 — Scrote Squad 88.38
+- **Ulm FC** 104.64 — Big Ol Tuddies 83.20
+- **Ditka in a Box** 90.70 — Rob's Remarkable Team 88.26
 
 ## Weekly Hardware
 
-- **Game of the Week:** Witness 135.32 vs. Snack Dadddy 129.24 — decided by **6.08**
-- **Ass-Kicking of the Week:** Big Ol Tuddies over Tush Touching by **49.64**
-- **Heartbreaker:** Snack Dadddy — lost by **6.08**
-- **High Score:** Rob's Remarkable Team — **168.44**
+- **Game of the Week:** Rob's Remarkable Team 88.26 vs. Ditka in a Box 90.70 — decided by **2.44**
+- **Ass-Kicking of the Week:** RBU over Witness by **83.86**
+- **Heartbreaker:** Rob's Remarkable Team — lost by **2.44**
+- **High Score:** RBU — **174.54**
 
 ## Standings
 
-1. **Rob's Remarkable Team** — 4-1 | 694.02 PF
-2. **Ditka in a Box** — 4-1 | 674.52 PF
-3. **Witness** — 4-1 | 613.28 PF
-4. **Big Ol Tuddies** — 4-1 | 610.20 PF
-5. **Daejon's Cut List** — 3-2 | 713.66 PF
-6. **RBU** — 3-2 | 632.16 PF
-7. **Scrote Squad** — 2-3 | 610.54 PF
-8. **Kyle Strandberg** — 2-3 | 593.26 PF
-9. **Ulm FC** — 2-3 | 530.50 PF
-10. **Ian's Impressive Team** — 1-4 | 639.94 PF
-11. **Snack Dadddy** — 1-4 | 569.04 PF
-12. **Tush Touching** — 0-5 | 485.22 PF
+1. **Ditka in a Box** — 5-1 | 765.22 PF
+2. **Daejon's Cut List** — 4-2 | 838.58 PF
+3. **RBU** — 4-2 | 806.70 PF
+4. **Rob's Remarkable Team** — 4-2 | 782.28 PF
+5. **Witness** — 4-2 | 703.96 PF
+6. **Big Ol Tuddies** — 4-2 | 693.40 PF
+7. **Kyle Strandberg** — 3-3 | 740.26 PF
+8. **Ulm FC** — 3-3 | 635.14 PF
+9. **Scrote Squad** — 2-4 | 698.92 PF
+10. **Ian's Impressive Team** — 1-5 | 751.26 PF
+11. **Snack Dadddy** — 1-5 | 668.16 PF
+12. **Tush Touching** — 1-5 | 619.00 PF
 
 ## Record Book
 

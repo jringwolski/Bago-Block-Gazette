@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "completed_through_week": 5,
+  "completed_through_week": 6,
   "weeks": [
     {
       "week": 1,
@@ -120,6 +120,30 @@
       "escape_artist": {
         "team": "Witness",
         "margin": 6.08
+      }
+    },
+    {
+      "week": 6,
+      "nuclear_performance": {
+        "team": "RBU",
+        "score": 174.54
+      },
+      "dumpster_fire": {
+        "team": "Big Ol Tuddies",
+        "score": 83.2
+      },
+      "akow": {
+        "winner": "RBU",
+        "victim": "Witness",
+        "margin": 83.86
+      },
+      "heartbreak": {
+        "team": "Rob's Remarkable Team",
+        "margin": 2.44
+      },
+      "escape_artist": {
+        "team": "Ditka in a Box",
+        "margin": 2.44
       }
     }
   ]
