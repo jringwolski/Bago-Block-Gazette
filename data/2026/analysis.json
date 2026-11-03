@@ -1,81 +1,81 @@
 {
-  "week": 7,
+  "week": 8,
   "teams": {
     "Snack Dadddy": {
       "wins": 2,
-      "losses": 5,
+      "losses": 6,
       "ties": 0,
-      "points_for": 816.54
+      "points_for": 909.3399999999999
     },
     "Big Ol Tuddies": {
       "wins": 4,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "points_for": 791.7400000000001
+      "points_for": 908.7000000000002
     },
     "Daejon's Cut List ": {
       "wins": 5,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "points_for": 981.5799999999998
+      "points_for": 1071.58
     },
     "Tush Touching": {
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "ties": 0,
-      "points_for": 695.02
+      "points_for": 777.62
     },
     "Ian's Impressive Team": {
-      "wins": 2,
+      "wins": 3,
       "losses": 5,
       "ties": 0,
-      "points_for": 843.14
+      "points_for": 961.52
     },
     "Kyle Strandberg": {
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "ties": 0,
-      "points_for": 897.0799999999999
+      "points_for": 1037.34
     },
     "Rob's Remarkable Team": {
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
       "ties": 0,
-      "points_for": 945.9
+      "points_for": 1089.58
     },
     "Ditka in a Box ": {
       "wins": 5,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "points_for": 889.5400000000002
+      "points_for": 1011.7200000000003
     },
     "Witness": {
       "wins": 4,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "points_for": 832.0600000000001
+      "points_for": 934.24
     },
     "RBU": {
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "ties": 0,
-      "points_for": 939.5799999999999
+      "points_for": 1078.3799999999999
     },
     "Ulm FC": {
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "ties": 0,
-      "points_for": 714.96
+      "points_for": 822.9200000000001
     },
     "Scrote Squad": {
-      "wins": 2,
+      "wins": 3,
       "losses": 5,
       "ties": 0,
-      "points_for": 771.2
+      "points_for": 902.3800000000001
     }
   },
-  "closest": 3.799999999999997,
-  "largest_margin": 65.28,
-  "league_high": 163.62,
-  "league_low": 72.28
+  "closest": 9.0,
+  "largest_margin": 61.08000000000001,
+  "league_high": 143.68,
+  "league_low": 82.6
 }

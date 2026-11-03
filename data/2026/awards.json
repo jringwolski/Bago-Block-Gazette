@@ -1,27 +1,27 @@
 {
-  "week": 7,
+  "week": 8,
   "game_of_week": {
     "teams": [
-      "Ulm FC",
-      "Tush Touching"
+      "Scrote Squad",
+      "Ditka in a Box"
     ],
-    "margin": 3.8
+    "margin": 9.0
   },
   "ass_kicking": {
     "winner": "Rob's Remarkable Team",
-    "victim": "Big Ol Tuddies",
-    "margin": 65.28
+    "victim": "Tush Touching",
+    "margin": 61.08
   },
   "high_score": {
     "team": "Rob's Remarkable Team",
-    "score": 163.62
+    "score": 143.68
   },
   "low_score": {
-    "team": "Scrote Squad",
-    "score": 72.28
+    "team": "Tush Touching",
+    "score": 82.6
   },
   "heartbreaker": {
-    "team": "Tush Touching",
-    "margin": 3.8
+    "team": "Ditka in a Box",
+    "margin": 9.0
   }
 }
