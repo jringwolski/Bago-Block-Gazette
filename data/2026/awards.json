@@ -1,27 +1,27 @@
 {
-  "week": 8,
+  "week": 9,
   "game_of_week": {
     "teams": [
-      "Scrote Squad",
+      "Witness",
       "Ditka in a Box"
     ],
-    "margin": 9.0
+    "margin": 7.36
   },
   "ass_kicking": {
-    "winner": "Rob's Remarkable Team",
-    "victim": "Tush Touching",
-    "margin": 61.08
+    "winner": "Snack Dadddy",
+    "victim": "Daejon's Cut List",
+    "margin": 51.52
   },
   "high_score": {
-    "team": "Rob's Remarkable Team",
-    "score": 143.68
+    "team": "Snack Dadddy",
+    "score": 146.8
   },
   "low_score": {
-    "team": "Tush Touching",
-    "score": 82.6
+    "team": "Kyle Strandberg",
+    "score": 89.96
   },
   "heartbreaker": {
     "team": "Ditka in a Box",
-    "margin": 9.0
+    "margin": 7.36
   }
 }

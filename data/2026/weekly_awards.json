@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "completed_through_week": 8,
+  "completed_through_week": 9,
   "weeks": [
     {
       "week": 1,
@@ -192,6 +192,30 @@
       "escape_artist": {
         "team": "Scrote Squad",
         "margin": 9.0
+      }
+    },
+    {
+      "week": 9,
+      "nuclear_performance": {
+        "team": "Snack Dadddy",
+        "score": 146.8
+      },
+      "dumpster_fire": {
+        "team": "Kyle Strandberg",
+        "score": 89.96
+      },
+      "akow": {
+        "winner": "Snack Dadddy",
+        "victim": "Daejon's Cut List",
+        "margin": 51.52
+      },
+      "heartbreak": {
+        "team": "Ditka in a Box",
+        "margin": 7.36
+      },
+      "escape_artist": {
+        "team": "Witness",
+        "margin": 7.36
       }
     }
   ]
