@@ -1,240 +1,240 @@
 {
   "week": 10,
   "player_of_week": {
-    "team": "Daejon's Cut List",
-    "player": "Kenneth Walker III",
-    "points": 26.06,
+    "team": "Kyle Strandberg",
+    "player": "Christian McCaffrey",
+    "points": 46.3,
     "lineupSlotId": 2,
     "starter": true
   },
   "bench_player_of_week": {
-    "team": "Ulm FC",
-    "player": "Bryce Young",
-    "points": 18.8,
+    "team": "Rob's Remarkable Team",
+    "player": "Patrick Mahomes",
+    "points": 35.42,
     "lineupSlotId": 20,
     "starter": false
   },
   "bench_disaster": [
-    "Kyle Strandberg",
+    "Daejon's Cut List",
     {
-      "bench_points": 71.61,
+      "bench_points": 77.62,
       "top_bench": {
-        "team": "Kyle Strandberg",
-        "player": "Tyler Shough",
-        "points": 17.3,
+        "team": "Daejon's Cut List",
+        "player": "Jaxon Smith-Njigba",
+        "points": 31.1,
         "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
-        "team": "Kyle Strandberg",
-        "player": "Josh Allen",
-        "points": 24.31,
-        "lineupSlotId": 0,
+        "team": "Daejon's Cut List",
+        "player": "Emmett Johnson",
+        "points": 35.1,
+        "lineupSlotId": 23,
         "starter": true
       }
     }
   ],
   "teams": {
     "Snack Dadddy": {
-      "bench_points": 51.44,
+      "bench_points": 65.5,
       "top_bench": {
         "team": "Snack Dadddy",
-        "player": "Denzel Boston",
-        "points": 12.72,
+        "player": "Blake Corum",
+        "points": 20.9,
         "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
         "team": "Snack Dadddy",
-        "player": "Bijan Robinson",
-        "points": 18.63,
-        "lineupSlotId": 2,
+        "player": "Dak Prescott",
+        "points": 34.42,
+        "lineupSlotId": 0,
         "starter": true
       }
     },
     "Rob's Remarkable Team": {
-      "bench_points": 44.33,
+      "bench_points": 37.42,
       "top_bench": {
         "team": "Rob's Remarkable Team",
         "player": "Patrick Mahomes",
-        "points": 17.53,
+        "points": 35.42,
         "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
         "team": "Rob's Remarkable Team",
         "player": "Jayden Daniels",
-        "points": 18.66,
+        "points": 20.76,
         "lineupSlotId": 0,
         "starter": true
       }
     },
     "Ian's Impressive Team": {
-      "bench_points": 29.16,
+      "bench_points": 26.82,
       "top_bench": {
         "team": "Ian's Impressive Team",
         "player": "Aaron Rodgers",
-        "points": 14.79,
+        "points": 15.62,
         "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
         "team": "Ian's Impressive Team",
         "player": "Ja'Marr Chase",
-        "points": 22.92,
+        "points": 34.1,
         "lineupSlotId": 4,
         "starter": true
       }
     },
     "Daejon's Cut List": {
-      "bench_points": 43.06,
+      "bench_points": 77.62,
       "top_bench": {
         "team": "Daejon's Cut List",
-        "player": "Jaylen Warren",
-        "points": 15.55,
+        "player": "Jaxon Smith-Njigba",
+        "points": 31.1,
         "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
         "team": "Daejon's Cut List",
-        "player": "Kenneth Walker III",
-        "points": 26.06,
-        "lineupSlotId": 2,
+        "player": "Emmett Johnson",
+        "points": 35.1,
+        "lineupSlotId": 23,
         "starter": true
       }
     },
     "Kyle Strandberg": {
-      "bench_points": 71.61,
+      "bench_points": 33.18,
       "top_bench": {
         "team": "Kyle Strandberg",
         "player": "Tyler Shough",
-        "points": 17.3,
+        "points": 9.98,
         "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
         "team": "Kyle Strandberg",
-        "player": "Josh Allen",
-        "points": 24.31,
-        "lineupSlotId": 0,
+        "player": "Christian McCaffrey",
+        "points": 46.3,
+        "lineupSlotId": 2,
         "starter": true
       }
     },
     "Ulm FC": {
-      "bench_points": 39.68,
+      "bench_points": 50.6,
       "top_bench": {
         "team": "Ulm FC",
-        "player": "Bryce Young",
-        "points": 18.8,
+        "player": "Harold Fannin Jr.",
+        "points": 16.1,
         "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
         "team": "Ulm FC",
         "player": "Brock Purdy",
-        "points": 20.73,
+        "points": 31.66,
         "lineupSlotId": 0,
         "starter": true
       }
     },
     "Ditka in a Box": {
-      "bench_points": 48.66,
+      "bench_points": 6.8,
       "top_bench": {
         "team": "Ditka in a Box",
-        "player": "Jordan Love",
-        "points": 16.02,
+        "player": "Devaughn Vele",
+        "points": 3.4,
         "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
         "team": "Ditka in a Box",
         "player": "Chuba Hubbard",
-        "points": 20.01,
+        "points": 34.2,
         "lineupSlotId": 2,
         "starter": true
       }
     },
     "RBU": {
-      "bench_points": 32.57,
+      "bench_points": 41.3,
       "top_bench": {
         "team": "RBU",
-        "player": "Jadarian Price",
-        "points": 11.87,
+        "player": "Kaelon Black",
+        "points": 14.6,
         "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
         "team": "RBU",
         "player": "Trevor Lawrence",
-        "points": 21.46,
+        "points": 26.78,
         "lineupSlotId": 0,
         "starter": true
       }
     },
     "Scrote Squad": {
-      "bench_points": 14.74,
+      "bench_points": 22.9,
       "top_bench": {
         "team": "Scrote Squad",
-        "player": "Treylon Burks",
-        "points": 9.28,
+        "player": "Cooper Kupp",
+        "points": 10.4,
         "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
         "team": "Scrote Squad",
         "player": "Joe Burrow",
-        "points": 19.03,
+        "points": 33.16,
         "lineupSlotId": 0,
         "starter": true
       }
     },
     "Tush Touching": {
-      "bench_points": 24.78,
+      "bench_points": 10.2,
       "top_bench": {
         "team": "Tush Touching",
-        "player": "Deebo Samuel Sr.",
-        "points": 11.7,
-        "lineupSlotId": 20,
+        "player": "Travis Etienne Jr.",
+        "points": 6.4,
+        "lineupSlotId": 21,
         "starter": false
       },
       "top_starter": {
         "team": "Tush Touching",
-        "player": "James Cook III",
-        "points": 20.54,
-        "lineupSlotId": 2,
+        "player": "Deebo Samuel Sr.",
+        "points": 25.9,
+        "lineupSlotId": 4,
         "starter": true
       }
     },
     "Big Ol Tuddies": {
-      "bench_points": 49.44,
+      "bench_points": 42.22,
       "top_bench": {
         "team": "Big Ol Tuddies",
         "player": "Jared Goff",
-        "points": 17.31,
+        "points": 20.42,
         "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
         "team": "Big Ol Tuddies",
         "player": "Jahmyr Gibbs",
-        "points": 23.86,
+        "points": 44.2,
         "lineupSlotId": 2,
         "starter": true
       }
     },
     "Witness": {
-      "bench_points": 14.54,
+      "bench_points": 26.9,
       "top_bench": {
         "team": "Witness",
-        "player": "Justice Hill",
-        "points": 7.36,
+        "player": "Konata Mumpfield",
+        "points": 11.1,
         "lineupSlotId": 20,
         "starter": false
       },
       "top_starter": {
         "team": "Witness",
-        "player": "CeeDee Lamb",
-        "points": 20.86,
+        "player": "Parker Washington",
+        "points": 28.2,
         "lineupSlotId": 4,
         "starter": true
       }
@@ -242,997 +242,997 @@
   },
   "players": [
     {
-      "team": "Daejon's Cut List",
-      "player": "Kenneth Walker III",
-      "points": 26.06,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
       "team": "Kyle Strandberg",
-      "player": "Josh Allen",
-      "points": 24.31,
-      "lineupSlotId": 0,
+      "player": "Christian McCaffrey",
+      "points": 46.3,
+      "lineupSlotId": 2,
       "starter": true
     },
     {
       "team": "Big Ol Tuddies",
       "player": "Jahmyr Gibbs",
-      "points": 23.86,
+      "points": 44.2,
       "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Ian's Impressive Team",
-      "player": "Ja'Marr Chase",
-      "points": 22.92,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Daejon's Cut List",
-      "player": "Jaxon Smith-Njigba",
-      "points": 22.3,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Big Ol Tuddies",
-      "player": "Drake Maye",
-      "points": 21.98,
-      "lineupSlotId": 0,
-      "starter": true
-    },
-    {
-      "team": "Kyle Strandberg",
-      "player": "Christian McCaffrey",
-      "points": 21.75,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "RBU",
-      "player": "Trevor Lawrence",
-      "points": 21.46,
-      "lineupSlotId": 0,
-      "starter": true
-    },
-    {
-      "team": "Witness",
-      "player": "CeeDee Lamb",
-      "points": 20.86,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Ulm FC",
-      "player": "Brock Purdy",
-      "points": 20.73,
-      "lineupSlotId": 0,
-      "starter": true
-    },
-    {
-      "team": "Tush Touching",
-      "player": "James Cook III",
-      "points": 20.54,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Ulm FC",
-      "player": "Amon-Ra St. Brown",
-      "points": 20.35,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Ditka in a Box",
-      "player": "Chuba Hubbard",
-      "points": 20.01,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Scrote Squad",
-      "player": "Joe Burrow",
-      "points": 19.03,
-      "lineupSlotId": 0,
-      "starter": true
-    },
-    {
-      "team": "Ulm FC",
-      "player": "Bryce Young",
-      "points": 18.8,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Witness",
-      "player": "Kyren Williams",
-      "points": 18.67,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Rob's Remarkable Team",
-      "player": "Jayden Daniels",
-      "points": 18.66,
-      "lineupSlotId": 0,
-      "starter": true
-    },
-    {
-      "team": "Snack Dadddy",
-      "player": "Bijan Robinson",
-      "points": 18.63,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Tush Touching",
-      "player": "C.J. Stroud",
-      "points": 18.28,
-      "lineupSlotId": 0,
-      "starter": true
-    },
-    {
-      "team": "Scrote Squad",
-      "player": "Derrick Henry",
-      "points": 18.18,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "RBU",
-      "player": "Jonathan Taylor",
-      "points": 17.81,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Rob's Remarkable Team",
-      "player": "Patrick Mahomes",
-      "points": 17.53,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Ditka in a Box",
-      "player": "Justin Jefferson",
-      "points": 17.45,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Big Ol Tuddies",
-      "player": "Jared Goff",
-      "points": 17.31,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Kyle Strandberg",
-      "player": "Tyler Shough",
-      "points": 17.3,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "RBU",
-      "player": "Bhayshul Tuten",
-      "points": 17.26,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "RBU",
-      "player": "Matthew Golden",
-      "points": 17.22,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Witness",
-      "player": "Matthew Stafford",
-      "points": 16.98,
-      "lineupSlotId": 0,
-      "starter": true
-    },
-    {
-      "team": "Snack Dadddy",
-      "player": "Dak Prescott",
-      "points": 16.55,
-      "lineupSlotId": 0,
-      "starter": true
-    },
-    {
-      "team": "Snack Dadddy",
-      "player": "Malik Nabers",
-      "points": 16.41,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Kyle Strandberg",
-      "player": "Tee Higgins",
-      "points": 16.16,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Ditka in a Box",
-      "player": "Tetairoa McMillan",
-      "points": 16.06,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Ditka in a Box",
-      "player": "Jordan Love",
-      "points": 16.02,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Snack Dadddy",
-      "player": "Ollie Gordon II",
-      "points": 15.95,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Ian's Impressive Team",
-      "player": "Chris Olave",
-      "points": 15.8,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Snack Dadddy",
-      "player": "Christian Watson",
-      "points": 15.7,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Daejon's Cut List",
-      "player": "J.J. McCarthy",
-      "points": 15.62,
-      "lineupSlotId": 0,
-      "starter": true
-    },
-    {
-      "team": "Daejon's Cut List",
-      "player": "Jaylen Warren",
-      "points": 15.55,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "RBU",
-      "player": "Brock Bowers",
-      "points": 15.39,
-      "lineupSlotId": 6,
-      "starter": true
-    },
-    {
-      "team": "Kyle Strandberg",
-      "player": "George Kittle",
-      "points": 15.35,
-      "lineupSlotId": 6,
-      "starter": true
-    },
-    {
-      "team": "RBU",
-      "player": "Javonte Williams",
-      "points": 14.83,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Rob's Remarkable Team",
-      "player": "Drake London",
-      "points": 14.82,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Ian's Impressive Team",
-      "player": "Aaron Rodgers",
-      "points": 14.79,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Daejon's Cut List",
-      "player": "Zay Flowers",
-      "points": 14.59,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Big Ol Tuddies",
-      "player": "Zach Charbonnet",
-      "points": 14.53,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Witness",
-      "player": "Parker Washington",
-      "points": 14.39,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Big Ol Tuddies",
-      "player": "Malik Willis",
-      "points": 14.35,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Rob's Remarkable Team",
-      "player": "Trey McBride",
-      "points": 14.08,
-      "lineupSlotId": 6,
-      "starter": true
-    },
-    {
-      "team": "Ian's Impressive Team",
-      "player": "Woody Marks",
-      "points": 13.92,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Ian's Impressive Team",
-      "player": "Ashton Jeanty",
-      "points": 13.57,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Ditka in a Box",
-      "player": "Chase Brown",
-      "points": 13.53,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Kyle Strandberg",
-      "player": "Tony Pollard",
-      "points": 13.44,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Tush Touching",
-      "player": "Rashee Rice",
-      "points": 13.38,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Ulm FC",
-      "player": "DJ Moore",
-      "points": 13.34,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Big Ol Tuddies",
-      "player": "Nico Collins",
-      "points": 13.17,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Daejon's Cut List",
-      "player": "Kirk Cousins",
-      "points": 12.98,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Snack Dadddy",
-      "player": "Denzel Boston",
-      "points": 12.72,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Scrote Squad",
-      "player": "Garrett Wilson",
-      "points": 12.71,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Ian's Impressive Team",
-      "player": "Isaiah Likely",
-      "points": 12.45,
-      "lineupSlotId": 6,
       "starter": true
     },
     {
       "team": "Kyle Strandberg",
       "player": "George Pickens",
-      "points": 12.27,
+      "points": 43.5,
       "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Scrote Squad",
-      "player": "Carnell Tate",
-      "points": 12.23,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Ditka in a Box",
-      "player": "Breece Hall",
-      "points": 12.13,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Ian's Impressive Team",
-      "player": "Jameson Williams",
-      "points": 12.09,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Ian's Impressive Team",
-      "player": "Justin Herbert",
-      "points": 12.06,
-      "lineupSlotId": 0,
-      "starter": true
-    },
-    {
-      "team": "RBU",
-      "player": "DeMario Douglas",
-      "points": 12.01,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "RBU",
-      "player": "Jadarian Price",
-      "points": 11.87,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Rob's Remarkable Team",
-      "player": "Quinshon Judkins",
-      "points": 11.79,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Daejon's Cut List",
-      "player": "Travis Kelce",
-      "points": 11.7,
-      "lineupSlotId": 6,
-      "starter": true
-    },
-    {
-      "team": "Tush Touching",
-      "player": "Deebo Samuel Sr.",
-      "points": 11.7,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Kyle Strandberg",
-      "player": "Jakobi Meyers",
-      "points": 11.62,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Snack Dadddy",
-      "player": "Blake Corum",
-      "points": 11.59,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Snack Dadddy",
-      "player": "Cam Skattebo",
-      "points": 11.57,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Kyle Strandberg",
-      "player": "T.J. Hockenson",
-      "points": 11.51,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Scrote Squad",
-      "player": "Sam LaPorta",
-      "points": 11.44,
-      "lineupSlotId": 6,
-      "starter": true
-    },
-    {
-      "team": "Ulm FC",
-      "player": "Jalen Coker",
-      "points": 11.3,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Kyle Strandberg",
-      "player": "DK Metcalf",
-      "points": 11.17,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Rob's Remarkable Team",
-      "player": "Germie Bernard",
-      "points": 10.93,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Big Ol Tuddies",
-      "player": "Rachaad White",
-      "points": 10.85,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Ditka in a Box",
-      "player": "Tyler Warren",
-      "points": 10.79,
-      "lineupSlotId": 6,
       "starter": true
     },
     {
       "team": "Rob's Remarkable Team",
-      "player": "Stefon Diggs",
-      "points": 10.75,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Ulm FC",
-      "player": "Jordan Addison",
-      "points": 10.66,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Snack Dadddy",
-      "player": "KC Concepcion",
-      "points": 10.61,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Scrote Squad",
-      "player": "Mack Hollins",
-      "points": 10.6,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Witness",
-      "player": "Ladd McConkey",
-      "points": 10.43,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Kyle Strandberg",
-      "player": "Adonai Mitchell",
-      "points": 10.34,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Daejon's Cut List",
-      "player": "Alvin Kamara",
-      "points": 10.25,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Scrote Squad",
-      "player": "Khalil Shakir",
-      "points": 10.17,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Ulm FC",
-      "player": "Harold Fannin Jr.",
-      "points": 10.08,
-      "lineupSlotId": 6,
-      "starter": true
-    },
-    {
-      "team": "Tush Touching",
-      "player": "Xavier Worthy",
-      "points": 10.05,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Kyle Strandberg",
-      "player": "Rico Dowdle",
-      "points": 9.78,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Ian's Impressive Team",
-      "player": "Caleb Douglas",
-      "points": 9.69,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Kyle Strandberg",
-      "player": "Brenton Strange",
-      "points": 9.58,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Witness",
-      "player": "Josh Downs",
-      "points": 9.49,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Snack Dadddy",
-      "player": "Omar Cooper Jr.",
-      "points": 9.45,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Witness",
-      "player": "Tucker Kraft",
-      "points": 9.4,
-      "lineupSlotId": 6,
-      "starter": true
-    },
-    {
-      "team": "Ditka in a Box",
-      "player": "Malachi Fields",
-      "points": 9.39,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Big Ol Tuddies",
-      "player": "Hunter Henry",
-      "points": 9.33,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Scrote Squad",
-      "player": "Treylon Burks",
-      "points": 9.28,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Tush Touching",
-      "player": "Kyle Pitts Sr.",
-      "points": 9.16,
-      "lineupSlotId": 6,
-      "starter": true
-    },
-    {
-      "team": "Daejon's Cut List",
-      "player": "Jordan Mason",
-      "points": 9.14,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Rob's Remarkable Team",
-      "player": "Malik Washington",
-      "points": 9.01,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Scrote Squad",
-      "player": "Dylan Sampson",
-      "points": 8.93,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Ian's Impressive Team",
-      "player": "Wan'Dale Robinson",
-      "points": 8.86,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Scrote Squad",
-      "player": "Dalton Kincaid",
-      "points": 8.85,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Witness",
-      "player": "Tyler Allgeier",
-      "points": 8.73,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Kyle Strandberg",
-      "player": "Keenan Allen",
-      "points": 8.69,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Ulm FC",
-      "player": "Chig Okonkwo",
-      "points": 8.64,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Snack Dadddy",
-      "player": "Jordyn Tyson",
-      "points": 8.58,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Big Ol Tuddies",
-      "player": "Aaron Jones Sr.",
-      "points": 8.45,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "RBU",
-      "player": "Tre Tucker",
-      "points": 8.41,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Snack Dadddy",
-      "player": "Ryan Flournoy",
-      "points": 8.39,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Ditka in a Box",
-      "player": "Tank Dell",
-      "points": 8.39,
-      "lineupSlotId": 21,
-      "starter": false
-    },
-    {
-      "team": "RBU",
-      "player": "Antonio Williams",
-      "points": 8.18,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Ulm FC",
-      "player": "Omarion Hampton",
-      "points": 7.88,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Big Ol Tuddies",
-      "player": "Braelon Allen",
-      "points": 7.86,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Ditka in a Box",
-      "player": "Kimani Vidal",
-      "points": 7.65,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Tush Touching",
-      "player": "Dalton Schultz",
-      "points": 7.62,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Daejon's Cut List",
-      "player": "Jahan Dotson",
-      "points": 7.59,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "RBU",
-      "player": "Kaelon Black",
-      "points": 7.59,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "RBU",
-      "player": "Keon Coleman",
-      "points": 7.53,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Tush Touching",
-      "player": "Devin Singletary",
-      "points": 7.45,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Ditka in a Box",
-      "player": "Devaughn Vele",
-      "points": 7.4,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Witness",
-      "player": "Justice Hill",
-      "points": 7.36,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Big Ol Tuddies",
-      "player": "Efton Chism III",
-      "points": 7.33,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Ditka in a Box",
-      "player": "Michael Mayer",
-      "points": 7.21,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Witness",
-      "player": "Rashid Shaheed",
-      "points": 7.18,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Tush Touching",
-      "player": "Bam Knight",
-      "points": 6.99,
+      "player": "Patrick Mahomes",
+      "points": 35.42,
       "lineupSlotId": 20,
       "starter": false
     },
     {
       "team": "Daejon's Cut List",
       "player": "Emmett Johnson",
-      "points": 6.94,
+      "points": 35.1,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Snack Dadddy",
+      "player": "Dak Prescott",
+      "points": 34.42,
+      "lineupSlotId": 0,
+      "starter": true
+    },
+    {
+      "team": "Ditka in a Box",
+      "player": "Chuba Hubbard",
+      "points": 34.2,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Ian's Impressive Team",
+      "player": "Ja'Marr Chase",
+      "points": 34.1,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Scrote Squad",
+      "player": "Joe Burrow",
+      "points": 33.16,
+      "lineupSlotId": 0,
+      "starter": true
+    },
+    {
+      "team": "Ulm FC",
+      "player": "Brock Purdy",
+      "points": 31.66,
+      "lineupSlotId": 0,
+      "starter": true
+    },
+    {
+      "team": "Daejon's Cut List",
+      "player": "Jaxon Smith-Njigba",
+      "points": 31.1,
       "lineupSlotId": 20,
       "starter": false
     },
     {
-      "team": "Big Ol Tuddies",
-      "player": "Mark Andrews",
-      "points": 6.9,
+      "team": "Ditka in a Box",
+      "player": "Chase Brown",
+      "points": 28.3,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Witness",
+      "player": "Parker Washington",
+      "points": 28.2,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Ian's Impressive Team",
+      "player": "Isaiah Likely",
+      "points": 27.7,
       "lineupSlotId": 6,
       "starter": true
     },
     {
+      "team": "Snack Dadddy",
+      "player": "Cam Skattebo",
+      "points": 27.2,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "RBU",
+      "player": "Trevor Lawrence",
+      "points": 26.78,
+      "lineupSlotId": 0,
+      "starter": true
+    },
+    {
+      "team": "Tush Touching",
+      "player": "Deebo Samuel Sr.",
+      "points": 25.9,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Ulm FC",
+      "player": "Amon-Ra St. Brown",
+      "points": 25.8,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Big Ol Tuddies",
+      "player": "Nico Collins",
+      "points": 24.4,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Kyle Strandberg",
+      "player": "Tony Pollard",
+      "points": 23.9,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Kyle Strandberg",
+      "player": "Josh Allen",
+      "points": 22.34,
+      "lineupSlotId": 0,
+      "starter": true
+    },
+    {
+      "team": "Tush Touching",
+      "player": "James Cook III",
+      "points": 21.7,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Snack Dadddy",
+      "player": "Blake Corum",
+      "points": 20.9,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
       "team": "Rob's Remarkable Team",
-      "player": "Chris Rodriguez Jr.",
-      "points": 6.86,
+      "player": "Jayden Daniels",
+      "points": 20.76,
+      "lineupSlotId": 0,
+      "starter": true
+    },
+    {
+      "team": "Tush Touching",
+      "player": "C.J. Stroud",
+      "points": 20.44,
+      "lineupSlotId": 0,
+      "starter": true
+    },
+    {
+      "team": "Big Ol Tuddies",
+      "player": "Jared Goff",
+      "points": 20.42,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Rob's Remarkable Team",
+      "player": "Stefon Diggs",
+      "points": 20.3,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "RBU",
+      "player": "Bhayshul Tuten",
+      "points": 20.3,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Witness",
+      "player": "CeeDee Lamb",
+      "points": 20.2,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Witness",
+      "player": "Matthew Stafford",
+      "points": 19.76,
+      "lineupSlotId": 0,
+      "starter": true
+    },
+    {
+      "team": "Ulm FC",
+      "player": "DJ Moore",
+      "points": 19.4,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Snack Dadddy",
+      "player": "Ryan Flournoy",
+      "points": 19.1,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Snack Dadddy",
+      "player": "Jordyn Tyson",
+      "points": 19.0,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Scrote Squad",
+      "player": "Derrick Henry",
+      "points": 19.0,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Snack Dadddy",
+      "player": "Bijan Robinson",
+      "points": 17.7,
       "lineupSlotId": 20,
       "starter": false
     },
     {
       "team": "Ulm FC",
-      "player": "Demarcus Robinson",
-      "points": 6.43,
+      "player": "Omarion Hampton",
+      "points": 17.5,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Daejon's Cut List",
+      "player": "J.J. McCarthy",
+      "points": 17.12,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Rob's Remarkable Team",
+      "player": "Drake London",
+      "points": 16.9,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Daejon's Cut List",
+      "player": "Alvin Kamara",
+      "points": 16.4,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Ditka in a Box",
+      "player": "Justin Jefferson",
+      "points": 16.4,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Ian's Impressive Team",
+      "player": "Justin Herbert",
+      "points": 16.26,
+      "lineupSlotId": 0,
+      "starter": true
+    },
+    {
+      "team": "Big Ol Tuddies",
+      "player": "Mark Andrews",
+      "points": 16.2,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Rob's Remarkable Team",
+      "player": "Quinshon Judkins",
+      "points": 16.1,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Ulm FC",
+      "player": "Harold Fannin Jr.",
+      "points": 16.1,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Daejon's Cut List",
+      "player": "Xavier Hutchinson",
+      "points": 15.8,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Ian's Impressive Team",
+      "player": "Aaron Rodgers",
+      "points": 15.62,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Scrote Squad",
+      "player": "Garrett Wilson",
+      "points": 15.6,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Snack Dadddy",
+      "player": "Ollie Gordon II",
+      "points": 15.5,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Kyle Strandberg",
+      "player": "DK Metcalf",
+      "points": 15.4,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Daejon's Cut List",
+      "player": "Kirk Cousins",
+      "points": 15.38,
+      "lineupSlotId": 0,
+      "starter": true
+    },
+    {
+      "team": "Witness",
+      "player": "Josh Downs",
+      "points": 15.3,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Ditka in a Box",
+      "player": "Breece Hall",
+      "points": 14.8,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "RBU",
+      "player": "Kaelon Black",
+      "points": 14.6,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Ulm FC",
+      "player": "Samaje Perine",
+      "points": 13.9,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Kyle Strandberg",
+      "player": "George Kittle",
+      "points": 13.4,
+      "lineupSlotId": 6,
+      "starter": true
+    },
+    {
+      "team": "Rob's Remarkable Team",
+      "player": "Malik Washington",
+      "points": 13.36,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Tush Touching",
+      "player": "Rashee Rice",
+      "points": 13.2,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Big Ol Tuddies",
+      "player": "Aaron Jones Sr.",
+      "points": 12.5,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "RBU",
+      "player": "Jonathan Taylor",
+      "points": 12.3,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "RBU",
+      "player": "Antonio Williams",
+      "points": 12.2,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "RBU",
+      "player": "Matthew Golden",
+      "points": 12.0,
       "lineupSlotId": 20,
       "starter": false
     },
     {
       "team": "Snack Dadddy",
-      "player": "Brian Thomas Jr.",
-      "points": 6.26,
+      "player": "KC Concepcion",
+      "points": 11.7,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Kyle Strandberg",
+      "player": "Tee Higgins",
+      "points": 11.6,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Daejon's Cut List",
+      "player": "Zay Flowers",
+      "points": 11.4,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "RBU",
+      "player": "Jadarian Price",
+      "points": 11.4,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Kyle Strandberg",
+      "player": "Keenan Allen",
+      "points": 11.1,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Witness",
+      "player": "Konata Mumpfield",
+      "points": 11.1,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Ditka in a Box",
+      "player": "Jordan Love",
+      "points": 10.8,
+      "lineupSlotId": 0,
+      "starter": true
+    },
+    {
+      "team": "Ian's Impressive Team",
+      "player": "Ashton Jeanty",
+      "points": 10.4,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Scrote Squad",
+      "player": "Cooper Kupp",
+      "points": 10.4,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Ian's Impressive Team",
+      "player": "Caleb Douglas",
+      "points": 10.1,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Kyle Strandberg",
+      "player": "Tyler Shough",
+      "points": 9.98,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Scrote Squad",
+      "player": "Mack Hollins",
+      "points": 9.8,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Big Ol Tuddies",
+      "player": "Zach Charbonnet",
+      "points": 9.4,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Daejon's Cut List",
+      "player": "Jahan Dotson",
+      "points": 9.3,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Ditka in a Box",
+      "player": "Malachi Fields",
+      "points": 9.2,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Daejon's Cut List",
+      "player": "Jaylen Warren",
+      "points": 9.1,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "RBU",
+      "player": "Ja'Kobi Lane",
+      "points": 9.1,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Ian's Impressive Team",
+      "player": "Jameson Williams",
+      "points": 9.0,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Kyle Strandberg",
+      "player": "Adonai Mitchell",
+      "points": 8.9,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Kyle Strandberg",
+      "player": "Brenton Strange",
+      "points": 8.9,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Witness",
+      "player": "Justice Hill",
+      "points": 8.8,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Rob's Remarkable Team",
+      "player": "Trey McBride",
+      "points": 8.7,
+      "lineupSlotId": 6,
+      "starter": true
+    },
+    {
+      "team": "Ulm FC",
+      "player": "Bryce Young",
+      "points": 8.1,
       "lineupSlotId": 20,
       "starter": false
     },
     {
       "team": "Tush Touching",
+      "player": "Dalton Schultz",
+      "points": 8.1,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Scrote Squad",
+      "player": "Dalton Kincaid",
+      "points": 7.8,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "RBU",
+      "player": "Javonte Williams",
+      "points": 7.7,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Scrote Squad",
+      "player": "Dylan Sampson",
+      "points": 7.7,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Ian's Impressive Team",
+      "player": "Woody Marks",
+      "points": 7.5,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Scrote Squad",
+      "player": "Khalil Shakir",
+      "points": 7.5,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Snack Dadddy",
+      "player": "Malik Nabers",
+      "points": 7.4,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Ian's Impressive Team",
+      "player": "Rashod Bateman",
+      "points": 7.2,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Tush Touching",
+      "player": "Kyle Pitts Sr.",
+      "points": 7.0,
+      "lineupSlotId": 6,
+      "starter": true
+    },
+    {
+      "team": "Rob's Remarkable Team",
+      "player": "MarShawn Lloyd",
+      "points": 6.9,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Ulm FC",
+      "player": "Jordan Watkins",
+      "points": 6.9,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Snack Dadddy",
+      "player": "Christian Watson",
+      "points": 6.7,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Ditka in a Box",
+      "player": "Tetairoa McMillan",
+      "points": 6.5,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Kyle Strandberg",
+      "player": "Jakobi Meyers",
+      "points": 6.4,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Ulm FC",
+      "player": "Chig Okonkwo",
+      "points": 6.4,
+      "lineupSlotId": 6,
+      "starter": true
+    },
+    {
+      "team": "Tush Touching",
+      "player": "Travis Etienne Jr.",
+      "points": 6.4,
+      "lineupSlotId": 21,
+      "starter": false
+    },
+    {
+      "team": "Big Ol Tuddies",
+      "player": "Rachaad White",
+      "points": 6.2,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Ian's Impressive Team",
+      "player": "Chris Olave",
+      "points": 6.0,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Snack Dadddy",
+      "player": "Brian Thomas Jr.",
+      "points": 5.9,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Daejon's Cut List",
+      "player": "Jordan Mason",
+      "points": 5.9,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Big Ol Tuddies",
+      "player": "Braelon Allen",
+      "points": 5.6,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Kyle Strandberg",
+      "player": "Rico Dowdle",
+      "points": 5.4,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Witness",
+      "player": "Kyren Williams",
+      "points": 5.2,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Ditka in a Box",
+      "player": "Tank Dell",
+      "points": 5.1,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Daejon's Cut List",
+      "player": "Travis Kelce",
+      "points": 5.0,
+      "lineupSlotId": 6,
+      "starter": true
+    },
+    {
+      "team": "Scrote Squad",
+      "player": "Treylon Burks",
+      "points": 4.7,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Big Ol Tuddies",
+      "player": "A.J. Brown",
+      "points": 4.7,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Snack Dadddy",
+      "player": "Darren Waller",
+      "points": 4.4,
+      "lineupSlotId": 6,
+      "starter": true
+    },
+    {
+      "team": "Big Ol Tuddies",
+      "player": "Hunter Henry",
+      "points": 4.2,
+      "lineupSlotId": 6,
+      "starter": true
+    },
+    {
+      "team": "Rob's Remarkable Team",
+      "player": "Tutu Atwell",
+      "points": 4.1,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Ian's Impressive Team",
+      "player": "Wan'Dale Robinson",
+      "points": 4.0,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "RBU",
+      "player": "Brock Bowers",
+      "points": 3.8,
+      "lineupSlotId": 6,
+      "starter": true
+    },
+    {
+      "team": "Tush Touching",
       "player": "Tyjae Spears",
-      "points": 6.09,
+      "points": 3.8,
       "lineupSlotId": 20,
       "starter": false
     },
     {
       "team": "Daejon's Cut List",
       "player": "Mike Washington Jr.",
-      "points": 5.98,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Ulm FC",
-      "player": "Marvin Harrison Jr.",
-      "points": 5.98,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Ulm FC",
-      "player": "Samaje Perine",
-      "points": 5.81,
+      "points": 3.7,
       "lineupSlotId": 20,
       "starter": false
     },
     {
-      "team": "RBU",
-      "player": "Ja'Kobi Lane",
-      "points": 5.58,
+      "team": "Ditka in a Box",
+      "player": "Devaughn Vele",
+      "points": 3.4,
       "lineupSlotId": 20,
       "starter": false
     },
     {
-      "team": "Ian's Impressive Team",
-      "player": "Rashod Bateman",
-      "points": 5.51,
+      "team": "Ditka in a Box",
+      "player": "Kimani Vidal",
+      "points": 3.4,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Ulm FC",
+      "player": "Colby Parkinson",
+      "points": 3.1,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Big Ol Tuddies",
+      "player": "Drake Maye",
+      "points": 3.02,
+      "lineupSlotId": 0,
+      "starter": true
+    },
+    {
+      "team": "Witness",
+      "player": "Tucker Kraft",
+      "points": 2.9,
+      "lineupSlotId": 6,
+      "starter": true
+    },
+    {
+      "team": "Snack Dadddy",
+      "player": "Denzel Boston",
+      "points": 2.6,
       "lineupSlotId": 20,
       "starter": false
     },
     {
       "team": "Scrote Squad",
-      "player": "Cooper Kupp",
-      "points": 5.46,
+      "player": "Sam LaPorta",
+      "points": 2.6,
+      "lineupSlotId": 6,
+      "starter": true
+    },
+    {
+      "team": "Ulm FC",
+      "player": "Corey Kiner",
+      "points": 2.5,
       "lineupSlotId": 20,
       "starter": false
     },
     {
+      "team": "Ditka in a Box",
+      "player": "Tyler Warren",
+      "points": 2.4,
+      "lineupSlotId": 6,
+      "starter": true
+    },
+    {
+      "team": "RBU",
+      "player": "Keon Coleman",
+      "points": 2.1,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Scrote Squad",
+      "player": "Audric Estime",
+      "points": 2.1,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "RBU",
+      "player": "Tre Tucker",
+      "points": 1.9,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Tush Touching",
+      "player": "Bam Knight",
+      "points": 1.9,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Witness",
+      "player": "Rashid Shaheed",
+      "points": 1.8,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Big Ol Tuddies",
+      "player": "Quentin Johnston",
+      "points": 1.6,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Rob's Remarkable Team",
+      "player": "Rhamondre Stevenson",
+      "points": 1.5,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "RBU",
+      "player": "DeMario Douglas",
+      "points": 1.4,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Witness",
+      "player": "Tyler Allgeier",
+      "points": 1.4,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Rob's Remarkable Team",
+      "player": "Germie Bernard",
+      "points": 1.0,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Rob's Remarkable Team",
+      "player": "Chris Rodriguez Jr.",
+      "points": 0.5,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
+      "team": "Ian's Impressive Team",
+      "player": "Keaton Mitchell",
+      "points": 0.4,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
       "team": "Ulm FC",
-      "player": "Seth McGowan",
-      "points": 5.05,
+      "player": "Jalen Coker",
+      "points": 0.3,
+      "lineupSlotId": 4,
+      "starter": true
+    },
+    {
+      "team": "Tush Touching",
+      "player": "Devin Singletary",
+      "points": 0.3,
       "lineupSlotId": 2,
       "starter": true
     },
     {
       "team": "Snack Dadddy",
-      "player": "Jaylen Wright",
-      "points": 3.92,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
-      "team": "Snack Dadddy",
       "player": "Colston Loveland",
       "points": 0.0,
-      "lineupSlotId": 6,
+      "lineupSlotId": 23,
       "starter": true
     },
     {
@@ -1243,32 +1243,25 @@
       "starter": false
     },
     {
+      "team": "Snack Dadddy",
+      "player": "Omar Cooper Jr.",
+      "points": 0.0,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
       "team": "Rob's Remarkable Team",
       "player": "Puka Nacua",
       "points": 0.0,
-      "lineupSlotId": 4,
-      "starter": true
+      "lineupSlotId": 20,
+      "starter": false
     },
     {
       "team": "Rob's Remarkable Team",
       "player": "Josh Jacobs",
       "points": 0.0,
-      "lineupSlotId": 2,
-      "starter": true
-    },
-    {
-      "team": "Rob's Remarkable Team",
-      "player": "Rhamondre Stevenson",
-      "points": 0.0,
-      "lineupSlotId": 23,
-      "starter": true
-    },
-    {
-      "team": "Rob's Remarkable Team",
-      "player": "Michael Wilson",
-      "points": 0.0,
-      "lineupSlotId": 23,
-      "starter": true
+      "lineupSlotId": 20,
+      "starter": false
     },
     {
       "team": "Rob's Remarkable Team",
@@ -1285,18 +1278,11 @@
       "starter": false
     },
     {
-      "team": "Rob's Remarkable Team",
-      "player": "Brandon Aiyuk",
-      "points": 0.0,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
       "team": "Ian's Impressive Team",
       "player": "D'Andre Swift",
       "points": 0.0,
-      "lineupSlotId": 2,
-      "starter": true
+      "lineupSlotId": 20,
+      "starter": false
     },
     {
       "team": "Ian's Impressive Team",
@@ -1307,17 +1293,17 @@
     },
     {
       "team": "Ian's Impressive Team",
-      "player": "Jake Ferguson",
+      "player": "Jaylin Noel",
       "points": 0.0,
       "lineupSlotId": 20,
       "starter": false
     },
     {
-      "team": "Ian's Impressive Team",
-      "player": "Jaylin Noel",
+      "team": "Daejon's Cut List",
+      "player": "Kenneth Walker III",
       "points": 0.0,
-      "lineupSlotId": 20,
-      "starter": false
+      "lineupSlotId": 2,
+      "starter": true
     },
     {
       "team": "Daejon's Cut List",
@@ -1341,8 +1327,8 @@
       "starter": false
     },
     {
-      "team": "Daejon's Cut List",
-      "player": "Chris Godwin Jr.",
+      "team": "Kyle Strandberg",
+      "player": "T.J. Hockenson",
       "points": 0.0,
       "lineupSlotId": 20,
       "starter": false
@@ -1358,15 +1344,15 @@
       "team": "Kyle Strandberg",
       "player": "Roschon Johnson",
       "points": 0.0,
-      "lineupSlotId": 2,
-      "starter": true
+      "lineupSlotId": 20,
+      "starter": false
     },
     {
       "team": "Ulm FC",
       "player": "Emeka Egbuka",
       "points": 0.0,
-      "lineupSlotId": 20,
-      "starter": false
+      "lineupSlotId": 4,
+      "starter": true
     },
     {
       "team": "Ulm FC",
@@ -1377,24 +1363,31 @@
     },
     {
       "team": "Ulm FC",
+      "player": "Jordan Addison",
+      "points": 0.0,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Ulm FC",
       "player": "Jonah Coleman",
+      "points": 0.0,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Ditka in a Box",
+      "player": "Luther Burden III",
       "points": 0.0,
       "lineupSlotId": 20,
       "starter": false
     },
     {
       "team": "Ditka in a Box",
-      "player": "Luther Burden III",
-      "points": 0.0,
-      "lineupSlotId": 4,
-      "starter": true
-    },
-    {
-      "team": "Ditka in a Box",
       "player": "Caleb Williams",
       "points": 0.0,
-      "lineupSlotId": 0,
-      "starter": true
+      "lineupSlotId": 20,
+      "starter": false
     },
     {
       "team": "Ditka in a Box",
@@ -1414,8 +1407,8 @@
       "team": "RBU",
       "player": "Mike Evans",
       "points": 0.0,
-      "lineupSlotId": 20,
-      "starter": false
+      "lineupSlotId": 4,
+      "starter": true
     },
     {
       "team": "RBU",
@@ -1440,6 +1433,13 @@
     },
     {
       "team": "Scrote Squad",
+      "player": "Carnell Tate",
+      "points": 0.0,
+      "lineupSlotId": 23,
+      "starter": true
+    },
+    {
+      "team": "Scrote Squad",
       "player": "Kenny Gainwell",
       "points": 0.0,
       "lineupSlotId": 20,
@@ -1460,13 +1460,6 @@
       "starter": false
     },
     {
-      "team": "Scrote Squad",
-      "player": "Elijah Mitchell",
-      "points": 0.0,
-      "lineupSlotId": 20,
-      "starter": false
-    },
-    {
       "team": "Tush Touching",
       "player": "DeVonta Smith",
       "points": 0.0,
@@ -1475,14 +1468,14 @@
     },
     {
       "team": "Tush Touching",
-      "player": "Travis Etienne Jr.",
+      "player": "Courtland Sutton",
       "points": 0.0,
-      "lineupSlotId": 21,
+      "lineupSlotId": 20,
       "starter": false
     },
     {
       "team": "Tush Touching",
-      "player": "Courtland Sutton",
+      "player": "Xavier Worthy",
       "points": 0.0,
       "lineupSlotId": 4,
       "starter": true
@@ -1491,8 +1484,8 @@
       "team": "Tush Touching",
       "player": "Dallas Goedert",
       "points": 0.0,
-      "lineupSlotId": 23,
-      "starter": true
+      "lineupSlotId": 20,
+      "starter": false
     },
     {
       "team": "Tush Touching",
@@ -1510,17 +1503,10 @@
     },
     {
       "team": "Big Ol Tuddies",
-      "player": "A.J. Brown",
+      "player": "Rome Odunze",
       "points": 0.0,
       "lineupSlotId": 20,
       "starter": false
-    },
-    {
-      "team": "Big Ol Tuddies",
-      "player": "Rome Odunze",
-      "points": 0.0,
-      "lineupSlotId": 4,
-      "starter": true
     },
     {
       "team": "Big Ol Tuddies",
@@ -1530,8 +1516,22 @@
       "starter": false
     },
     {
+      "team": "Big Ol Tuddies",
+      "player": "Kayshon Boutte",
+      "points": 0.0,
+      "lineupSlotId": 20,
+      "starter": false
+    },
+    {
       "team": "Witness",
       "player": "Saquon Barkley",
+      "points": 0.0,
+      "lineupSlotId": 2,
+      "starter": true
+    },
+    {
+      "team": "Witness",
+      "player": "Ladd McConkey",
       "points": 0.0,
       "lineupSlotId": 20,
       "starter": false
@@ -1540,28 +1540,28 @@
       "team": "Witness",
       "player": "Bucky Irving",
       "points": 0.0,
-      "lineupSlotId": 23,
+      "lineupSlotId": 2,
       "starter": true
     },
     {
       "team": "Witness",
       "player": "J.K. Dobbins",
       "points": 0.0,
-      "lineupSlotId": 20,
-      "starter": false
+      "lineupSlotId": 23,
+      "starter": true
     },
     {
       "team": "Witness",
       "player": "RJ Harvey",
       "points": 0.0,
-      "lineupSlotId": 20,
+      "lineupSlotId": 21,
       "starter": false
     },
     {
       "team": "Witness",
       "player": "Tyreek Hill",
       "points": 0.0,
-      "lineupSlotId": 21,
+      "lineupSlotId": 20,
       "starter": false
     }
   ]

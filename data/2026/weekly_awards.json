@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "completed_through_week": 9,
+  "completed_through_week": 10,
   "weeks": [
     {
       "week": 1,
@@ -216,6 +216,30 @@
       "escape_artist": {
         "team": "Witness",
         "margin": 7.36
+      }
+    },
+    {
+      "week": 10,
+      "nuclear_performance": {
+        "team": "Kyle Strandberg",
+        "score": 193.94
+      },
+      "dumpster_fire": {
+        "team": "Scrote Squad",
+        "score": 97.46
+      },
+      "akow": {
+        "winner": "Kyle Strandberg",
+        "victim": "Ulm FC",
+        "margin": 70.68
+      },
+      "heartbreak": {
+        "team": "Scrote Squad",
+        "margin": 1.08
+      },
+      "escape_artist": {
+        "team": "Tush Touching",
+        "margin": 1.08
       }
     }
   ]
