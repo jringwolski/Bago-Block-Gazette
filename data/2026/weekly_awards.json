@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "completed_through_week": 10,
+  "completed_through_week": 11,
   "weeks": [
     {
       "week": 1,
@@ -240,6 +240,30 @@
       "escape_artist": {
         "team": "Tush Touching",
         "margin": 1.08
+      }
+    },
+    {
+      "week": 11,
+      "nuclear_performance": {
+        "team": "Witness",
+        "score": 149.48
+      },
+      "dumpster_fire": {
+        "team": "Tush Touching",
+        "score": 80.26
+      },
+      "akow": {
+        "winner": "Witness",
+        "victim": "Tush Touching",
+        "margin": 69.22
+      },
+      "heartbreak": {
+        "team": "Ditka in a Box",
+        "margin": 4.58
+      },
+      "escape_artist": {
+        "team": "Daejon's Cut List",
+        "margin": 4.58
       }
     }
   ]

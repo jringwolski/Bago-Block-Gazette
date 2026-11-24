@@ -1,27 +1,27 @@
 {
-  "week": 10,
+  "week": 11,
   "game_of_week": {
     "teams": [
-      "Tush Touching",
-      "Scrote Squad"
+      "Daejon's Cut List",
+      "Ditka in a Box"
     ],
-    "margin": 1.08
+    "margin": 4.58
   },
   "ass_kicking": {
-    "winner": "Kyle Strandberg",
-    "victim": "Ulm FC",
-    "margin": 70.68
+    "winner": "Witness",
+    "victim": "Tush Touching",
+    "margin": 69.22
   },
   "high_score": {
-    "team": "Kyle Strandberg",
-    "score": 193.94
+    "team": "Witness",
+    "score": 149.48
   },
   "low_score": {
-    "team": "Scrote Squad",
-    "score": 97.46
+    "team": "Tush Touching",
+    "score": 80.26
   },
   "heartbreaker": {
-    "team": "Scrote Squad",
-    "margin": 1.08
+    "team": "Ditka in a Box",
+    "margin": 4.58
   }
 }
